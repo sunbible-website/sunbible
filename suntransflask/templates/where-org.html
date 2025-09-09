@@ -1,0 +1,769 @@
+{% extends 'base.html' %}
+
+{% block title %} {{ title }} {% endblock %}
+
+{% block content %}
+
+    <!-- Header -->
+    <header id="header" class="ex-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1>PROJECTS</h1>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </header> <!-- end of ex-header -->
+    <!-- end of header -->
+    
+    <!-- Where -->
+	<div id="projects" class="filter">
+		<div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title">WHERE</div>
+                    <h2>Making A Global Impact</h2>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="grid">
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-1"><div class="element-item-overlay"><span>Benin</span></div><img src="{{ url_for('static', filename='images/where_Benin.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-2"><div class="element-item-overlay"><span>Brazil</span></div><img src="{{ url_for('static', filename='images/where_Brazil1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-3"><div class="element-item-overlay"><span>Burkina Faso</span></div><img src="{{ url_for('static', filename='images/where_Burkina Faso1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-4"><div class="element-item-overlay"><span>Burundi</span></div><img src="{{ url_for('static', filename='images/where_Burundi1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-5"><div class="element-item-overlay"><span>Cameroon</span></div><img src="{{ url_for('static', filename='images/where_Cameroon1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-6"><div class="element-item-overlay"><span>Congo</span></div><img src="{{ url_for('static', filename='images/where_Congo1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-7"><div class="element-item-overlay"><span>Cote d’Ivoire</span></div><img src="{{ url_for('static', filename='images/where_Côte d’Ivoire1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-8"><div class="element-item-overlay"><span>Ethiopia</span></div><img src="{{ url_for('static', filename='images/where_Ethiopia1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-9"><div class="element-item-overlay"><span>Ghana</span></div><img src="{{ url_for('static', filename='images/where_Ghana1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-10"><div class="element-item-overlay"><span>India</span></div><img src="{{ url_for('static', filename='images/where_India1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-11"><div class="element-item-overlay"><span>Kenya</span></div><img src="{{ url_for('static', filename='images/where_Kenya1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-12"><div class="element-item-overlay"><span>Lesotho</span></div><img src="{{ url_for('static', filename='images/where_Lesotho1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-13"><div class="element-item-overlay"><span>Malawi</span></div><img src="{{ url_for('static', filename='images/where_Malawi1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-14"><div class="element-item-overlay"><span>Namibia</span></div><img src="{{ url_for('static', filename='images/where_Namibia1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-15"><div class="element-item-overlay"><span>Nigeria</span></div><img src="{{ url_for('static', filename='images/where_Nigeria1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-16"><div class="element-item-overlay"><span>Paraguay</span></div><img src="{{ url_for('static', filename='images/where_Paraguay1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-17"><div class="element-item-overlay"><span>Peru</span></div><img src="{{ url_for('static', filename='images/where_Peru1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-18"><div class="element-item-overlay"><span>Rwanda</span></div><img src="{{ url_for('static', filename='images/where_Rwanda1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-19"><div class="element-item-overlay"><span>São Tomé e Príncipe</span></div><img src="{{ url_for('static', filename='images/where_São Tomé e Príncipe1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-20"><div class="element-item-overlay"><span>Senegal</span></div><img src="{{ url_for('static', filename='images/where_Senegal1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-21"><div class="element-item-overlay"><span>Sierra Leone</span></div><img src="{{ url_for('static', filename='images/where_Sierra Leone1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-22"><div class="element-item-overlay"><span>South Sudan</span></div><img src="{{ url_for('static', filename='images/where_South Sudan1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-23"><div class="element-item-overlay"><span>Swaziland/Eswatini</span></div><img src="{{ url_for('static', filename='images/where_SwazilandEswatini1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-24"><div class="element-item-overlay"><span>Tanzania</span></div><img src="{{ url_for('static', filename='images/where_Tanzania1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-25"><div class="element-item-overlay"><span>Togo</span></div><img src="{{ url_for('static', filename='images/where_Togo1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-26"><div class="element-item-overlay"><span>Uganda</span></div><img src="{{ url_for('static', filename='images/where_Uganda1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-27"><div class="element-item-overlay"><span>Uruguay</span></div><img src="{{ url_for('static', filename='images/where_Uruguay1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-28"><div class="element-item-overlay"><span>Zambia</span></div><img src="{{ url_for('static', filename='images/where_Zambia1.jpg') }}" alt="alternative"></a>
+                        </div>
+                        <div class="element-item">
+                            <a class="popup-with-move-anim" href="#project-29"><div class="element-item-overlay"><span>Fiji</span></div><img src="{{ url_for('static', filename='images/Where_Fiji.jpg') }}" alt="alternative"></a>
+                        </div>
+                    </div> <!-- end of grid -->
+                    <!-- end of filter -->
+                    
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+		</div> <!-- end of container -->
+    </div> <!-- end of filter -->
+    <!-- end of projects -->
+
+
+    <!-- Where Lightboxes -->
+    <!-- Lightbox -->
+    <div id="project-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Benin.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>BENIN</h3>
+                <hr class="line-heading">
+                <h6>Mission Évangélique des Sourds</h6>
+                <p>Benin Sustainable Development Plan that hosts two different sessions each week on Wednesday and Saturdays at Vedoko Deaf Church in Cotonou. Thirty-four people are attending, including twelve new students of SUN. </p>
+                <p>Grace Ballo, the team leader, reports, the review of the thirteen lessons is underway, and the team is super motivated. Participants are really enthusiastic, seeing the program as a personally and spiritually enriching opportunity. </p>
+                 <div class="testimonial-container">
+                    <p class="testimonial-text">It was a miracle and a revival in the church because most of them participated in the SUN program and understood the Scriptures through SUN. We bless the Lord for the SUN program initiated by Wycliffe Associates. </p>
+                    <p class="testimonial-author">Grace Ballo, SUN trainer, Cotonou, Benin </p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Brazil.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>BRAZIL</h3>
+                <hr class="line-heading">
+                <h6>Igreja Evangélica Assemblia de Deus em Belém</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">I just wanted to express my joy and happiness in participating in this course. It was much better than I imagined. I had learned to talk about Jesus to people who would not be reached in any other way because they were often excluded from society. I felt honored and privileged to have this opportunity to learn with you this new language and my greatest desire to be useful in the Kingdom of God. Glory to God for your lives and for this wonderful work.
+                    </p>
+                    <p class="testimonial-author">Adriana Geckle, participant at Belem, Brazil event </p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-3" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Burkina Faso.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>BURKINA FASO</h3>
+                <hr class="line-heading">
+                <h6>Federation of Evangelical Churches and Missions (FEME) with the Assemblies of God Church</h6>
+                <p>Pasteur Rafael shared that they moved their classes to the evenings. Each of the attendees has a day job, and then attend SUN classes in the evenings until 9 pm. We are thankful for their sacrifice, so they can teach others through this program. </p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">Ramde Fadirou, a new convert, shared that he was touched after reading Ephesians 1:4 in SUN, (In Him God chose us before the foundation of the world, that we should be holy and blameless before Him). This was new information for him.</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-4" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Burundi.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>BURUNDI</h3>
+                <hr class="line-heading">
+                <h6>Immanuel Church of the Deaf</h6>
+                <p>Cibitoke, Burundi training ended last December, since then fifteen SUN facilitators organized local trainings in four different municipalities reaching 123 new Deaf students with the program.</p>
+                <p>The SUN leader reports, After learning SUN, the beneficiaries have just set up a followship program in their area on Fridays of every week to learn a lot about the word of God, popularize it, and improve their knowledge about the SUN program. eleven Deaf people who were pagans and did not belong to any religious denomination became Christians; 100% of the beneficiaries do not know how to read the written Bible, they did not know the divine word but for the moment they have a notion of the word of God.</p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-5" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Cameroon.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>CAMEROON</h3>
+                <hr class="line-heading">
+                <h6>Deaf Empowerment Association Cameroon</h6>
+                <div class="testimonial-container">
+<p>The SUN program is a nice and simple program, very important and clear. . .I have been able to 
+understand clearly who God is and who God’s Son is through this SUN program.</p>
+                    <p class="testimonial-author"> – Lum Patience,student of SUN course in Bamenda, Cameroon</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-6" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Congo.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>CONGO</h3>
+                <hr class="line-heading">
+                <h6>Deaf Action Congo</h6>
+                <p></p>
+                <p></p>
+                 <div class="testimonial-container">
+                    <p class="testimonial-text">My name is Marie. I am student of Ephaphata school. I have many non-literatefriends. We do not know how to help them. Prior to SUN workshop here in Kalemie, Ihad never heard about the program before. Attending it and seeing how it is easy tolearn by watching pictures, I remembered those friends and pleased that in the endthey got salvation. I hope to teach them. Thank SUN team for coming, thanksponsors for remembering us, above all thank God for everything.</p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-7" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Côte d’Ivoire.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>COTE D’IVOIRE</h3>
+                <hr class="line-heading">
+                <h6>Eglise Du Christ Internationale CI</h6>
+                <p>Former participants of one event from Cote d’Ivoire continue to read the book of Mark with the SUN symbols in their homes.</p>
+                <p>The facilitators assist them and bring them together in groups of two, three, four etc... according to their respective localities.</p>
+                <p>Other facilitators find classrooms on holidays to bring together some former deaf-mutes to review the symbols.</p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"We are thinking of printing other books of the New Testament to make them available so that they can continue to read the Bible with the symbols."</p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-8" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Ethiopia.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>ETHIOPIA</h3>
+                <hr class="line-heading">
+                <h6>WE-LEAD</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"Learning SUN is incredibly important as it increases one's ability to communicate and improves one's understanding of their own language and invites us into a new world and strengthens our careers. As for me, it has opened me as a leader of deaf community in Shinyanga Region into groups of illiterate deaf and deafblind who I didn’t pay attention before. SUN as easiest system of communication to learn will help them considerably, so have to put our effort to train this group."</p>
+                    <p class="testimonial-author">Deaf Community Leader</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    
+    <!-- Lightbox -->
+    <div id="project-9" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Ghana.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>GHANA</h3>
+                <hr class="line-heading">
+                <h6>Volta Bible College</h6>
+                <p>I was an idolater who did not believe in the gospel before coming to this workshop. I was a follower who followed the religion of my fathers. I was born deaf and mute and never went to school. Today I am 70 years old. My life took a new turn because I gave my life to Jesus and learned to read the Gospel of Mark. To God be the glory. </p>
+                <p></p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                    <p class="testimonial-author">Gidi Kumah, Ho, Ghana participant</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-10" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_India.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>INDIA</h3>
+                <hr class="line-heading">
+                <h6>Progressive Life Center</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"We are blessed to be assigned the task of spreading the Gospel of Christ to the unreached Deaf." </p>
+                    <p class="testimonial-author">Brother Samuel</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-11" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Kenya.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>KENYA</h3>
+                <hr class="line-heading">
+                <h6>Immanuel Church of the Deaf Kenya</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"I am very grateful that SUN came... I spent the next three weeks of my remaining leave … studying hard with my facilitators. During this period, I made great progress not because I can now read and write thanks to SUN, but it raised my status from a simple SUN student and illiterate to that of an expert in SUN symbols which are easier to learn and understand."</p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-12" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Lesotho.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>LESOTHO</h3>
+                <hr class="line-heading">
+                <h6>National Association of the Deaf Lesotho</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-13" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Malawi.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>MALAWI</h3>
+                <hr class="line-heading">
+                <h6>M5 Deaf and Hearing Church of Christ</h6>
+                <p>Two members from Wycliffe Ethiopia traveled to one particular region and met local government leaders. They made the necessary connections in order to hold a SUN workshop there at the end of October.</p>
+                <p>They were also able to meet with underground Christians and share SUN with them as well. The program was received with much joy.</p>
+                 <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-14" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Namibia.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>NAMIBIA</h3>
+                <hr class="line-heading">
+                <h6>Namibian National Association of the Deaf</h6>
+                <p></p>
+                <p></p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">The work of SUN is making a significant impact on the lives of the Deaf, and we praise the Lord for this opportunity. - Paul Nanyeni, National Director of Nambian National Association of the Deaf</p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-15" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Nigeria.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>NIGERIA</h3>
+                <hr class="line-heading">
+                <h6>Voice for the Deaf Foundation</h6>
+                <p>Nigeria Sustainable Development Plan in seven locations including Deaf churches and classrooms. The Deaf churches are growing in number. </p>
+                <p>The SUN leader reports,  The churches initially have quite a number of members. But the far distance of the church from the homes of the members discourages people from attending church services. However, through the help and Grace of God and SUN, the church has been experiencing growth to the Glory of God Almighty. This is because the members are enthusiastic towards knowing more about SUN, being a new style of language to them. We thank God for everything. </p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                    <p class="testimonial-author"></p> 
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-16" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Paraguay.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>PARAGUAY</h3>
+                <hr class="line-heading">
+                <h6>Ministerio Iglesias de Sordos de Paraguay</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"Learning SUN is incredibly important as it increases one's ability to communicate and improves one's understanding of their own language and invites us into a new world and strengthens our careers. As for me, it has opened me as a leader of deaf community in Shinyanga Region into groups of illiterate deaf and deafblind who I didn’t pay attention before. SUN as easiest system of communication to learn will help them considerably, so have to put our effort to train this group."</p>
+                    <p class="testimonial-author">Deaf Community Leader</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+    
+    <div id="project-17" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Peru.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>PERU</h3>
+                <hr class="line-heading">
+                <h6>Iglesia Evangélica Bautista Efata</h6>
+                <p>A ll the participants have been very surprised by the ease of the SUN method to learn signs, the testimony that each one gave after the event was very stimulating since the participants have been taking Peruvian sign language classes every Monday, and they have realized that with this SUN method learning is much easier. They were also moved by the testimonies of each of the deaf trainers, who despite their disability status are still standing giving testimony of their lives and that as deaf people they have come forward and travel everywhere teaching this SUN method and in that way, they are proclaiming the gospel.</p>
+                <p></p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                    <p class="testimonial-author">Pastor Rusbel Gonzales, Peru</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-18" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Rwanda.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>RWANDA</h3>
+                <hr class="line-heading">
+                <h6>Deaf Action Rwanda</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"There may be many people who live in the world questioned themselves how the illiterate Deaf group 
+can be reached by the Gospel in way they can understand better, no worries because we see that God 
+has opened the way through SUN, God loves everyone without leaving anyone behind.
+God be praised forever." </p>
+                    <p class="testimonial-author">Pastor Patrick Tuyishimire, Immanuel Church of the Deaf Rwanda</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-19" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_São Tomé e Príncipe.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>SÃO TOMÉ E PRÍNCIPE</h3>
+                <hr class="line-heading">
+                <h6>Cada Casa de São Tomé e Príncipe</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"I am very grateful that SUN came... I spent the next three weeks of my remaining leave … studying hard with my facilitators. During this period, I made great progress not because I can now read and write thanks to SUN, but it raised my status from a simple SUN student and illiterate to that of an expert in SUN symbols which are easier to learn and understand."</p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-20" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Senegal.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>SENEGAL</h3>
+                <hr class="line-heading">
+                <h6>Assembly of God Church - Pikine</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">Good morning to all of you, thank you for this training SUN, God bless you for SUN. Rafael and Hamade from Burkina Faso come here Senegal to teach us. We learn and understand, thank you. Since Monday we start SUN training, we learn through writing, now we understand clearly, we are happy. From Monday to Friday we study symbols, word and their meanings, all the participants learn, it is clear now to read SUN.  We say thank you. American people made SUN, and God send it to us to learn Bible reading, we understand now. Thank you, we are very happy.</p>
+                    <p class="testimonial-author">Serge K Doamba, deaf teacher of the Deaf, SUN facilitator Senegal </p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-21" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Sierra Leone.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>SIERRA LEONE</h3>
+                <hr class="line-heading">
+                <h6>Deaf Christian Assembly and International Church of Christ</h6>
+                <p>Pastor Paul traveled to Mattru village in the southern part of Sierra Leone to teach SUN for two days. He told us that the new students were so willing to learn and asked him to continue teaching them.</p>
+                <p>He reported, I was really surprised. I believe if I continue there, it will be wonderful and will make it easier for them to learn and understand the Gospel. Pastor Paul celebrated their learning on Christmas Day by giving gifts of treats and awarding certificates to the eager students.</p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-22" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_South Sudan.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>SOUTH SUDAN</h3>
+                <hr class="line-heading">
+                <h6>South Sudan National Deaf Children and Youth</h6>
+                <p></p>
+                <p></p>
+                 <div class="testimonial-container">
+                    <p class="testimonial-text">SSNDCY is so much happy and appreciating GOD above, plus SUN which has changed Deaf lives and getting more interested in SUN programs through spreading the word of GOD. </p>
+                    <p class="testimonial-author"> Miss Anviiko Grace & Josephine Kiden Simon, South Sudan National Deaf Children and Youth</p>
+                </div> 
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-23" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_SwazilandEswatini.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>SWAZILAND/ESWATINI</h3>
+                <hr class="line-heading">
+                <h6>Comfort for Africa</h6>
+                <p></p>
+                <p></p>
+                <p></p>
+                <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                     <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-24" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Tanzania.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>TANZANIA</h3>
+                <hr class="line-heading">
+                <h6>Immanuel Kanisa la Viziwi</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"Learning SUN is incredibly important as it increases one's ability to communicate and improves one's understanding of their own language and invites us into a new world and strengthens our careers. As for me, it has opened me as a leader of deaf community in Shinyanga Region into groups of illiterate deaf and deafblind who I didn’t pay attention before. SUN as easiest system of communication to learn will help them considerably, so have to put our effort to train this group."</p>
+                    <p class="testimonial-author">Deaf Community Leader</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    
+    <!-- Lightbox -->
+    <div id="project-25" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Togo.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>TOGO</h3>
+                <hr class="line-heading">
+                <h6>Eglise Rocher des Ages du Togo</h6>
+                <p>The training changed my way of life by giving me what it was like to read and to teach what I received to other deaf people who had never been to school as well. I am passionate about reading the Bible in symbols. The training woke me up from a sleep and gave me the strength to travel all over my country to share what I learned in this training with others. I can now read Mark's book in symbols that I received during the training very easily. I thank God and Wycliffe Associates for their great beneficial work for us deaf mutes. Once again thank you.</p>
+                <p></p>
+                 <div class="testimonial-container">
+                    <p class="testimonial-text"></p>
+                    <p class="testimonial-author">AHA Solim Audrey, Lome, Togo</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-26" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Uganda.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>UGANDA</h3>
+                <hr class="line-heading">
+                <h6>Amaziba Ministries LTD</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">Am so grateful for this training, it has impacted my life in such a way that I am able to read some Bible verses using the SUN symbols. As an Evangelist and an Education Assistant to the Deaf pupils, am currently sharing the skills I learned to teach the Deaf pupils, since most of them can hardly read the Bible, I believe as I continue teaching them these symbols, they will be able to read the Bible since they have a lot of interest to learn about SUN.</p>
+                    <p class="testimonial-author">Nabulya Faridah, Uganda</p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-27" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Uruguay.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>URUGAY</h3>
+                <hr class="line-heading">
+                <h6></h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">"I am very grateful that SUN came... I spent the next three weeks of my remaining leave … studying hard with my facilitators. During this period, I made great progress not because I can now read and write thanks to SUN, but it raised my status from a simple SUN student and illiterate to that of an expert in SUN symbols which are easier to learn and understand."</p>
+                    <p class="testimonial-author"></p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-28" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/where_Zambia.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>ZAMBIA</h3>
+                <hr class="line-heading">
+                <h6></h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">A mother of a Deaf child cried a lot in the first day of workshop which we were teaching and training about SUN. It touched her heart and she said that the time had come for her daughter to know Jesus.</p>
+                    <p class="testimonial-author">Pastor, Mwansa, Zambia </p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+     <!-- Lightbox -->
+    <div id="project-29" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="{{ url_for('static', filename='images/Where_Fiji1.jpg') }}" alt="alternative">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>FIJI</h3>
+                <hr class="line-heading">
+                <h6>Western Ministry for the Deaf</h6>
+                <div class="testimonial-container">
+                    <p class="testimonial-text">Our first training in the Pacific was a success. Nineteen educators and ministry leaders, from four different regions, were trained.</p>
+                    <p class="testimonial-author">Lautoka, Fiji  </p>
+                </div>
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+    <!-- end of project lightboxes -->
+    
+    
+{% endblock %}

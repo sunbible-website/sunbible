@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+Cache-Control:no-cache;>
+{% extends 'base.html' %}
+
+{% block title %} {{ title }} {% endblock %}
+
+{% block content %}
+
+    <!-- Header -->
+        <header id="header" class="ex-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>SUN Bible Files<br>(PDFs For Download)</h1>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </header> <!-- end of ex-header -->
+    <!-- end of header -->
+    
+    <!--Page Content -->
+    <div class="ex-basic-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="text-container">
+                        <h2>{{code}}</h2>
+                        <p></p>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <ul class="list-unstyled li-space-lg indent">
+                                    <li class="media">
+                                        {{ html_content|safe }}
+                                    </li>
+                                </ul>
+							</div> <!-- end of column -->
+						</div> <!-- end of row -->
+                    </div> <!-- end of text-container-->
+				</div>	
+			</div>		
+		</div>			
+	</div>			
+    
+{% endblock %}

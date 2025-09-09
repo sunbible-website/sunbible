@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+
+    <!-- SEO Meta Tags -->
+
+    <meta name="description" content="SUNTranslation.net is a resource focused landing page to help teachers, trainers, practitoners, and learners teach and use the SUN Bible and language for the deaf.">
+
+    <meta name="author" content="SUN Team">
+
+
+
+    <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+
+	<meta property="og:site_name" content="" /> <!-- website name -->
+
+	<meta property="og:site" content="" https://suntranslation.net> <!-- website link -->
+
+	<meta property="og:title" content=""/> <!-- title shown in the actual shared post -->
+
+	<meta property="og:description" content="" /> <!-- description shown in the actual shared post -->
+
+	<meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
+
+	<meta property="og:url" content="" /> <!-- where do you want your post to link to -->
+
+	<meta property="og:type" content="article" />
+
+
+
+    <!-- Website Title -->
+
+    <title>{% block title %}{% endblock %}</title>
+
+
+
+    <!-- Styles -->
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500,700&display=swap&subset=latin-ext" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600&display=swap&subset=latin-ext" rel="stylesheet">
+
+    <link href="{{ url_for('static', filename='css/bootstrap.css') }}" rel="stylesheet">
+
+    <link href="{{ url_for('static', filename='css/fontawesome-all.css') }}" rel="stylesheet">
+
+    <link href="{{ url_for('static', filename='css/swiper.css') }}" rel="stylesheet">
+
+	<link href="{{ url_for('static', filename='css/magnific-popup.css') }}" rel="stylesheet">
+
+	<link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+
+	
+
+	<!-- Favicon  -->
+
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='images/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='images/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename='images/favicon-16x16.png') }}">
+    <link rel="manifest" href="{{ url_for('static', filename='images/site.webmanifest') }}">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      #more {display: none;}
+      #more1 {display: none;}
+    </style>
+</head>
+
+
+
+<body data-spy="scroll" data-target=".fixed-top">
+
+    
+
+    <!-- Preloader -->
+
+	<div class="spinner-wrapper">
+
+        <div class="spinner">
+
+            <div class="bounce1"></div>
+
+            <div class="bounce2"></div>
+
+            <div class="bounce3"></div>
+
+        </div>
+
+    </div>
+
+    <!-- end of preloader -->
+
+    
+
+
+
+    <!-- Navbar -->
+
+
+
+{% if navindex %}
+
+	{% include "indexnav.html" %} 
+
+{% else %}
+
+	{% include "allothernav.html" %} 
+
+{% endif %}
+
+
+
+    <!-- end of navbar -->
+
+
+
+{% block content %}
+
+
+
+{% endblock %}
+
+
+
+
+
+    <!-- Footer -->
+
+    <div class="footer">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-6">
+
+                    <div class="text-container about">
+                         <h4>A Few Words About SUN</h4>  
+                            <p class="white">We're Passionate About Serving the Deaf and the Deafblind.</p> <br>
+                        <li class="white"><i class="fas fa-map-marker-alt"></i> 11450 Translation Way, Orlando, FL 32862, USA</li>
+                        <li class="white"><i class="fas fa-phone"></i> 1.800.843.9673</li>
+                        <li class="white"><i class="fas fa-phone"></i> 1.800.THE WORD</li>
+
+                    </div> <!-- end of text-container -->
+
+                </div> <!-- end of col -->
+
+                <div class="col-md-6">
+
+                    <div class="text-container">
+
+                        <h4>SUN Links</h4>
+
+                        <ul class="list-unstyled li-space-lg white">
+
+                            <li class="white">
+                                <a class="white" href="https://wycliffeassociates.org/" target="_blank">Wycliffe Associates</a>
+                            </li>
+                            <li class="white">
+                                <a class="white" href="https://bibleineverylanguage.org/processes/sun/" target="_blank">Bible In Every Language</a>
+                            </li>
+                            <li class="white">
+                                <i class="fab fa-youtube"></i><a class="white" href="https://www.youtube.com/@SymbolicUniversalNotation" target="_blank"> SUN on YouTube</a>
+                            </li>
+                            <li class="white">
+                                <i class="fas fa-phone-square"></i><a class="white" href="https://play.google.com/store/apps/details?id=org.wycliffeassociates.suneng&hl=en_US&gl=US" target="_blank"> SUN Android APP</a>
+                            </li>
+                            <li  class="white"><span></span>
+                                <i class="fas fa-donate"></i><a class="p-2 mb-2 bg-danger text-white" href="https://give.wycliffeassociates.org/donate/sun" target="_blank">DONATE</a>
+                            </li>
+
+                        </ul>
+
+                    </div> <!-- end of text-container -->
+
+                </div> <!-- end of col -->
+
+            </div> <!-- end of row -->
+
+        </div> <!-- end of container -->
+
+    </div> <!-- end of footer -->  
+
+    <!-- end of footer -->
+
+
+
+
+
+    <!-- Copyright -->
+
+    <div class="copyright">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-lg-12">
+
+                    <p class="p-small">Copyright © 2023 SUN Content by Wycliffe Associates ... Copyright © 2020 HTML Template by Inovatik</p>
+
+
+                </div> <!-- end of col -->
+
+            </div> <!-- enf of row -->
+
+        </div> <!-- end of container -->
+
+    </div> <!-- end of copyright --> 
+
+    <!-- end of copyright -->
+
+    
+
+    	
+
+    <!-- Scripts -->
+
+    <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
+
+    <script src="{{ url_for('static', filename='js/popper.min.js') }}"></script> <!-- Popper tooltip library for Bootstrap -->
+
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script> <!-- Bootstrap framework -->
+
+    <script src="{{ url_for('static', filename='js/jquery.easing.min.js') }}"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
+
+    <script src="{{ url_for('static', filename='js/swiper.min.js') }}"></script> <!-- Swiper for image and text sliders -->
+
+    <script src="{{ url_for('static', filename='js/jquery.magnific-popup.js') }}"></script> <!-- Magnific Popup for lightboxes -->
+
+    <script src="{{ url_for('static', filename='js/morphext.min.js') }}"></script> <!-- Morphtext rotating text in the header -->
+
+    <script src="{{ url_for('static', filename='js/isotope.pkgd.min.js') }}"></script> <!-- Isotope for filter -->
+
+    <script src="{{ url_for('static', filename='js/validator.min.js') }}"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
+
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script> <!-- Custom scripts -->
+
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+function myFunction1() {
+  var dots = document.getElementById("dots1");
+  var moreText = document.getElementById("more1");
+  var btnText = document.getElementById("myBtn1");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+</body>
+
+</html>

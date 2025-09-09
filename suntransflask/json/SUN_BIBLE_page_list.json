@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "OLD TESTAMENT",
+        "Code": "OldTestament"
+    },
+    {
+        "Name": "NEW TESTAMENT",
+        "Code": "NewTestament"
+    },
+    {
+        "Name": "CATECHISM",
+        "Code": "Catechism"
+    },
+    {
+        "Name": "BIBLE STORIES",
+        "Code": "BibleStories"
+    },
+    {
+        "Name": "DEVOTIONS",
+        "Code": "Devotions"
+    }
+]

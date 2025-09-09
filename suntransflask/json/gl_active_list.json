@@ -1,0 +1,46 @@
+[
+    {
+        "Name": "Afan Oromo-ORM",
+        "Code": "ORM"
+    },
+    {
+        "Name": "Amharic-AMH",
+        "Code": "AMH"
+    },
+    {
+        "Name": "Bahasa Indonesia -IND",
+        "Code": "IND"
+    },
+    {
+        "Name": "English-ENG",
+        "Code": "ENG"
+    },
+    {
+        "Name": "French-African-FRAA",
+        "Code": "FRAA"
+    },
+    {
+        "Name": "Portuguese-African-PORA",
+        "Code": "PORA"
+    },
+    {
+        "Name": "Portuguese-Brazilian-PORB",
+        "Code": "PORB"
+    },
+    {
+        "Name": "Somalia-SOM",
+        "Code": "SOM"
+    },
+    {
+        "Name": "Spanish-Latin Amer.-SPAA",
+        "Code": "SPAA"
+    },
+    {
+        "Name": "Swahili-SWA",
+        "Code": "SWA"
+    },
+    {
+        "Name": "Yoruba-YOR",
+        "Code": "YOR"
+    }
+]

@@ -1,0 +1,346 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+Cache-Control:no-cache;>
+{% extends 'base.html' %}
+
+{% block title %} {{ title }} {% endblock %}
+
+{% block content %}
+    <!-- Header -->
+    <header id="header" class="ex-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>SUN Bible Files<br>(PDFs For Download)</h1>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </header> <!-- end of ex-header -->
+    <!-- end of header -->
+
+
+    <!-- Breadcrumbs -->
+    <!--<div class="ex-basic-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcrumbs">
+                        <a href="{{ url_for('index') }}">Home</a><i class="fa fa-angle-double-right"></i><span>Bible Files</span>
+                    </div>--> <!-- end of breadcrumbs -->
+                <!--</div>--> <!-- end of col -->
+            <!--</div>--> <!-- end of row -->
+        <!--</div>--> <!-- end of container -->
+    <!--</div>--> <!-- end of ex-basic-1 -->
+    <!-- end of breadcrumbs -->
+
+
+    <!-- Page Content -->
+    <div class="ex-basic-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="text-container">
+                    <details>
+                        <summary>
+                        <h2>Old Testament Books</h2>
+                        </summary>
+                        <p></p>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <ul class="list-unstyled li-space-lg indent">
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Genesis.pdf') }}" target = "_blank">Book of Genesis</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Exodus.pdf') }}" target = "_blank">Book of Exodus</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Leviticus.pdf') }}" target = "_blank">Book of Leviticus</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Numbers.pdf') }}" target = "_blank">Book of Numbers</a></div>
+                                    </li>
+                                     <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Deuteronomy.pdf') }}" target = "_blank">Book of Deuteronomy</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Joshua.pdf') }}" target = "_blank">Book of Joshua</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Judges.pdf') }}" target = "_blank">Book of Judges</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Ruth.pdf') }}" target = "_blank">Book of Ruth</a></div>
+                                    </li>
+                                    
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_1_Samuel.pdf') }}" target = "_blank">Book of 1 Samuel</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_2_Samuel.pdf') }}" target = "_blank">Book of 2 Samuel</a></div>
+                                    </li>
+                                     <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_1_Kings.pdf') }}" target = "_blank">Book of 1 Kings</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_2_Kings.pdf') }}" target = "_blank">Book of 2 Kings</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_1_Chronicles.pdf') }}" target = "_blank">Book of 1 Chronicles</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_2_Chronicles.pdf') }}" target = "_blank">Book of 2 Chronicles</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Ezra.pdf') }}" target = "_blank">Book of Ezra</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Nehemiah.pdf') }}" target = "_blank">Book of Nehemiah</a></div>
+                                    </li>
+                                     <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Esther.pdf') }}" target = "_blank">Book of Esther</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Job.pdf') }}" target = "_blank">Book of Job</a></div>
+                                    </li>
+                                     <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Psalms.pdf') }}" target = "_blank">Book of Psalms</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Proverbs.pdf') }}" target = "_blank">Book of Proverbs</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Ecclesiastes.pdf') }}" target = "_blank">Book of Ecclesiastes</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Song_of_Solomon.pdf') }}" target = "_blank">Book of Song of Songs</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Isaiah.pdf') }}" target = "_blank">Book of Isaiah</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Jeremiah.pdf') }}" target = "_blank">Book of Jeremiah</a></div>
+                                    </li>
+                                     <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Lamentations.pdf') }}" target = "_blank">Book of Lamentations</a></div>
+                                    </li>
+                                     <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Ezekiel.pdf') }}" target = "_blank">Book of Ezekiel</a></div>
+                                    </li>
+                                     <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Daniel.pdf') }}" target = "_blank">Book of Daniel</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Hosea.pdf') }}" target = "_blank">Book of Hosea</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Joel.pdf') }}" target = "_blank">Book of Joel</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Amos.pdf') }}" target = "_blank">Book of Amos</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Obadiah.pdf') }}" target = "_blank">Book of Obadiah</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Jonah.pdf') }}" target = "_blank">Book of Jonah</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Micah.pdf') }}" target = "_blank">Book of Micah</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Nahum.pdf') }}" target = "_blank">Book of Nahum</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Habakkuk.pdf') }}" target = "_blank">Book of Habakkuk</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Zephaniah.pdf') }}" target = "_blank">Book of Zephaniah</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Haggai.pdf') }}" target = "_blank">Book of Haggai</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Zechariah.pdf') }}" target = "_blank">Book of Zechariah</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Malachi.pdf') }}" target = "_blank">Book of Malachi</a></div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </details>
+                        <details>
+                            <summary>
+                            <h2>New Testament Books</h2>
+                            </summary>
+                        <p></p>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <ul class="list-unstyled li-space-lg indent">
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Matthew.pdf') }}" target = "_blank">Book of Matthew</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Mark.pdf') }}" target = "_blank">Book of Mark</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Luke.pdf') }}" target = "_blank">Book of Luke</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_John.pdf') }}" target = "_blank">Book of John</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Acts.pdf') }}" target = "_blank">Book of Acts</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Romans.pdf') }}" target = "_blank">Book of Romans</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_1_Corinthians.pdf') }}" target = "_blank">Book of 1 Corinthians</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_2_Corinthians.pdf') }}" target = "_blank">Book of 2 Corinthians</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Galatians.pdf') }}" target = "_blank">Book of Galatians</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Ephesians.pdf') }}" target = "_blank">Book of Ephesians</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Philippians.pdf') }}" target = "_blank">Book of Philippians</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Colossians.pdf') }}" target = "_blank">Book of Colossians</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_1_Thessalonians.pdf') }}" target = "_blank">Book of 1 Thessalonians</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_2_Thessalonians.pdf') }}" target = "_blank">Book of 2 Thessalonians</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_1_Timothy.pdf') }}" target = "_blank">Book of 1 Timothy</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_2_Timothy.pdf') }}" target = "_blank">Book of 2 Timothy</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Titus.pdf') }}" target = "_blank">Book of Titus</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Philemon.pdf') }}" target = "_blank">Book of Philemon</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Hebrews.pdf') }}" target = "_blank">Book of Hebrews</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_James.pdf') }}" target = "_blank">Book of James</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_1_Peter.pdf') }}" target = "_blank">Book of 1 Peter</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_2_Peter.pdf') }}" target = "_blank">Book of 2 Peter</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_1_John.pdf') }}" target = "_blank">Book of 1 John</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_2_John.pdf') }}" target = "_blank">Book of 2 John</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_3_John.pdf') }}" target = "_blank">Book of 3 John</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Jude.pdf') }}" target = "_blank">Book of Jude</a></div>
+                                    </li>
+                                    <li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Book_of_Revelation.pdf') }}">Book of Revelation</a></div>
+                                    </li>
+									<li class="media">
+                                        <i class="fas fa-square"></i>
+                                        <div class="media-body"><a href="{{ url_for('static', filename='bible/SUN_Full_New_Testament.pdf') }}" target = "_blank">Full New Testament</a></div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        </details>
+
+                    </div> <!-- end of text-container-->
+                </div> <!-- end of col-lg-12 container-->
+            </div> <!-- end of row container-->
+        </div> <!-- end of 'coontainer' container-->
+    </div> <!-- end of ex-basic-2 container-->
+
+    <!-- End of Page Content -->
+
+{% endblock %}

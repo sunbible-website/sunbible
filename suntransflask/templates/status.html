@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+{% block title %} {{ title }} {% endblock %}
+{% block content %}
+    <!-- Header -->
+    <header id="header" class="ex-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Translation Status</h1>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </header> <!-- end of ex-header -->
+    <!-- end of header -->
+<style>
+		table {
+		
+			border:3px ridge #09343e;
+			border-collapse:collapse;
+			border-spacing:13px;
+			padding:5px;
+		}
+		table th {
+			border:3px ridge #09343e;
+			font-size: 24px;
+            font-weight: bold;
+			text-align:center;
+			padding:5px;
+			background: #033b49;
+			color: #ffffff;
+		}
+		table td {
+			border:3px ridge #09343e;
+			font-size: 18px;
+            font-weight: bold;
+			text-align:left;
+			padding:5px;
+			background: #ffffff;
+			color: #313030;
+		}
+	    .usablecheck {
+             background: yellow;
+        }
+
+        .completecheck{
+            background-color: green;
+        }
+</style>
+<p></p>
+   <center>
+        {{ html_table|safe }}
+    </center>
+<p></p>
+<script>
+        // Center-align specific columns
+        document.addEventListener('DOMContentLoaded', function () {
+            const table = document.querySelector('table');
+            if (table) {
+                const colIndexesToCenter = []; // Array to hold column indexes
+                const headers = table.querySelectorAll('th');
+
+                // Determine column indexes for specific headers
+                headers.forEach((header, index) => {
+                    if (['Gram', 'How', 'TL', 'Fac'].includes(header.textContent.trim())) {
+                        colIndexesToCenter.push(index);
+                    }
+                });
+
+                // Align cells in the determined columns
+                const rows = table.querySelectorAll('tr');
+                rows.forEach(row => {
+                    const cells = row.querySelectorAll('td');
+                    colIndexesToCenter.forEach(index => {
+                        if (cells[index]) {
+                            cells[index].style.textAlign = 'center';
+                        }
+                    });
+                });
+            }
+        });
+    </script>
+{% endblock %}

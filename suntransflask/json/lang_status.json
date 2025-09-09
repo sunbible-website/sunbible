@@ -1,0 +1,242 @@
+[
+    {
+        "Name": "Afan Oromo",
+        "Code": "ORM",
+        "Status": "Complete",
+        "Percent Translated": 100,
+        "Gram": "X",
+        "How": "X", 
+        "TL": "X",
+        "Fac": "X"
+    },
+    {
+        "Name": "Amharic",
+        "Code": "AMH",
+        "Status": "Useable",
+        "Percent_Translated": 100,
+        "Gram": "X",
+        "How": "X",
+        "TL": "X",
+        "Fac": " "
+    },
+    {
+        "Name": "Arabic",
+        "Code": "ARB",
+        "Status": "Started",
+        "Percent_Translated": 25,
+        "Gram": " ",
+        "How": "X",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Bahasa Indonesia ",
+        "Code": "IND",
+        "Status": "Useable",
+        "Percent_Translated": 26,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Bislama",
+        "Code": "BIS",
+        "Status": "Started",
+        "Percent_Translated": 21,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Cebuano",
+        "Code": "CEB",
+        "Status": "Started",
+        "Percent_Translated": 0,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "English",
+        "Code": "ENG",
+        "Status": "Complete",
+        "Percent_Translated": 100,
+        "Gram": "X",
+        "How": "X",
+        "TL": "X",
+        "Fac": "X"
+    },
+    {
+        "Name": "French-African",
+        "Code": "FRAA",
+        "Status": "Complete",
+        "Percent_Translated": 100,
+        "Gram": "X",
+        "How": "X",
+        "TL": "X",
+        "Fac": "X"
+    },
+    {
+        "Name": "Ilocano",
+        "Code": "ILO",
+        "Status": "Started",
+        "Percent_Translated": 21,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Kirundi",
+        "Code": "RUN",
+        "Status": "Started",
+        "Percent_Translated": 0,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Malawi_Nyanja",
+        "Code": "MNYA",
+        "Status": "Started",
+        "Percent_Translated": 26,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Portuguese-African",
+        "Code": "PORA",
+        "Status": "Useable",
+        "Percent_Translated": 100,
+        "Gram": "X",
+        "How": "X",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Portuguese-Brazilian",
+        "Code": "PORB",
+        "Status": "Complete",
+        "Percent_Translated": 99,
+        "Gram": "X",
+        "How": "X",
+        "TL": "X",
+        "Fac": " "
+    },
+    {
+        "Name": "Russian",
+        "Code": "RUS",
+        "Status": "Started",
+        "Percent_Translated": 100,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Simple Mandarin",
+        "Code": "CMNS",
+        "Status": "Started",
+        "Percent_Translated": 71,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Sinhala, Sinhalese ",
+        "Code": "SIN",
+        "Status": "Started",
+        "Percent_Translated": 0,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Somalia",
+        "Code": "SOM",
+        "Status": "Useable",
+        "Percent_Translated": 26,
+        "Gram": "X",
+        "How": "X",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Spanish-Latin Amer.",
+        "Code": "SPAA",
+        "Status": "Useable",
+        "Percent_Translated": 100,
+        "Gram": "X",
+        "How": "X",
+        "TL": "X",
+        "Fac": " "
+    },
+    {
+        "Name": "Spanish (Cast)",
+        "Code": "SPA",
+        "Status": "Started",
+        "Percent_Translated": 99,
+        "Gram": " ",
+        "How": "X",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Swahili",
+        "Code": "SWA",
+        "Status": "Useable",
+        "Percent_Translated": 100,
+        "Gram": "X",
+        "How": "X",
+        "TL": "X",
+        "Fac": "X"
+    },
+    {
+        "Name": "Tagalog",
+        "Code": "TGL",
+        "Status": "Started",
+        "Percent_Translated": 25,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Tamil",
+        "Code": "TAM",
+        "Status": "Started",
+        "Percent_Translated": 4,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Urdu (Pakistan)",
+        "Code": "URDP",
+        "Status": "Started",
+        "Percent_Translated": 0,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    },
+    {
+        "Name": "Yoruba",
+        "Code": "YOR",
+        "Status": "Useable",
+        "Percent_Translated": 100,
+        "Gram": " ",
+        "How": " ",
+        "TL": " ",
+        "Fac": " "
+    }
+]

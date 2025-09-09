@@ -1,0 +1,3802 @@
+store(&VERSION) '9.0'
+store(&TARGETS) 'any widows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
+store(&KEYBOARDVERSION) '090022'
+store(&LAYOUTFILE) 'Sun2-layout.js'
+store(&NAME) 'Sun22_07_08'
+begin Unicode > use(main)
+
+group(main) using keys
+'Aaron' + ']' > U+eb0d  c  Acts 7:40
+'Abarim' + ']' > U+e38b  c  Numbers 27:12
+'Abda' + ']' > U+e7e3  c  1 Kings 4:6
+'Abdeel' + ']' > U+e8fc  c  Jeremiah 36:26
+'Abdi' + ']' > U+e698  c  1 Chronicles 6:44
+'Abdiel' + ']' > U+e626  c  1 Chronicles 5:15
+'Abdon man' + ']' > U+e51c  c  Judges 12:13
+'Abdon village' + ']' > U+e605  c  Joshua 21:30
+'Abel' + ']' > U+ea96  c  Genesis 4:25
+'Abel Beth Maakah' + ']' > U+e5cb  c  1 Kings 15:20
+'Abel Keramim' + ']' > U+e558  c  Judges 11:33
+'Abel Meholah' + ']' > U+e5c3  c  Judges 7:22
+'Abel Mizraim' + ']' > U+efa9  c  Genesis 50:11
+'Abiasaph' + ']' > U+e2dd  c  Exodus 6:24
+'Abiathar' + ']' > U+e35f  c  Mark 2:26
+'Abida' + ']' > U+eef8  c  Genesis 25:4
+'Abidan' + ']' > U+e1f7  c  Numbers 1:11
+'abide' + ']' > U+e17b
+'Abiel' + ']' > U+e7dc  c  1 Samuel 14:51
+'Abiezer' + ']' > U+e464  c  Joshua 17:2
+'Abigail' + ']' > U+e5c4  c  1 Samuel 25:3
+'Abihail man' + ']' > U+e1f8  c  Numbers 3:35
+'Abihail woman' + ']' > U+ef15  c  2 Chronicles 11:18
+'Abihu' + ']' > U+e2de  c  Exodus 28:1
+'Abihud' + ']' > U+e699  c  1 Chronicles 8:3
+'Abijah man' + ']' > U+ea5b  c  Luke 1:5
+'Abijah woman' + ']' > U+e613  c  2 Kings 18:2
+'Abilene' + ']' > U+ec4d  c  Luke 3:1
+'Abimael' + ']' > U+e0fb  c  Genesis 10:28
+'Abimelech' + ']' > U+e0ab  c  Genesis 26:1
+'Abinadab' + ']' > U+e4e6  c  1 Samuel 7:1
+'Abinoam' + ']' > U+e56b  c  Judges 5:12
+'Abiram' + ']' > U+e480  c  Numbers 16:1
+'Abishag' + ']' > U+e4ac  c  1 Kings 1:3
+'Abishai' + ']' > U+e6cb  c  1 Samuel 26:9
+'Abishua' + ']' > U+e69a  c  1 Chronicles 6:4
+'Abishur' + ']' > U+e753  c  1 Chronicles 2:28
+'Abital' + ']' > U+e721  c  1 Chronicles 3:3
+'Abitub' + ']' > U+e65f  c  1 Chronicles 8:11
+'Abiud' + ']' > U+ea6a  c  Matthew 1:13
+'Abner' + ']' > U+e484  c  1 Samuel 14:50
+'abomination' + ']' > U+e0a4
+'about' + ']' > U+e11b
+'above' + ']' > U+e110
+'Abraham' + ']' > U+e373  c  Matthew 1:1
+'Abram' + ']' > U+e1d1  c  Genesis 12:1
+'Abronah' + ']' > U+e3d6  c  Numbers 33:34
+'Absalom' + ']' > U+e4ad  c  1 Kings 1:6
+'abyss' + ']' > U+ec4e  c  Luke 8:31
+'according to' + ']' > U+e24d
+'accuse' + ']' > U+e055
+'Achaia' + ']' > U+eb7c  c  Acts 18:12
+'Achaicus' + ']' > U+eca5  c  1 Corinthians 16:17
+'Achan' + ']' > U+e4f5  c  Joshua 7:1
+'Achim' + ']' > U+ea6e  c  Matthew 1:14
+'Achish' + ']' > U+e45e  c  1 Samuel 21:10
+'Achor' + ']' > U+e4cc  c  Joshua 15:7
+'Adadah' + ']' > U+e4cd  c  Joshua 15:22
+'Adah' + ']' > U+eda7  c  Genesis 4:19
+'Adaiah' + ']' > U+e5f4  c  1 Chronicles 9:12
+'Adam man' + ']' > U+ec4f  c  Genesis 2:20
+'Adam village' + ']' > U+e4f6  c  Joshua 3:16
+'Adamah' + ']' > U+e5a1  c  Joshua 19:36
+'Adami Nekeb' + ']' > U+e5b1  c  Joshua 19:33
+'Adbeel' + ']' > U+e0fe  c  Genesis 25:13
+'Addar' + ']' > U+e4ce  c  Joshua 15:3
+'Addi' + ']' > U+ec50  c  Luke 3:28
+'Addumim' + ']' > U+e4cf  c  Joshua 15:7
+'Adiel' + ']' > U+e5f5  c  1 Chronicles 9:12
+'Adin' + ']' > U+e826  c  Ezra 2:15
+'Adina' + ']' > U+e7fc  c  1 Chronicles 11:42
+'Adithaim' + ']' > U+e4d0  c  Joshua 15:36
+'Adlai' + ']' > U+e87b  c  1 Chronicles 27:29
+'Admah' + ']' > U+eda8  c  Genesis 10:19
+'Admin' + ']' > U+ec51  c  Luke 3:33
+'Adnah' + ']' > U+e782  c  2 Chronicles 17:14
+'Adoni Zedek' + ']' > U+e427  c  Joshua 10:1
+'Adonijah' + ']' > U+e4ae  c  1 Kings 1:5
+'Adoniram' + ']' > U+e7e4  c  1 Kings 4:6
+'adopt' + ']' > U+e177
+'Adoraim' + ']' > U+e74f  c  2 Chronicles 11:9
+'Adrammelek' + ']' > U+e6a2  c  2 Kings 17:31
+'Adramyttium' + ']' > U+eb93  c  Acts 27:2
+'Adriatic Sea' + ']' > U+ec17  c  Acts 27:27
+'Adriel' + ']' > U+e5c5  c  1 Samuel 18:19
+'Adullam' + ']' > U+efaa  c  2 Samuel 23:13
+'adultery' + ']' > U+e027
+'Aeneas' + ']' > U+ec2a  c  Acts 9:33
+'Aenon' + ']' > U+eba1  c  John 3:23
+'afraid' + ']' > U+e056
+'after' + ']' > U+e11d
+'Agabus' + ']' > U+eb89  c  Acts 11:28
+'Agag' + ']' > U+e3e0  c  Numbers 24:7
+'against' + ']' > U+e330
+'Agee' + ']' > U+e7f1  c  2 Samuel 23:11
+'Agrippa' + ']' > U+eb9d  c  Acts 25:13
+'Agur' + ']' > U+e6c8  c  Proverbs 30:1
+'Ahab' + ']' > U+e60d  c  Micah 6:16
+'Aharhel' + ']' > U+e722  c  1 Chronicles 4:8
+'Ahasbai' + ']' > U+e7f2  c  2 Samuel 23:34
+'Ahasuerus' + ']' > U+e48f  c  Esther 1:1
+'Ahava' + ']' > U+e975  c  Ezra 8:15
+'Ahaz' + ']' > U+ea61  c  Matthew 1:9
+'Ahaziah' + ']' > U+e614  c  2 Kings 1:2
+'Ahban' + ']' > U+e754  c  1 Chronicles 2:29
+'Ahi' + ']' > U+e627  c  1 Chronicles 5:15
+'Ahiam' + ']' > U+e7fd  c  1 Chronicles 11:35
+'Ahian' + ']' > U+e757  c  1 Chronicles 7:19
+'Ahiezer' + ']' > U+e2ab  c  Numbers 1:12
+'Ahihud' + ']' > U+e3e1  c  Numbers 34:27
+'Ahijah' + ']' > U+e7e5  c  1 Kings 4:3
+'Ahikam' + ']' > U+e689  c  2 Kings 22:12
+'Ahilud' + ']' > U+e7e6  c  1 Kings 4:3
+'Ahimaaz' + ']' > U+e7e7  c  1 Kings 4:15
+'Ahiman' + ']' > U+e2ac  c  Numbers 13:22
+'Ahimelech' + ']' > U+e45f  c  1 Samuel 21:1
+'Ahimoth' + ']' > U+e660  c  1 Chronicles 6:25
+'Ahinadab' + ']' > U+e7e8  c  1 Kings 4:14
+'Ahinoam' + ']' > U+e7e9  c  1 Samuel 25:43
+'Ahio' + ']' > U+e5f6  c  1 Chronicles 9:37
+'Ahira' + ']' > U+e2f4  c  Numbers 1:15
+'Ahiram' + ']' > U+e3a1  c  Numbers 26:38
+'Ahisamak' + ']' > U+e0bb  c  Exodus 31:6
+'Ahishahar' + ']' > U+e758  c  1 Chronicles 7:10
+'Ahishar' + ']' > U+e960  c  1 Kings 4:6
+'Ahithophel' + ']' > U+e7f3  c  2 Samuel 16:15
+'Ahitub' + ']' > U+e7dd  c  1 Samuel 14:3
+'Ahlab' + ']' > U+e56c  c  Judges 1:31
+'Ahlai' + ']' > U+e759  c  1 Chronicles 2:31
+'Ahumai' + ']' > U+e723  c  1 Chronicles 4:2
+'Ahuzzam' + ']' > U+e724  c  1 Chronicles 4:6
+'Ahuzzath' + ']' > U+eda9  c  Genesis 26:26
+'Ahzai' + ']' > U+e87f  c  Nehemiah 11:13
+'Ai' + ']' > U+edaa  c  Genesis 13:3
+'Aiah' + ']' > U+e0fd  c  Genesis 36:24
+'Aijalon' + ']' > U+e428  c  Joshua 10:12
+'Ain' + ']' > U+e3e6  c  Numbers 34:11
+'air' + ']' > U+e312
+'Akan' + ']' > U+efe5  c  Genesis 36:27
+'Akbor' + ']' > U+e0ed  c  Genesis 36:38
+'Akkad' + ']' > U+edab  c  Genesis 10:10
+'Akko' + ']' > U+e56d  c  Judges 1:31
+'Akkub' + ']' > U+e725  c  1 Chronicles 3:24
+'Akrabbim' + ']' > U+e3d7  c  Numbers 34:4
+'Aksah' + ']' > U+e4d1  c  Joshua 15:16
+'Akshaph' + ']' > U+e43b  c  Joshua 12:20
+'Akzib' + ']' > U+e48e  c  Micah 1:14
+'alabaster' + ']' > U+e0d4
+'Alemeth man' + ']' > U+e5f8  c  1 Chronicles 9:42
+'Alexander' + ']' > U+ea14  c  Acts 19:33
+'Alexandria' + ']' > U+eb5a  c  Acts 18:24
+'alive' + ']' > U+e09f
+'all' + ']' > U+e251
+'Allammelek' + ']' > U+e5a9  c  Joshua 19:26
+'Allon' + ']' > U+e700  c  1 Chronicles 4:37
+'Allon Bakuth' + ']' > U+efab  c  Genesis 35:8
+'allow' + ']' > U+e04a
+'Almodad' + ']' > U+edac  c  Genesis 10:26
+'Almon' + ']' > U+e4f7  c  Joshua 21:18
+'Almon Diblathaim' + ']' > U+e3d8  c  Numbers 33:46
+'alone' + ']' > U+e223
+'Alphaeus' + ']' > U+ec24  c  Acts 1:13
+'altar' + ']' > U+ea3c  c  Genesis 8:20
+'Alush' + ']' > U+e3d9  c  Numbers 33:13
+'Alvah' + ']' > U+efe6  c  Genesis 36:40
+'Alvan' + ']' > U+efe8  c  Genesis 36:23
+'always' + ']' > U+e252
+'Amad' + ']' > U+e59a  c  Joshua 19:26
+'Amal' + ']' > U+e75a  c  1 Chronicles 7:35
+'Amalek man' + ']' > U+efe9  c  Genesis 36:12
+'Amam' + ']' > U+e4d2  c  Joshua 15:26
+'Amariah' + ']' > U+e526  c  Zephaniah 1:1
+'Amasa' + ']' > U+e961  c  1 Kings 2:5
+'Amasai' + ']' > U+e661  c  1 Chronicles 6:25
+'Amashsai' + ']' > U+e880  c  Nehemiah 11:13
+'Amasiah' + ']' > U+e783  c  2 Chronicles 17:16
+'amazed' + ']' > U+e14a
+'Amaziah' + ']' > U+e450  c  2 Kings 12:21
+'ambassador' + ']' > U+ebfd
+'amen' + ']' > U+e100
+'Amittai' + ']' > U+e1cf  c  Jonah 1:1
+'Ammah' + ']' > U+e6d3  c  2 Samuel 2:24
+'Ammiel' + ']' > U+e2ad  c  Numbers 13:12
+'Ammihud' + ']' > U+e2ae  c  Numbers 1:10
+'Amminadab' + ']' > U+ea51  c  Matthew 1:4
+'Ammishaddai' + ']' > U+e2af  c  Numbers 1:12
+'Ammizabad' + ']' > U+e87c  c  1 Chronicles 27:6
+'Ammon' + ']' > U+edae  c  Genesis 19:38
+'Amnon' + ']' > U+e727  c  1 Chronicles 3:1
+'Amok' + ']' > U+e881  c  Nehemiah 12:20
+'Amon' + ']' > U+ea64  c  2 Kings 21:19
+'Amorites' + ']' > U+edaf  c  Genesis 10:16
+'Amos' + ']' > U+ec47  c  Amos 1:1
+'Amoz' + ']' > U+e5ca  c  Isaiah 1:1
+'Amphipolis' + ']' > U+eb2e  c  Acts 17:1
+'Ampliatus' + ']' > U+ebb9  c  Romans 16:8
+'Amram' + ']' > U+e2df  c  Exodus 6:18
+'Amraphel' + ']' > U+edb1  c  Genesis 14:1
+'Anab' + ']' > U+e4d3  c  Joshua 15:50
+'Anah' + ']' > U+e0ba  c  Genesis 36:2
+'Anaharath' + ']' > U+e59b  c  Joshua 19:19
+'Anaiah' + ']' > U+ef29  c  Nehemiah 8:4
+'Anak' + ']' > U+e2b0  c  Numbers 13:22
+'Anam' + ']' > U+edb2  c  Genesis 10:13
+'Anan' + ']' > U+e882  c  Nehemiah 10:26
+'Anani' + ']' > U+e702  c  1 Chronicles 3:24
+'Ananiah man' + ']' > U+e883  c  Nehemiah 3:23
+'Ananiah village' + ']' > U+ef27  c  Nehemiah 11:32
+'Ananias' + ']' > U+eb65  c  Acts 23:2
+'Anath' + ']' > U+e56e  c  Judges 5:6
+'Anathoth man' + ']' > U+e75b  c  1 Chronicles 7:8
+'Anathoth village' + ']' > U+e4f8  c  Joshua 21:18
+'ancestor' + ']' > U+ec80
+'and' + ']' > U+e11c
+'Andrew' + ']' > U+e357  c  Matthew 4:18
+'Andronicus' + ']' > U+ebba  c  Romans 16:7
+'Aner man' + ']' > U+edb3  c  Genesis 14:13
+'angel' + ']' > U+e0a7
+'anger' + ']' > U+e204
+'Aniam' + ']' > U+e75c  c  1 Chronicles 7:19
+'Anim' + ']' > U+e4d4  c  Joshua 15:50
+'animal' + ']' > U+e102
+'Anna' + ']' > U+eb02  c  Luke 2:36
+'Annas' + ']' > U+eb63  c  Acts 4:6
+'anointed' + ']' > U+e033
+'another' + ']' > U+ebf2
+'Anthothijah' + ']' > U+e662  c  1 Chronicles 8:24
+'Antichrist' + ']' > U+ed0e  c  1 John 4:3
+'Antioch' + ']' > U+eb58  c  Acts 6:5
+'Antipas' + ']' > U+ec01  c  Revelation 2:13
+'Antipatris' + ']' > U+eb9a  c  Acts 23:31
+'Anub' + ']' > U+e703  c  1 Chronicles 4:8
+'Apelles' + ']' > U+ebbb  c  Romans 16:10
+'Aphek' + ']' > U+e43c  c  Joshua 12:18
+'Aphekah' + ']' > U+e4d5  c  Joshua 15:53
+'Aphiah' + ']' > U+e6cc  c  1 Samuel 9:1
+'Apollonia' + ']' > U+eb30  c  Acts 17:1
+'Apollos' + ']' > U+eb3e  c  Acts 18:24
+'apostle' + ']' > U+ebef
+'Appaim' + ']' > U+e75d  c  1 Chronicles 2:30
+'Apphia' + ']' > U+ecf1  c  Philemon 1:2
+'appointed' + ']' > U+e041
+'Aquila' + ']' > U+eb17  c  Acts 18:2
+'Ar' + ']' > U+e3a2  c  Numbers 21:15
+'Ara' + ']' > U+e75e  c  1 Chronicles 7:38
+'Arab' + ']' > U+e4d6  c  Joshua 15:52
+'Arabia' + ']' > U+eb77  c  Galatians 1:17
+'Arad man' + ']' > U+e3a3  c  1 Chronicles 8:15
+'Arad village' + ']' > U+e3e7  c  Numbers 33:40
+'Arah land' + ']' > U+e545  c  Joshua 13:4
+'Arah man' + ']' > U+e75f  c  1 Chronicles 7:39
+'Aram man' + ']' > U+edb4  c  Genesis 10:22
+'Aran' + ']' > U+e0fa  c  Genesis 36:28
+'Ararat' + ']' > U+edb5  c  Genesis 8:4
+'Araunah' + ']' > U+e7f4  c  2 Samuel 24:16
+'Archippus' + ']' > U+ece7  c  Colossians 4:17
+'Ard' + ']' > U+e0ff  c  Genesis 46:21
+'Ardon' + ']' > U+e760  c  1 Chronicles 2:18
+'Areli' + ']' > U+efac  c  Genesis 46:16
+'Areopagus' + ']' > U+ec35  c  Acts 17:19
+'Aretas' + ']' > U+eca6  c  2 Corinthians 11:32
+'Argob land' + ']' > U+e495  c  Deuteronomy 3:4
+'Argob man' + ']' > U+e71e  c  2 Kings 15:25
+'argument' + ']' > U+e057
+'Arieh' + ']' > U+e6a3  c  2 Kings 15:25
+'Ariel' + ']' > U+e7fe  c  Ezra 8:16
+'Arimathea' + ']' > U+e34d  c  Matthew 27:57
+'Arioch' + ']' > U+edb6  c  Genesis 14:1
+'arise' + ']' > U+e322
+'Aristarchus' + ']' > U+ec10  c  Acts 20:4
+'Aristobulus' + ']' > U+ebbc  c  Romans 16:10
+'Arkites' + ']' > U+edb7  c  Genesis 10:17
+'arm' + ']' > U+e14e
+'Armoni' + ']' > U+e752  c  2 Samuel 21:8
+'armor' + ']' > U+ebbd
+'Arnan' + ']' > U+e704  c  1 Chronicles 3:21
+'Arni' + ']' > U+ec52  c  Luke 3:33
+'Arnon' + ']' > U+e2f5  c  Numbers 21:13
+'Arodi' + ']' > U+e168  c  Genesis 46:16
+'Aroer' + ']' > U+e3c5  c  Numbers 32:34
+'around' + ']' > U+e31b
+'Arpad' + ']' > U+e615  c  2 Kings 18:34
+'Arphaxad' + ']' > U+ec53  c  Luke 3:36
+'arrow' + ']' > U+ecbf
+'Artaxerxes' + ']' > U+e884  c  Nehemiah 2:1
+'Artemas' + ']' > U+ec34  c  Acts 19:24
+'Arubboth' + ']' > U+e962  c  1 Kings 4:10
+'Arumah' + ']' > U+e56f  c  Judges 9:41
+'Arvad' + ']' > U+edb8  c  Genesis 10:18
+'Arza' + ']' > U+e690  c  1 Kings 16:9
+'Asa' + ']' > U+ea5c  c  1 Kings 15:9
+'Asahel' + ']' > U+e6d4  c  2 Samuel 2:18
+'Asaiah' + ']' > U+e5f9  c  1 Chronicles 9:5
+'Asaph' + ']' > U+e5fa  c  2 Chronicles 29:30
+'Asarel' + ']' > U+e705  c  1 Chronicles 4:16
+'Asenath' + ']' > U+efad  c  Genesis 41:45
+'ash' + ']' > U+ea90
+'ashamed' + ']' > U+e05f
+'Ashan' + ']' > U+e4d7  c  Joshua 15:42
+'Asharelah' + ']' > U+e87d  c  1 Chronicles 25:2
+'Ashbel' + ']' > U+efae  c  Genesis 46:21
+'Ashdod' + ']' > U+e451  c  Joshua 11:22
+'Asher land' + ']' > U+e606  c  Joshua 17:7
+'Asher man' + ']' > U+ebde  c  Genesis 30:13
+'Asherah' + ']' > U+e0bc  c  Exodus 34:13
+'Ashhur' + ']' > U+ebdd  c  1 Chronicles 2:24
+'Ashkelon' + ']' > U+e452  c  Judges 13:3
+'Ashkenaz' + ']' > U+edb9  c  Genesis 10:3
+'Ashnah' + ']' > U+e4d8  c  Joshua 15:33
+'Ashpenaz' + ']' > U+e867  c  Daniel 1:3
+'Ashtaroth' + ']' > U+e429  c  Joshua 9:10
+'Ashtiroth Karnaim' + ']' > U+edba  c  Genesis 14:5
+'Ashur land' + ']' > U+e0ef  c  Ezekiel 27:23
+'Ashur man' + ']' > U+edbb  c  Genesis 10:22
+'Ashurbanipal' + ']' > U+e923  c  Ezra 4:10
+'Ashvath' + ']' > U+e761  c  1 Chronicles 7:33
+'Asia' + ']' > U+eb6f  c  Acts 6:9
+'Asiel' + ']' > U+e706  c  1 Chronicles 4:35
+'Asnah' + ']' > U+e827  c  Ezra 2:50
+'Asriel' + ']' > U+e3a4  c  Numbers 26:31
+'Asshurites' + ']' > U+e1ef  c  Genesis 25:3
+'Assir' + ']' > U+e2bf  c  Exodus 6:24
+'Assos' + ']' > U+eb20  c  Acts 20:13
+'assurance' + ']' > U+e070
+'Assyria' + ']' > U+edbc  c  Genesis 10:11
+'Asyncritius' + ']' > U+ebbe  c  Romans 16:14
+'Atad' + ']' > U+efaf  c  Genesis 50:10
+'Atarah' + ']' > U+e762  c  1 Chronicles 2:26
+'Ataroth' + ']' > U+e3c6  c  Numbers 32:3
+'Ataroth Addar' + ']' > U+e465  c  Joshua 16:5
+'Ataroth Shophan' + ']' > U+e3c7  c  Numbers 32:35
+'Ater' + ']' > U+e828  c  Ezra 2:16
+'Athaiah' + ']' > U+e885  c  Nehemiah 11:4
+'Athaliah man' + ']' > U+e663  c  1 Chronicles 8:26
+'Athaliah woman' + ']' > U+e616  c  2 Kings 11:1
+'Atharim' + ']' > U+e3a5  c  Numbers 21:1
+'Athens' + ']' > U+eb07  c  Acts 17:15
+'Athlai' + ']' > U+e924  c  Ezra 10:28
+'Attai' + ']' > U+e750  c  2 Chronicles 11:20
+'Attalia' + ']' > U+eb31  c  Acts 14:25
+'authority' + ']' > U+e034
+'avenge' + ']' > U+ed0c
+'Avith' + ']' > U+efea  c  Genesis 36:35
+'Avvites' + ']' > U+e496  c  2 Kings 17:31
+'awake' + ']' > U+ec54
+'away' + ']' > U+e11e
+'Awel Marduk' + ']' > U+e7cc  c  2 Kings 25:27
+'Azaliah' + ']' > U+e68a  c  2 Kings 22:3
+'Azaniah' + ']' > U+e886  c  Nehemiah 3:23
+'Azarel' + ']' > U+e7ff  c  1 Chronicles 12:6
+'Azariah' + ']' > U+e972  c  1 Chronicles 2:8
+'Azariahu' + ']' > U+e989  c  2 Chronicles 21:2
+'Azaz' + ']' > U+ef20  c  1 Chronicles 5:8
+'Azaziah' + ']' > U+e763  c  1 Chronicles 15:21
+'Azbuk' + ']' > U+e8ed  c  Nehemiah 3:16
+'Azekah' + ']' > U+e42a  c  Joshua 10:10
+'Azel' + ']' > U+e5fb  c  1 Chronicles 9:43
+'Azgad' + ']' > U+e829  c  Ezra 2:12
+'Aziza' + ']' > U+e8d9  c  Ezra 10:27
+'Azmaveth man' + ']' > U+e5fc  c  1 Chronicles 9:42
+'Azmaveth village' + ']' > U+e5c7  c  Nehemiah 12:29
+'Azmon' + ']' > U+e3da  c  Numbers 34:5
+'Azor' + ']' > U+ea6c  c  Matthew 1:14
+'Azotus' + ']' > U+eb7e  c  Acts 8:40
+'Azriel' + ']' > U+e628  c  1 Chronicles 5:24
+'Azrikam' + ']' > U+e5fd  c  1 Chronicles 9:14
+'Azubah' + ']' > U+e69c  c  1 Kings 22:42
+'Azzan' + ']' > U+e3e2  c  Numbers 34:26
+'Azzur' + ']' > U+e887  c  Nehemiah 10:17
+'Baal' + ']' > U+ebbf  c  Romans 11:4
+'Baal Gad' + ']' > U+e44b  c  Joshua 11:17
+'Baal Hanan' + ']' > U+e169  c  Genesis 36:38
+'Baal Hazor' + ']' > U+e7f5  c  2 Samuel 13:23
+'Baal man' + ']' > U+e5fe  c  1 Chronicles 9:36
+'Baal Meon' + ']' > U+e3c8  c  Numbers 32:38
+'Baal Shalishah' + ']' > U+e6a4  c  2 Kings 4:42
+'Baal Zephon' + ']' > U+e0bd  c  Exodus 14:2
+'Baalah' + ']' > U+e4d9  c  Joshua 15:29
+'Baalis' + ']' > U+e8fd  c  Jeremiah 40:14
+'Baanah' + ']' > U+e488  c  2 Samuel 4:2
+'Baara' + ']' > U+e664  c  1 Chronicles 8:8
+'Baaseiah' + ']' > U+e665  c  1 Chronicles 6:40
+'Baasha' + ']' > U+e5cc  c  1 Kings 15:16
+'baby' + ']' > U+e0a6
+'Babylon' + ']' > U+ea67  c  Acts 7:43
+'backward' + ']' > U+e325
+'bad' + ']' > U+e17d
+'bag' + ']' > U+e26f
+'Bahurim' + ']' > U+e963  c  1 Kings 2:8
+'Bakbakkar' + ']' > U+e5ff  c  1 Chronicles 9:15
+'Bakbuk' + ']' > U+e82a  c  Ezra 2:51
+'Bakbukiah' + ']' > U+e888  c  Nehemiah 11:17
+'Balaam' + ']' > U+eca1  c  2 Peter 2:15
+'Baladan' + ']' > U+e6a5  c  2 Kings 20:12
+'Balak' + ']' > U+ebff  c  Revelation 2:14
+'Bamoth land' + ']' > U+e3c0  c  Numbers 21:19
+'Bani' + ']' > U+e600  c  Nehemiah 8:7
+'bank' + ']' > U+ec55
+'banner' + ']' > U+e2b1
+'baptize' + ']' > U+e24a
+'Barabbas' + ']' > U+e36d  c  Matthew 27:16
+'Barachiah' + ']' > U+ea97  c  Matthew 23:35
+'Barak' + ']' > U+ed02  c  Hebrews 11:32
+'Barakel' + ']' > U+e862  c  Job 32:2
+'Bariah' + ']' > U+e728  c  1 Chronicles 3:22
+'Barkos' + ']' > U+e82b  c  Ezra 2:53
+'Barnabas' + ']' > U+ec2f  c  Acts 9:27
+'Barsabbas' + ']' > U+eb69  c  Acts 15:22
+'Bartholomew' + ']' > U+e362  c  Matthew 10:3
+'Bartimaeus' + ']' > U+e36b  c  Mark 10:46
+'Baruch' + ']' > U+e889  c  Nehemiah 3:20
+'Barzillai' + ']' > U+e964  c  1 Kings 2:7
+'Basemath' + ']' > U+edbd  c  Genesis 26:34
+'Bashan' + ']' > U+e3a6  c  Numbers 21:33
+'basket' + ']' > U+e19f
+'Bathsheba' + ']' > U+e4af  c  1 Kings 1:11
+'Bazluth' + ']' > U+e82c  c  Ezra 2:52
+'Bealiah' + ']' > U+e800  c  1 Chronicles 12:5
+'Bealoth' + ']' > U+e4da  c  Joshua 15:24
+'bear' + ']' > U+ecef
+'bear with' + ']' > U+e227
+'beast' + ']' > U+e103
+'beat' + ']' > U+e0e4
+'beauty' + ']' > U+ea4a
+'Bebai' + ']' > U+e82d  c  Ezra 2:11
+'because' + ']' > U+e066
+'become person' + ']' > U+e83a
+'become thing' + ']' > U+e839
+'bed' + ']' > U+e122
+'Bedad' + ']' > U+e1ee  c  Genesis 36:35
+'Bedeiah' + ']' > U+e8da  c  Ezra 10:35
+'Beer' + ']' > U+e3a7  c  Numbers 21:16
+'Beer Lahai Roi' + ']' > U+eef9  c  Genesis 16:14
+'Beerah' + ']' > U+e629  c  1 Chronicles 5:6
+'Beeri' + ']' > U+edbe  c  Genesis 26:34
+'Beeroth' + ']' > U+e42b  c  Deuteronomy 10:6
+'Beersheba' + ']' > U+edbf  c  Genesis 26:33
+'before' + ']' > U+e107
+'beg' + ']' > U+e21e
+'behind' + ']' > U+e116
+'Beker' + ']' > U+efb1  c  Genesis 46:21
+'Bekorath' + ']' > U+e6cd  c  1 Samuel 9:1
+'Bela man' + ']' > U+e1ed  c  Genesis 14:2
+'Bela village' + ']' > U+edc1  c  Genesis 14:8
+'believe' + ']' > U+e06f
+'bell' + ']' > U+e0be
+'Belshazzar' + ']' > U+e868  c  Daniel 5:1
+'belt' + ']' > U+e29d
+'Ben Abinadab' + ']' > U+e965  c  1 Kings 4:11
+'Ben Ammi' + ']' > U+edc2  c  Genesis 19:38
+'Ben Deker' + ']' > U+e966  c  1 Kings 4:9
+'Ben Hadad' + ']' > U+e453  c  1 Kings 15:18
+'Ben Hail' + ']' > U+e784  c  2 Chronicles 17:7
+'Ben Hanan' + ']' > U+e708  c  1 Chronicles 4:20
+'Ben Hesed' + ']' > U+e967  c  1 Kings 4:10
+'Ben Hinnom' + ']' > U+e4db  c  Joshua 15:8
+'Ben Hur' + ']' > U+e968  c  1 Kings 4:8
+'Ben oni' + ']' > U+e1a4  c  Genesis 35:18
+'Ben Zoheth' + ']' > U+ef33  c  1 Chronicles 4:20
+'Benaiah' + ']' > U+e4b0  c  1 Kings 1:8
+'Bene Berak' + ']' > U+e59c  c  Joshua 19:45
+'Bene Jaakan' + ']' > U+e3db  c  Numbers 33:31
+'Beninu' + ']' > U+e88a  c  Nehemiah 10:13
+'Benjamin land' + ']' > U+e5cd  c  1 Kings 15:22
+'Benjamin man' + ']' > U+eb4b  c  Genesis 35:18
+'Beno' + ']' > U+e7d1  c  1 Chronicles 24:26
+'Beon' + ']' > U+e3c9  c  Numbers 32:3
+'Beor' + ']' > U+eda3  c  Genesis 36:32
+'Bera' + ']' > U+edc3  c  Genesis 14:2
+'Beraiah' + ']' > U+e666  c  1 Chronicles 8:21
+'Berakah' + ']' > U+e801  c  1 Chronicles 12:3
+'Berea' + ']' > U+eb13  c  Acts 17:10
+'Bered city' + ']' > U+e2d0  c  Genesis 16:14
+'Bered man' + ']' > U+efb2  c  1 Chronicles 7:20
+'Berekiah' + ']' > U+e977  c  Zechariah 1:1
+'Beri' + ']' > U+e764  c  1 Chronicles 7:36
+'Beriah' + ']' > U+efb3  c  Genesis 46:17
+'Bernice' + ']' > U+eb9e  c  Acts 25:13
+'Berothai' + ']' > U+e718  c  2 Samuel 8:8
+'Besai' + ']' > U+e82e  c  Ezra 2:49
+'beside' + ']' > U+e117
+'Besodeiah' + ']' > U+ef28  c  Nehemiah 3:6
+'best' + ']' > U+e21f
+'Beten' + ']' > U+e59d  c  Joshua 19:25
+'Beth Anath' + ']' > U+e4dc  c  Joshua 15:59
+'Beth Arabah' + ']' > U+e4b8  c  Joshua 15:6
+'Beth Arbel' + ']' > U+e6c4  c  Hosea 10:14
+'Beth Ashbea' + ']' > U+e709  c  1 Chronicles 4:21
+'Beth Aven' + ']' > U+e546  c  Joshua 7:2
+'Beth Baal Meon' + ']' > U+e547  c  Joshua 13:17
+'Beth Barah' + ']' > U+e571  c  Judges 7:24
+'Beth Dagon' + ']' > U+e4b9  c  Joshua 15:41
+'Beth Diblathaim' + ']' > U+e8fe  c  Jeremiah 48:22
+'Beth Eden' + ']' > U+e454  c  Amos 1:5
+'Beth Emek' + ']' > U+e59e  c  Joshua 19:27
+'Beth Ezel' + ']' > U+e43a  c  Micah 1:11
+'Beth Gamul' + ']' > U+e8ff  c  Jeremiah 48:23
+'Beth Hakkerem' + ']' > U+e88b  c  Nehemiah 3:14
+'Beth Haran' + ']' > U+e479  c  Numbers 32:36
+'Beth Hoglah' + ']' > U+e4ba  c  Joshua 15:6
+'Beth Horon' + ']' > U+e42c  c  Joshua 10:10
+'Beth Jeshimoth' + ']' > U+e3dc  c  Numbers 33:49
+'Beth Leaphrah' + ']' > U+e491  c  Micah 1:10
+'Beth Markaboth' + ']' > U+e59f  c  Joshua 19:5
+'Beth Meon' + ']' > U+e900  c  Jeremiah 48:23
+'Beth Millo' + ']' > U+e572  c  Judges 9:6
+'Beth Pazzez' + ']' > U+e5a0  c  Joshua 19:21
+'Beth Pelet' + ']' > U+e4bb  c  Joshua 15:27
+'Beth Peor' + ']' > U+e423  c  Deuteronomy 3:29
+'Beth Rapha' + ']' > U+e70a  c  1 Chronicles 4:12
+'Beth Shan' + ']' > U+e4e7  c  1 Samuel 31:10
+'Beth Shemesh' + ']' > U+e4f9  c  Joshua 21:16
+'Beth Shittah' + ']' > U+e573  c  Judges 7:22
+'Beth Zur city' + ']' > U+e766  c  Joshua 15:58
+'Beth Zur man' + ']' > U+eb79  c  1 Chronicles 2:45
+'Bethany' + ']' > U+e349  c  Matthew 21:17
+'Bethel' + ']' > U+edc4  c  Genesis 12:8
+'Bethesda' + ']' > U+eba0  c  John 5:2
+'Bethlehem man' + ']' > U+e765  c  1 Chronicles 2:54
+'Bethlehem village' + ']' > U+ea45  c  Matthew 2:1
+'Bethphage' + ']' > U+e348  c  Matthew 21:1
+'Bethsaida' + ']' > U+e340  c  Matthew 11:21
+'Bethuel city' + ']' > U+e1e0  c  1 Chronicles 4:30
+'Bethuel man' + ']' > U+e1a0  c  Genesis 22:22
+'Betonim' + ']' > U+e548  c  Joshua 13:26
+'betray' + ']' > U+e195
+'better' + ']' > U+e09e
+'between' + ']' > U+e118
+'Bezalel' + ']' > U+e0bf  c  Exodus 31:2
+'Bezek' + ']' > U+e574  c  Judges 1:4
+'Bezer man' + ']' > U+e767  c  1 Chronicles 7:37
+'Bezer village' + ']' > U+e466  c  Deuteronomy 4:43
+'Bible' + ']' > U+e22c
+'Bidkar' + ']' > U+e617  c  2 Kings 9:25
+'big' + ']' > U+e120
+'Bigthana' + ']' > U+e492  c  Esther 6:2
+'Bigvai' + ']' > U+e82f  c  Ezra 2:2
+'Bikri' + ']' > U+e719  c  2 Samuel 20:1
+'Bildad' + ']' > U+e7c8  c  Job 2:11
+'Bilgah' + ']' > U+e7d2  c  1 Chronicles 24:14
+'Bilgai' + ']' > U+e88c  c  Nehemiah 10:8
+'Bilhah village' + ']' > U+e707  c  1 Chronicles 4:29
+'Bilhah woman' + ']' > U+eefa  c  Genesis 29:29
+'Bilhan' + ']' > U+efeb  c  Genesis 36:27
+'Bilshan' + ']' > U+e830  c  Ezra 2:2
+'Bimhal' + ']' > U+e768  c  1 Chronicles 7:33
+'Binea' + ']' > U+e601  c  1 Chronicles 9:43
+'Binnui' + ']' > U+e88d  c  Nehemiah 3:18
+'bird' + ']' > U+e25c
+'Birsha' + ']' > U+edc5  c  Genesis 14:2
+'birth' + ']' > U+e235
+'Birzaith' + ']' > U+e769  c  1 Chronicles 7:31
+'Bishlam' + ']' > U+e8db  c  Ezra 4:7
+'Bithiah' + ']' > U+ef13  c  1 Chronicles 4:17
+'Bithynia' + ']' > U+eb48  c  Acts 16:7
+'bitter' + ']' > U+ecd2
+'Biziothiah' + ']' > U+e4bc  c  Joshua 15:28
+'black' + ']' > U+eb86
+'blasphemy' + ']' > U+e05b
+'Blastus' + ']' > U+eb8d  c  Acts 12:20
+'bless' + ']' > U+e05c
+'blessed' + ']' > U+ea21
+'blind' + ']' > U+e192
+'blood' + ']' > U+e087
+'blue' + ']' > U+ecda
+'boast' + ']' > U+e14b
+'boat' + ']' > U+e265
+'Boaz' + ']' > U+ea54  c  Matthew 1:5
+'body' + ']' > U+e143
+'Bohan' + ']' > U+e4bd  c  Joshua 15:6
+'Bokeru' + ']' > U+e602  c  1 Chronicles 9:44
+'Bokim' + ']' > U+e575  c  Judges 2:1
+'bone' + ']' > U+e0b2
+'book' + ']' > U+e22a
+'bottom' + ']' > U+e119
+'bow' + ']' > U+e210
+'bow arrow' + ']' > U+ecc8
+'bowl' + ']' > U+e384
+'box' + ']' > U+e29e
+'boy' + ']' > U+e001
+'boys' + ']' > U+e002
+'Bozkath' + ']' > U+e4be  c  Joshua 15:39
+'Bozrah' + ']' > U+efec  c  Genesis 36:33
+'branch' + ']' > U+e246
+'brave' + ']' > U+e196
+'bread' + ']' > U+e05d
+'break' + ']' > U+e0e1
+'breast' + ']' > U+e2db
+'breastplate' + ']' > U+ecd5  c  1 Thessalonians 5:8
+'breath' + ']' > U+ecee
+'bribe' + ']' > U+ebdb
+'brick' + ']' > U+eefb
+'bride' + ']' > U+e015
+'bright' + ']' > U+e21b
+'bring' + ']' > U+e088
+'bronze' + ']' > U+eb2c
+'brother' + ']' > U+e006
+'brothers' + ']' > U+e007
+'Bubastis' + ']' > U+e922  c  Ezekiel 30:17
+'build' + ']' > U+e17a
+'building' + ']' > U+e0a1
+'Bukki' + ']' > U+e3e3  c  Numbers 34:22
+'Bunah' + ']' > U+e76a  c  1 Chronicles 2:25
+'Bunni' + ']' > U+e88e  c  Nehemiah 10:15
+'burden' + ']' > U+ec86
+'burn' + ']' > U+ecd0
+'bury' + ']' > U+e0d7
+'but' + ']' > U+e11a
+'buy' + ']' > U+e32a
+'Buz' + ']' > U+e1a5  c  Genesis 22:21
+'Buzi' + ']' > U+e8f1  c  Ezekiel 1:3
+'Caesar' + ']' > U+e370  c  Acts 26:32
+'Caesarea' + ']' > U+e346  c  Matthew 16:13
+'Caiaphas' + ']' > U+ea77  c  Matthew 26:3
+'Cainan' + ']' > U+ec56  c  Luke 3:36
+'Calah' + ']' > U+edc6  c  Genesis 10:12
+'Caleb' + ']' > U+e2b2  c  Numbers 13:6
+'call' + ']' > U+e040
+'camel' + ']' > U+e29f
+'Cana' + ']' > U+eba2  c  John 2:11
+'Canaan land' + ']' > U+e33d  c  Acts 7:11
+'Canaan man' + ']' > U+edc7  c  Genesis 9:18
+'Candace' + ']' > U+eb85  c  Acts 8:27
+'Capernaum' + ']' > U+e33a  c  Matthew 4:13
+'Cappadocia' + ']' > U+eb74  c  Acts 2:9
+'Carchemish' + ']' > U+e714  c  Isaiah 10:9
+'careful' + ']' > U+e19e
+'Carmel' + ']' > U+e43d  c  Joshua 12:22
+'carpenter' + ']' > U+e14f
+'Carpus' + ']' > U+ecad  c  2 Timothy 4:13
+'case' + ']' > U+ec87  c  Exodus 18:22
+'catch' + ']' > U+e115
+'Cauda' + ']' > U+ec36  c  Acts 27:16
+'cave' + ']' > U+eda6
+'Cenchrea' + ']' > U+eb3d  c  Acts 18:18
+'census' + ']' > U+e0b8
+'centurion' + ']' > U+eb7a  c  Matthew 8:5
+'ceremony' + ']' > U+ec88
+'chain' + ']' > U+e25f
+'chair' + ']' > U+e298
+'Chaldea' + ']' > U+eb0e  c  Jeremiah 50:10
+'change' + ']' > U+e31e
+'chapter' + ']' > U+e230
+'chariot' + ']' > U+ec82
+'Chemosh' + ']' > U+e3a8  c  Numbers 21:29
+'chew cud' + ']' > U+e2da  c  Leviticus 11:3
+'child' + ']' > U+e200
+'children' + ']' > U+e201
+'Chios' + ']' > U+eb22  c  Acts 20:15
+'Chloe' + ']' > U+ebe2  c  1 Corinthians 1:11
+'choose' + ']' > U+e021
+'Chorazin' + ']' > U+ea8f  c  Matthew 11:21
+'Christ' + ']' > U+e334  c  Matthew 1:1
+'Christian' + ']' > U+eb90  c  Acts 26:28
+'Chronicles' + ']' > U+e419
+'church' + ']' > U+ebfc
+'Chuza' + ']' > U+ec57  c  Luke 8:3
+'Cilicia' + ']' > U+eb5b  c  Acts 6:9
+'circle' + ']' > U+ee06
+'circumcise' + ']' > U+e250
+'citizen' + ']' > U+eb98
+'Claudia' + ']' > U+ecae  c  2 Timothy 4:21
+'Claudius' + ']' > U+eb8a  c  Acts 11:28
+'clay' + ']' > U+ebec
+'clean' + ']' > U+e248
+'Clement' + ']' > U+ece3  c  Philippians 4:3
+'Cleopas' + ']' > U+ec58  c  Luke 24:18
+'cloak' + ']' > U+ea76
+'Clopas' + ']' > U+ebb5  c  John 19:25
+'closed' + ']' > U+e23f
+'clothe' + ']' > U+e147
+'clothing' + ']' > U+e253
+'cloud' + ']' > U+e26e
+'Cnidus' + ']' > U+ec14  c  Acts 27:7
+'cohort' + ']' > U+e148
+'cold' + ']' > U+e0f2
+'color' + ']' > U+e284
+'Colossae' + ']' > U+ece8  c  Colossians 1:2
+'come' + ']' > U+e25a
+'comfort' + ']' > U+ea3b
+'comma' + ']' > U+ee01
+',' + ']' > U+ee01
+'command' + ']' > U+e058
+'complete' + ']' > U+ecec
+'concubine' + ']' > U+eefc
+'condemn' + ']' > U+ea7f
+'confuse' + ']' > U+eb08
+'control' + ']' > U+e332
+'Corinth' + ']' > U+ea59  c  Acts 18:1
+'Cornelius' + ']' > U+eb81  c  Acts 10:1
+'corner' + ']' > U+eb83
+'cornerstone' + ']' > U+e21c
+'correct' + ']' > U+e09a
+'Cosam' + ']' > U+ec59  c  Luke 3:28
+'couch' + ']' > U+eb5f
+'council' + ']' > U+e0f7
+'country' + ']' > U+e0a2
+'countrymen' + ']' > U+e157
+'countryside' + ']' > U+eb96
+'courtyard' + ']' > U+e0f6
+'covenant' + ']' > U+e21d
+'cover' + ']' > U+e39a
+'cow' + ']' > U+eb36
+'creation' + ']' > U+ebc3
+'Creator' + ']' > U+ec22  c  Romans 1:25
+'Crescan' + ']' > U+ecaf  c  2 Timothy 4:10
+'Crete' + ']' > U+ec8d  c  Acts 27:7
+'Crispus' + ']' > U+eb3a  c  Acts 18:8
+'crooked' + ']' > U+eb39
+'cross' + ']' > U+e038
+'crowd' + ']' > U+e128
+'crown' + ']' > U+eda4
+'crucify' + ']' > U+e03c
+'crush' + ']' > U+e146
+'cry' + ']' > U+e20c
+'cup' + ']' > U+e274
+'curse' + ']' > U+e05a
+'curtain' + ']' > U+e254
+'Cush land' + ']' > U+e1e2  c  Isaiah 11:11
+'Cush man' + ']' > U+edca  c  Genesis 10:6
+'Cushan Rishathaim' + ']' > U+e47b  c  Judges 3:8
+'Cushi' + ']' > U+e610  c  Zephaniah 1:1
+'custom' + ']' > U+eb10
+'cymbal' + ']' > U+ebe3
+'cypress' + ']' > U+edcb  c  Genesis 6:14
+'Cyprus' + ']' > U+eb88  c  Acts 4:36
+'Cyrene' + ']' > U+eb59  c  Matthew 27:32
+'Cyrus' + ']' > U+e831  c  Ezra 1:1
+'Dabbesheth' + ']' > U+e5a2  c  Joshua 19:11
+'Dagon' + ']' > U+e4e8  c  1 Chronicles 10:10
+'Dalmanutha' + ']' > U+e344  c  Mark 8:10
+'Dalmatia' + ']' > U+ecb1  c  2 Timothy 4:10
+'Damaris' + ']' > U+eb37  c  Acts 17:34
+'Damascus' + ']' > U+ec31  c  Genesis 14:15
+'Dan land' + ']' > U+edcc  c  Genesis 14:14
+'Dan man' + ']' > U+edcd  c  Genesis 30:6
+'dance' + ']' > U+e259
+'Daniel' + ']' > U+ea78  c  Matthew 24:15
+'Dannah' + ']' > U+e4bf  c  Joshua 15:49
+'Darda' + ']' > U+e969  c  1 Kings 4:31
+'Darius' + ']' > U+e490  c  Haggai 1:1
+'dark' + ']' > U+ea17
+'Darkon' + ']' > U+e832  c  Ezra 2:56
+'Dathan' + ']' > U+e2f7  c  Numbers 16:1
+'daughter' + ']' > U+e00c
+'daughters' + ']' > U+e00d
+'David' + ']' > U+e35e  c  Matthew 1:1
+'dead' + ']' > U+e181
+'deaf' + ']' > U+e191
+'Debir city' + ']' > U+e43e  c  Joshua 10:38
+'Debir man' + ']' > U+e42d  c  Joshua 10:3
+'Deborah' + ']' > U+efb5  c  Genesis 35:8
+'Decapolis' + ']' > U+e33e  c  Matthew 4:25
+'deceive' + ']' > U+e17f
+'deceiver' + ']' > U+e152
+'Dedan man' + ']' > U+edce  c  Genesis 10:7
+'Dedan village' + ']' > U+e7ca  c  Ezekiel 25:13
+'deep' + ']' > U+e321
+'deer' + ']' > U+efb6
+'Delaiah' + ']' > U+e70c  c  1 Chronicles 3:24
+'Delilah' + ']' > U+e576  c  Judges 16:4
+'Demes' + ']' > U+ecb2  c  2 Timothy 4:10
+'Demetrius' + ']' > U+eb1a  c  Acts 19:24
+'demon' + ']' > U+eb87
+'denarius' + ']' > U+e165  c  Matthew 22:19
+'deny' + ']' > U+e0e5
+'Derbe' + ']' > U+eb43  c  Acts 14:6
+'descend' + ']' > U+e317
+'descendant' + ']' > U+eb60
+'desire' + ']' > U+e020
+'Deuel' + ']' > U+e2b3  c  Numbers 1:14
+'Diblaim' + ']' > U+e595  c  Hosea 1:3
+'Dibon' + ']' > U+e3a9  c  Numbers 21:30
+'Dibon Gad' + ']' > U+e3e8  c  Numbers 33:45
+'Dibri' + ']' > U+e2ef  c  Leviticus 24:11
+'Didymus' + ']' > U+ebb6  c  John 11:16
+'different' + ']' > U+ecff
+'difficult' + ']' > U+e093
+'Diklah' + ']' > U+e1ac  c  Genesis 10:27
+'Dilean' + ']' > U+e4c0  c  Joshua 15:38
+'Dimonah' + ']' > U+e4c1  c  Joshua 15:22
+'Dinah' + ']' > U+efb7  c  Genesis 30:21
+'Dinhabah' + ']' > U+efed  c  Genesis 36:32
+'Dionysius' + ']' > U+eb78  c  Acts 17:34
+'Diotrephes' + ']' > U+ece2  c  3 John 1:9
+'direction' + ']' > U+e323
+'dirt' + ']' > U+e15b
+'dirty' + ']' > U+e249
+'disciple' + ']' > U+e142
+'discipline' + ']' > U+eda5
+'discourage' + ']' > U+e261
+'Dishan' + ']' > U+e1ec  c  Genesis 36:21
+'Dishon' + ']' > U+efee  c  Genesis 36:21
+'disobey' + ']' > U+e193
+'divide' + ']' > U+e326
+'divorce' + ']' > U+ea3d
+'Dizahab' + ']' > U+e481  c  Deuteronomy 1:1
+'doctor' + ']' > U+e144
+'Dodanim' + ']' > U+edcf  c  Genesis 10:4
+'Dodavahu' + ']' > U+e812  c  2 Chronicles 20:37
+'Dodo' + ']' > U+e51d  c  Judges 10:1
+'Doeg' + ']' > U+e460  c  1 Samuel 21:7
+'dog' + ']' > U+e104
+'dominion' + ']' > U+e032
+'donkey' + ']' > U+ea09
+'door' + ']' > U+e23e
+'Dophkah' + ']' > U+e3dd  c  Numbers 33:12
+'Dor' + ']' > U+e43f  c  Joshua 11:2
+'Dorcas' + ']' > U+ec2c  c  Acts 9:36
+'Dothan' + ']' > U+efa3  c  Genesis 37:17
+'doubt' + ']' > U+e194
+'dough' + ']' > U+ea36
+'dove' + ']' > U+e25e
+'down' + ']' > U+e319
+'dragon' + ']' > U+ecdf
+'dream' + ']' > U+ea80
+'drunk' + ']' > U+ea8d
+'Drusilla' + ']' > U+eb9c  c  Acts 24:24
+'dry' + ']' > U+e188
+'Dumah man' + ']' > U+eefd  c  Genesis 25:14
+'Dumah village' + ']' > U+e64e  c  Joshua 15:52
+'dust' + ']' > U+e15d
+'eagle' + ']' > U+ecc9
+'ear' + ']' > U+e299
+'earn' + ']' > U+e0f5
+'earthquake' + ']' > U+e159
+'east' + ']' > U+ea38
+'easy' + ']' > U+e092
+'eat' + ']' > U+e053
+'Ebal' + ']' > U+efef  c  Genesis 36:23
+'Ebed' + ']' > U+e577  c  Judges 9:26
+'Ebed Melek' + ']' > U+e901  c  Jeremiah 38:7
+'Eber land' + ']' > U+e497  c  Numbers 24:24
+'Eber man' + ']' > U+ec5a  c  Genesis 10:21
+'Ebez' + ']' > U+e5a3  c  Joshua 19:20
+'Ecbatana' + ']' > U+e833  c  Ezra 6:2
+'Eden garden' + ']' > U+edd2  c  Genesis 2:8
+'Eden man' + ']' > U+e1e9  c  2 Chronicles 29:12
+'Eden village' + ']' > U+e6a6  c  2 Kings 19:12
+'Eder man' + ']' > U+e76b  c  1 Chronicles 23:23
+'Eder village' + ']' > U+e4c2  c  Joshua 15:21
+'Edom land' + ']' > U+e1a7  c  Genesis 32:3
+'Edom man' + ']' > U+e1a6  c  Genesis 25:30
+'Edrei' + ']' > U+e474  c  Joshua 19:37
+'egg' + ']' > U+e482
+'Eglah' + ']' > U+e70d  c  1 Chronicles 3:3
+'Eglaim' + ']' > U+e8b9  c  Isaiah 15:8
+'Eglon man' + ']' > U+e60c  c  Judges 3:12
+'Eglon village' + ']' > U+e42e  c  Joshua 10:3
+'Egypt' + ']' > U+ea44  c  Matthew 2:13
+'Ehi' + ']' > U+efb8  c  Genesis 46:21
+'Ehud' + ']' > U+e578  c  Judges 4:1
+'eight' + ']' > U+e293
+'8' + ']' > U+e293
+'Eker' + ']' > U+e76c  c  1 Chronicles 2:27
+'Ekron' + ']' > U+e455  c  Joshua 13:3
+'El' + ']' > U+edd3  c  Genesis 35:7
+'El Elohe' + ']' > U+e1e4  c  Genesis 33:20
+'Elah' + ']' > U+e1a9  c  Genesis 36:41
+'Elam land' + ']' > U+eb6d  c  Genesis 14:1
+'Elam man' + ']' > U+edd4  c  Genesis 10:22
+'Elath' + ']' > U+e498  c  Deuteronomy 2:8
+'Eldaah' + ']' > U+e1e3  c  Genesis 25:4
+'Eldad' + ']' > U+e2b4  c  Numbers 11:26
+'elder' + ']' > U+eb62
+'Elead' + ']' > U+e76d  c  1 Chronicles 7:21
+'Eleadah' + ']' > U+e76e  c  1 Chronicles 7:20
+'Elealeh' + ']' > U+e3ca  c  Numbers 32:3
+'Eleasah' + ']' > U+e603  c  1 Chronicles 9:43
+'Eleazar' + ']' > U+ea70  c  Exodus 6:23
+'elect' + ']' > U+ec9f
+'Elhanan' + ']' > U+e70e  c  1 Chronicles 20:5
+'Eli' + ']' > U+ec44  c  1 Samuel 1:3
+'Eliab' + ']' > U+e2b5  c  Numbers 1:9
+'Eliada' + ']' > U+e5cf  c  1 Kings 11:23
+'Eliahba' + ']' > U+e802  c  1 Chronicles 11:33
+'Eliakim' + ']' > U+ea6b  c  Matthew 1:13
+'Eliashib' + ']' > U+e70f  c  1 Chronicles 3:24
+'Eliathah' + ']' > U+e855  c  1 Chronicles 25:4
+'Elidad' + ']' > U+e3e4  c  Numbers 34:21
+'Eliehoenai' + ']' > U+e667  c  1 Chronicles 26:3
+'Eliel' + ']' > U+e62a  c  1 Chronicles 5:24
+'Elienai' + ']' > U+e668  c  1 Chronicles 8:20
+'Eliezer' + ']' > U+ec5b  c  Genesis 15:2
+'Elihoreph' + ']' > U+e96a  c  1 Kings 4:3
+'Elihu' + ']' > U+e4e9  c  1 Samuel 1:1
+'Elijah' + ']' > U+e36a  c  1 Kings 17:1
+'Elika' + ']' > U+e7f6  c  2 Samuel 23:25
+'Elim' + ']' > U+e0ca  c  Exodus 15:27
+'Elimelek' + ']' > U+e41e  c  Ruth 1:2
+'Eliphaz' + ']' > U+eff1  c  Genesis 36:4
+'Eliphelehu' + ']' > U+e76f  c  1 Chronicles 15:18
+'Eliphelet' + ']' > U+e669  c  1 Chronicles 8:39
+'Elisha' + ']' > U+ec5c  c  1 Kings 19:16
+'Elishama' + ']' > U+e2b7  c  Numbers 1:10
+'Elishaphat' + ']' > U+e919  c  2 Chronicles 23:1
+'Elisheba' + ']' > U+e3b5  c  Exodus 6:23
+'Elishua' + ']' > U+e6d6  c  2 Samuel 5:15
+'Eliud' + ']' > U+ea6f  c  Matthew 1:14
+'Elizabeth' + ']' > U+ec3a  c  Luke 1:5
+'Elizaphan' + ']' > U+e2b8  c  Numbers 3:30
+'Elizur' + ']' > U+e1fa  c  Numbers 1:5
+'Elkanah' + ']' > U+e2c0  c  Exodus 6:24
+'Elkosh' + ']' > U+e378  c  Nahum 1:1
+'Ellasar' + ']' > U+edd6  c  Genesis 14:1
+'Elmadam' + ']' > U+ec5d  c  Luke 3:28
+'Elnaam' + ']' > U+e803  c  1 Chronicles 11:46
+'Elnathan' + ']' > U+e6a7  c  2 Kings 24:8
+'Elon' + ']' > U+edd7  c  Genesis 26:34
+'Elpaal' + ']' > U+e66a  c  1 Chronicles 8:39
+'Eltekeh' + ']' > U+e4fa  c  Joshua 21:23
+'Eltekon' + ']' > U+e4c3  c  Joshua 15:59
+'Eltolad' + ']' > U+e4c4  c  Joshua 15:30
+'Eluzai' + ']' > U+e804  c  1 Chronicles 12:5
+'Elzabad' + ']' > U+e66b  c  1 Chronicles 26:7
+'Elzaphan' + ']' > U+e2f0  c  Exodus 6:22
+'Emek Keziz' + ']' > U+e64f  c  Joshua 18:21
+'Emites' + ']' > U+efa8  c  Genesis 14:5
+'Emmaus' + ']' > U+ec5e  c  Luke 24:13
+'empty' + ']' > U+e277
+'En Eglaim' + ']' > U+e8f2  c  Ezekiel 47:10
+'En Gannim' + ']' > U+e4fb  c  Joshua 21:29
+'En Gedi' + ']' > U+e4c5  c  Joshua 15:62
+'En Haddah' + ']' > U+e5a4  c  Joshua 19:21
+'En Rogel' + ']' > U+e4b1  c  1 Kings 1:9
+'En Shemesh' + ']' > U+e4c6  c  Joshua 15:7
+'Enaim' + ']' > U+e4c7  c  Joshua 15:34
+'Enan' + ']' > U+e2b9  c  Numbers 1:15
+'encourage' + ']' > U+e262
+'end' + ']' > U+e232
+'Endor' + ']' > U+e467  c  Joshua 17:11
+'endure' + ']' > U+e170
+'enemy' + ']' > U+e025  c  Exodus 15:6
+'Enoch' + ']' > U+ec5f  c  Genesis 4:17
+'Enos' + ']' > U+ec60  c  Luke 3:38
+'enter' + ']' > U+e242
+'envy' + ']' > U+e022
+'Epaenetus' + ']' > U+ebc1  c  Romans 16:5
+'Epaphroditus' + ']' > U+ece4  c  Philippians 2:25
+'Ephah man' + ']' > U+e1ad  c  Genesis 25:4
+'Ephah woman' + ']' > U+ef16  c  1 Chronicles 2:46
+'Ephai' + ']' > U+e902  c  Jeremiah 40:8
+'Epher' + ']' > U+eefe  c  Genesis 25:4
+'Ephes Dammim' + ']' > U+e6ce  c  1 Samuel 17:1
+'Ephesus' + ']' > U+ec0c  c  Acts 18:19
+'Ephlal' + ']' > U+e770  c  1 Chronicles 2:37
+'Ephod' + ']' > U+e475  c  Numbers 34:23
+'Ephraim land' + ']' > U+eba4  c  2 Chronicles 30:10
+'Ephraim man' + ']' > U+eba3  c  Genesis 41:52
+'Ephrath' + ']' > U+efba  c  Genesis 35:16
+'Ephrathah' + ']' > U+e710  c  1 Chronicles 4:4
+'Ephron man' + ']' > U+eeff  c  Genesis 23:8
+'Epicurean' + ']' > U+ec05  c  Acts 17:18
+'Er' + ']' > U+ec61  c  Genesis 38:3
+'Eran' + ']' > U+e3aa  c  Numbers 26:36
+'Erastus' + ']' > U+ec0e  c  Acts 19:22
+'Erech' + ']' > U+edd9  c  Genesis 10:10
+'Eri' + ']' > U+e1ae  c  Genesis 46:16
+'Esarhaddon' + ']' > U+e6a8  c  2 Kings 19:37
+'Esau' + ']' > U+ebc2  c  Genesis 25:25
+'Esek' + ']' > U+edda  c  Genesis 26:20
+'Eshan' + ']' > U+e4c8  c  Joshua 15:52
+'Eshban' + ']' > U+eff2  c  Genesis 36:26
+'Eshek' + ']' > U+e66c  c  1 Chronicles 8:39
+'Eshkol land' + ']' > U+e3cb  c  Numbers 13:23
+'Eshkol man' + ']' > U+eddb  c  Genesis 14:13
+'Eshtaol' + ']' > U+e4c9  c  Joshua 15:33
+'Eshtemoa man' + ']' > U+e711  c  1 Chronicles 4:17
+'Eshtemoa village' + ']' > U+e4fc  c  Joshua 21:14
+'Eshtemoh' + ']' > U+e4ca  c  Joshua 15:50
+'Eshton' + ']' > U+e712  c  1 Chronicles 4:11
+'Esli' + ']' > U+ec49  c  Luke 3:25
+'Esther' + ']' > U+e49f  c  Esther 2:7
+'Etam' + ']' > U+e579  c  Judges 15:11
+'Eth Kazin' + ']' > U+e5a5  c  Joshua 19:13
+'Etham' + ']' > U+e2c2  c  Exodus 13:20
+'Ethan' + ']' > U+e95e  c  1 Kings 4:31
+'Ethbaal' + ']' > U+e915  c  1 Kings 16:31
+'Ether' + ']' > U+e4cb  c  Joshua 15:42
+'Ethiopia' + ']' > U+ec32  c  Acts 8:27
+'Ethnan' + ']' > U+e713  c  1 Chronicles 4:7
+'Ethni' + ']' > U+e66d  c  1 Chronicles 6:41
+'Eubulus' + ']' > U+ecb3  c  2 Timothy 4:21
+'Eunice' + ']' > U+ecb4  c  2 Timothy 1:5
+'eunuch' + ']' > U+eb8f
+'Euodia' + ']' > U+ece5  c  Philippians 4:2
+'Euphrates River' + ']' > U+ecd8  c  Revelation 9:14
+'Eutychus' + ']' > U+eb1f  c  Acts 20:9
+'evangelist' + ']' > U+e13f
+'Eve' + ']' > U+ebeb  c  Genesis 3:20
+'evening' + ']' > U+e273
+'everyone' + ']' > U+e140
+'everything' + ']' > U+e114
+'everywhere' + ']' > U+e155
+'Evi' + ']' > U+e3c2  c  Numbers 31:8
+'example' + ']' > U+ecf0
+'exclamation point' + ']' > U+ee02
+'!' + ']' > U+ee02
+'explain' + ']' > U+e059
+'eye' + ']' > U+e238
+'Ezbai' + ']' > U+e805  c  1 Chronicles 11:37
+'Ezbon' + ']' > U+e1aa  c  Genesis 46:16
+'Ezekiel' + ']' > U+e998  c  Ezekiel 1:3
+'Ezem' + ']' > U+e508  c  1 Chronicles 4:29
+'Ezer' + ']' > U+e1ab  c  Genesis 36:21
+'Ezion Geber' + ']' > U+e3e9  c  Numbers 33:35
+'Ezra' + ']' > U+e4df  c  Ezra 7:1
+'Ezri' + ']' > U+e856  c  1 Chronicles 27:26
+'face' + ']' > U+e203
+'Fair Haven' + ']' > U+ec18  c  Acts 27:8
+'faithful' + ']' > U+e219
+'fall' + ']' > U+e218
+'family' + ']' > U+e176
+'famine' + ']' > U+e18d
+'far' + ']' > U+e197
+'farewell' + ']' > U+ec83  c  Acts 15:29
+'farm' + ']' > U+eb91
+'fast no eat' + ']' > U+e18e  c  2 Samuel 12:21
+'fast speed' + ']' > U+e21a
+'fat' + ']' > U+ea86
+'fat animal' + ']' > U+eb11
+'father' + ']' > U+e003
+'feast' + ']' > U+e054  c  Genesis 21:8
+'Felix' + ']' > U+eb99  c  Acts 23:24
+'festival' + ']' > U+e20b
+'fig' + ']' > U+eda2  c  Numbers 13:23
+'fill' + ']' > U+e278
+'find' + ']' > U+e101
+'finger' + ']' > U+eba5
+'fire' + ']' > U+e301
+'first' + ']' > U+e233
+'fish' + ']' > U+e263
+'fisherman' + ']' > U+e264
+'five' + ']' > U+e290
+'5' + ']' > U+e290
+'fix' + ']' > U+e09d
+'flesh' + ']' > U+e26b
+'flip' + ']' > U+e31d
+'flood' + ']' > U+ece0
+'flour' + ']' > U+ea35
+'flower' + ']' > U+eb24
+'flute' + ']' > U+ea8b
+'fly' + ']' > U+e25b
+'follow' + ']' > U+e13e
+'fool' + ']' > U+ea7c  c  Psalms 14:1 14:1
+'foot' + ']' > U+e13d
+'foreigner' + ']' > U+e158
+'forest' + ']' > U+ec27
+'forgive' + ']' > U+e18f
+'Fortunatus' + ']' > U+eca4  c  1 Corinthians 16:17
+'forward' + ']' > U+e318  c  Genesis 19:9
+'foundation' + ']' > U+e179
+'four' + ']' > U+e28f
+'4' + ']' > U+e28f
+'fox' + ']' > U+ea8a
+'free' + ']' > U+e260
+'free no cost' + ']' > U+ebe4
+'friend' + ']' > U+e024
+'frog' + ']' > U+ecf6
+'from' + ']' > U+e31a
+'fruit' + ']' > U+e27e
+'fulfill' + ']' > U+e0d2
+'full' + ']' > U+e276
+'futile' + ']' > U+e190
+'future' + ']' > U+e16e
+'Gaal' + ']' > U+e57a  c  Judges 9:26
+'Gaash' + ']' > U+e4fd  c  Joshua 24:30
+'Gabbai' + ']' > U+e88f  c  Nehemiah 11:8
+'Gabriel' + ']' > U+ec39  c  Luke 1:19
+'Gad' + ']' > U+ecbd  c  Genesis 46:16
+'Gadara' + ']' > U+e33f  c  Matthew 8:28
+'Gaddi' + ']' > U+e2ba  c  Numbers 13:11
+'Gaddiel' + ']' > U+e2bb  c  Numbers 13:10
+'Gaham' + ']' > U+efbb  c  Genesis 22:24
+'Gahar' + ']' > U+e834  c  Ezra 2:47
+'Gaius' + ']' > U+ec0f  c  Acts 19:29
+'Galal' + ']' > U+e604  c  1 Chronicles 9:15
+'Galatia' + ']' > U+eb46  c  Acts 16:6
+'Galeed' + ']' > U+efbc  c  Genesis 31:47
+'Galilee' + ']' > U+e337  c  Joshua 20:7
+'Gallim' + ']' > U+e7ea  c  1 Samuel 25:44
+'Gallio' + ']' > U+eb3b  c  Acts 18:12
+'Gamaliel' + ']' > U+eb4d  c  Acts 5:34
+'Gamul' + ']' > U+e7d3  c  1 Chronicles 24:17
+'garden' + ']' > U+eddc
+'Gareb' + ']' > U+e806  c  1 Chronicles 11:40
+'Gatam' + ']' > U+eff3  c  Genesis 36:11
+'gate' + ']' > U+e289  c  John 10:2
+'Gath' + ']' > U+e461  c  1 Samuel 21:10
+'Gath Hepher' + ']' > U+e65c  c  Joshua 19:13
+'Gath Rimmon' + ']' > U+e4fe  c  Joshua 21:24
+'gathered' + ']' > U+e108
+'Gaza' + ']' > U+eb7f  c  Genesis 10:19
+'Gazez' + ']' > U+e771  c  1 Chronicles 2:46
+'Gazzam' + ']' > U+e835  c  Ezra 2:48
+'Geba' + ']' > U+e4ff  c  Joshua 21:17
+'Gebal' + ']' > U+e549  c  Psalm 83:7
+'Geber' + ']' > U+e96b  c  1 Kings 4:19
+'Gebim' + ']' > U+e715  c  Isaiah 10:31
+'Gedaliah' + ']' > U+e52a  c  Zephaniah 1:1
+'Geder' + ']' > U+e440  c  Joshua 12:13
+'Gedor' + ']' > U+e5dd  c  1 Chronicles 9:37
+'Gehazi' + ']' > U+e618  c  2 Kings 5:20
+'Gemalli' + ']' > U+e2bc  c  Numbers 13:12
+'Gemariah' + ']' > U+e903  c  Jeremiah 29:3
+'generation' + ']' > U+e019
+'Gennesaret' + ']' > U+e341  c  Matthew 14:34
+'gentle' + ']' > U+e26d  c  Ephesians 4:2
+'Genubath' + ']' > U+e5d0  c  1 Kings 11:20
+'Gera' + ']' > U+efbd  c  Genesis 46:21
+'Gerar' + ']' > U+eddd  c  Genesis 10:19
+'Gershom' + ']' > U+e0cb  c  Exodus 2:22
+'Gershon' + ']' > U+efbe  c  Genesis 46:11
+'Geruth Kimham' + ']' > U+e7f0  c  Jeremiah 41:17
+'Geshan' + ']' > U+e772  c  1 Chronicles 2:47
+'Geshem' + ']' > U+e890  c  Nehemiah 2:19
+'Geshur' + ']' > U+e499  c  2 Samuel 14:23
+'Gether' + ']' > U+edde  c  Genesis 10:23
+'Gethsemane' + ']' > U+e34a  c  Matthew 26:36
+'Geuel' + ']' > U+e1fb  c  Numbers 13:15
+'Gezer' + ']' > U+e42f  c  Joshua 10:33
+'Gibbethon' + ']' > U+e500  c  Joshua 21:23
+'Gibea man' + ']' > U+e773  c  1 Chronicles 2:49
+'Gibeah village' + ']' > U+e501  c  Joshua 15:57
+'Gibeath Haaraloth' + ']' > U+e430  c  Joshua 5:3
+'Gibeon man' + ']' > U+e5de  c  1 Chronicles 9:35
+'Gibeon village' + ']' > U+e431  c  Joshua 9:3
+'Giddalti' + ']' > U+e857  c  1 Chronicles 25:4
+'Giddel' + ']' > U+e836  c  Ezra 2:47
+'Gideon' + ']' > U+ed03  c  Judges 6:11
+'Gideoni' + ']' > U+e2bd  c  Numbers 1:11
+'Gidom' + ']' > U+e57b  c  Judges 20:45
+'gift' + ']' > U+e072
+'Gihon' + ']' > U+eddf  c  Genesis 2:13
+'Gilalai' + ']' > U+e891  c  Nehemiah 12:36
+'Gilead land' + ']' > U+efa1  c  Genesis 31:21
+'Gilead man' + ']' > U+e3ab  c  Numbers 26:29
+'Gilgal' + ']' > U+e432  c  Joshua 5:9
+'Giloh' + ']' > U+e509  c  Joshua 15:51
+'Gimzo' + ']' > U+e91a  c  2 Chronicles 28:18
+'Ginath' + ']' > U+e691  c  1 Kings 16:21
+'Ginnethon' + ']' > U+e892  c  Nehemiah 10:6
+'Girgashites' + ']' > U+ede1  c  Genesis 10:16
+'girl' + ']' > U+e009
+'girls' + ']' > U+e00a
+'Gittaim' + ']' > U+e489  c  2 Samuel 4:3
+'give' + ']' > U+e086
+'glass' + ']' > U+ecde
+'glory' + ']' > U+e217
+'gluttony' + ']' > U+ea8c
+'go' + ']' > U+e381
+'go down' + ']' > U+e080  c  Genesis 11:7
+'Goah' + ']' > U+e904  c  Jeremiah 31:39
+'goat' + ']' > U+ea7d
+'God' + ']' > U+e036  c  Genesis 1:1
+'godly' + ']' > U+e130  c  Acts 10:7
+'Gog land' + ']' > U+ecf7  c  Ezekiel 38:2
+'Gog man' + ']' > U+e62b  c  1 Chronicles 5:4
+'Goiim' + ']' > U+ede2  c  Genesis 14:1
+'Golan' + ']' > U+e468  c  Deuteronomy 4:43
+'gold' + ']' > U+eb2a
+'Golgotha' + ']' > U+e34b  c  Matthew 27:33
+'Goliath' + ']' > U+e462  c  1 Samuel 21:9
+'Gomer man' + ']' > U+ede3  c  Genesis 10:2
+'Gomer woman' + ']' > U+e596  c  Hosea 1:3
+'Gomorrah' + ']' > U+ea7a  c  Genesis 10:19
+'gong' + ']' > U+ebe5
+'good' + ']' > U+e096
+'Goshen' + ']' > U+efbf  c  Genesis 47:1
+'gospel' + ']' > U+e22b  c  Matthew 24:14
+'governor' + ']' > U+e0a3
+'Gozan' + ']' > U+e619  c  2 Kings 18:11
+'grace' + ']' > U+e01f
+'grain' + ']' > U+e279
+'grape' + ']' > U+ecf4  c  Isaiah 18:5
+'grass' + ']' > U+ea33
+'grateful' + ']' > U+e20e
+'Greece' + ']' > U+e345  c  Acts 20:3
+'greed' + ']' > U+ea94
+'green' + ']' > U+ecd1
+'greeting' + ']' > U+e051
+'grey' + ']' > U+e611  c  Proverbs 20:29
+'grind' + ']' > U+e83d
+'groom' + ']' > U+e013  c  Matthew 25:1
+'grow' + ']' > U+e154
+'guard' + ']' > U+e0c1  c  Genesis 3:24
+'guilt' + ']' > U+ea84
+'Guni' + ']' > U+efc1  c  Numbers 26:48
+'Gur' + ']' > U+e61a  c  2 Kings 9:27
+'Haahashtari' + ']' > U+e6ec  c  1 Chronicles 4:6
+'Habaiah' + ']' > U+e837  c  Ezra 2:61
+'Habakkuk' + ']' > U+e95f  c  Habakkuk 1:1
+'Habazziniah' + ']' > U+e905  c  Jeremiah 35:3
+'Habor' + ']' > U+e62c  c  1 Chronicles 5:26
+'Hadad' + ']' > U+efa2  c  Genesis 25:15
+'Hadadezer' + ']' > U+e5d1  c  1 Kings 11:23
+'Hadar' + ']' > U+e1af  c  Genesis 36:39
+'Hadashah' + ']' > U+e50a  c  Joshua 15:37
+'Hadid' + ']' > U+e838  c  Ezra 2:33
+'Hadlai' + ']' > U+e2f6  c  2 Chronicles 28:12
+'Hadoram' + ']' > U+ede4  c  Genesis 10:27
+'Hadrak' + ']' > U+e6c5  c  Zechariah 9:1
+'Haeleph' + ']' > U+e650  c  Joshua 18:28
+'Hagab' + ']' > U+e83e  c  Ezra 2:46
+'Hagabah' + ']' > U+e83f  c  Ezra 2:45
+'Hagar' + ']' > U+ecab  c  Genesis 16:1
+'Haggai' + ']' > U+e48c  c  Ezra 5:1
+'Haggedolim' + ']' > U+e893  c  Nehemiah 11:14
+'Haggi' + ']' > U+efc2  c  Genesis 46:16
+'Haggiah' + ']' > U+e66e  c  1 Chronicles 6:30
+'Haggith' + ']' > U+e4b2  c  1 Kings 1:5
+'hail' + ']' > U+ea13
+'hail storm' + ']' > U+ecdd  c  Isaiah 28:2
+'hair' + ']' > U+e208
+'Hakaliah' + ']' > U+e894  c  Nehemiah 1:1
+'Hakilah' + ']' > U+e6cf  c  1 Samuel 26:1
+'Hakkatan' + ']' > U+e8dc  c  Ezra 8:12
+'Hakkoz' + ']' > U+e6ed  c  1 Chronicles 24:10
+'Hakupha' + ']' > U+e840  c  Ezra 2:51
+'Halah' + ']' > U+e61b  c  2 Kings 18:11
+'half' + ']' > U+ea22
+'Halhul' + ']' > U+e50b  c  Joshua 15:58
+'Hali' + ']' > U+e5a6  c  Joshua 19:25
+'Hallohesh' + ']' > U+e895  c  Nehemiah 3:12
+'Ham man' + ']' > U+ede5  c  Genesis 6:10
+'Ham village' + ']' > U+ede6  c  Genesis 14:5
+'Haman' + ']' > U+e4a0  c  Esther 3:1
+'Hamath' + ']' > U+e716  c  Isaiah 10:9
+'Hamathites' + ']' > U+ede7  c  Genesis 10:18
+'Hammath man' + ']' > U+ef30  c  1 Chronicles 2:55
+'Hammedatha' + ']' > U+e47f  c  Esther 3:1
+'Hammoleketh' + ']' > U+e774  c  1 Chronicles 7:18
+'Hammoth Dor' + ']' > U+e502  c  Joshua 21:32
+'Hammuel' + ']' > U+e6ee  c  1 Chronicles 4:26
+'Hamor' + ']' > U+eb5d  c  Genesis 33:19
+'Hamul' + ']' > U+efc3  c  Genesis 46:12
+'Hamutal' + ']' > U+e6aa  c  2 Kings 23:31
+'Hanamel' + ']' > U+e906  c  Jeremiah 32:6
+'Hanan' + ']' > U+e5df  c  1 Chronicles 9:44
+'Hananel' + ']' > U+e896  c  Nehemiah 3:1
+'Hanani' + ']' > U+e692  c  1 Kings 16:1
+'Hananiah' + ']' > U+e66f  c  1 Chronicles 8:24
+'hand' + ']' > U+e071
+'Hannathon' + ']' > U+e5a7  c  Joshua 19:14
+'Hanniel' + ']' > U+e3e5  c  Numbers 34:23
+'Hanun' + ']' > U+e71a  c  2 Samuel 10:1
+'Hapharaim' + ']' > U+e5a8  c  Joshua 19:19
+'Happizzez' + ']' > U+e7d4  c  1 Chronicles 24:15
+'happy' + ']' > U+e205
+'Hara' + ']' > U+e62d  c  1 Chronicles 5:26
+'Haradah' + ']' > U+e3de  c  Numbers 33:24
+'Haran land' + ']' > U+eb0b  c  Genesis 11:31
+'Haran man' + ']' > U+efa4  c  Genesis 11:27
+'Harbona' + ']' > U+e38f  c  Esther 1:10
+'hard' + ']' > U+e269
+'Hareph' + ']' > U+e775  c  1 Chronicles 2:51
+'Harhaiah' + ']' > U+e897  c  Nehemiah 3:8
+'Harhas' + ']' > U+e68b  c  2 Kings 22:14
+'Harhur' + ']' > U+e841  c  Ezra 2:51
+'Harim' + ']' > U+e7d5  c  1 Chronicles 24:8
+'Harnepher' + ']' > U+e7b4  c  1 Chronicles 7:36
+'Harod' + ']' > U+e57c  c  Judges 7:1
+'Harosheth' + ']' > U+e57d  c  Judges 4:2
+'harp' + ']' > U+ecc6
+'harsh' + ']' > U+eca7
+'Harsha' + ']' > U+e842  c  Ezra 2:52
+'Harum' + ']' > U+e6ef  c  1 Chronicles 4:8
+'Harumaph' + ']' > U+e898  c  Nehemiah 3:10
+'Haruphite' + ']' > U+ef22  c  1 Chronicles 12:5
+'Haruz' + ']' > U+e6ab  c  2 Kings 21:19
+'harvest' + ']' > U+e082
+'harvester' + ']' > U+e139  c  Isaiah 17:5
+'Hasadiah' + ']' > U+e6f0  c  1 Chronicles 3:20
+'Hashabiah' + ']' > U+e5e0  c  1 Chronicles 9:14
+'Hashabnah' + ']' > U+e899  c  Nehemiah 10:25
+'Hashabneiah' + ']' > U+e89a  c  Nehemiah 3:10
+'Hashbaddanah' + ']' > U+e89b  c  Nehemiah 8:4
+'Hashmonah' + ']' > U+e3df  c  Numbers 33:29
+'Hashubah' + ']' > U+e6f1  c  1 Chronicles 3:20
+'Hashum' + ']' > U+e843  c  Ezra 2:19
+'Hassenaah' + ']' > U+e89c  c  Nehemiah 3:3
+'Hassenuah' + ']' > U+e5e1  c  1 Chronicles 9:7
+'Hasshub' + ']' > U+e5e2  c  1 Chronicles 9:14
+'Hassophereth' + ']' > U+e844  c  Ezra 2:55
+'Hasupha' + ']' > U+e845  c  Ezra 2:43
+'hate' + ']' > U+e01b
+'Hathak' + ']' > U+e4a1  c  Esther 4:5
+'Hathath' + ']' > U+e6f2  c  1 Chronicles 4:13
+'Hatipha' + ']' > U+e846  c  Ezra 2:54
+'Hatita' + ']' > U+e847  c  Ezra 2:42
+'Hattil' + ']' > U+e848  c  Ezra 2:57
+'Hattush' + ']' > U+e6f3  c  1 Chronicles 3:22
+'Hauran' + ']' > U+e8f3  c  Ezekiel 47:18
+'have' + ']' > U+e083
+'Havilah land' + ']' > U+ede8  c  Genesis 2:11
+'Havilah man' + ']' > U+effa  c  Genesis 10:7
+'Hazael' + ']' > U+e456  c  Amos 1:4
+'Hazaiah' + ']' > U+e89d  c  Nehemiah 11:5
+'Hazar Enan' + ']' > U+e3eb  c  Numbers 34:9
+'Hazar Gaddah' + ']' > U+e50c  c  Joshua 15:27
+'Hazar Shual' + ']' > U+e50d  c  Joshua 15:28
+'Hazarmaveth' + ']' > U+ede9  c  Genesis 10:26
+'Hazer Hattikon' + ']' > U+e8f4  c  Ezekiel 47:16
+'Hazeroth' + ']' > U+e2be  c  Numbers 11:35
+'Hazezon Tamar' + ']' > U+edea  c  Genesis 14:7
+'Haziel' + ']' > U+e7b5  c  1 Chronicles 23:9
+'Hazo' + ']' > U+e1b0  c  Genesis 22:22
+'Hazor' + ']' > U+e441  c  Joshua 12:19
+'Hazzelelponi' + ']' > U+e6f4  c  1 Chronicles 4:3
+'Hazzobebah' + ']' > U+e6f5  c  1 Chronicles 4:8
+'head' + ']' > U+e206
+'heal' + ']' > U+e084
+'health' + ']' > U+e209
+'heart' + ']' > U+e29a
+'heaven' + ']' > U+e380  c  Matthew 6:10
+'heavy' + ']' > U+e0e7
+'Heber' + ']' > U+e1b1  c  Genesis 46:17
+'Hebrew' + ']' > U+ec8f  c  Genesis 14:13
+'Hebron man' + ']' > U+e478  c  Exodus 6:18
+'Hebron village' + ']' > U+edeb  c  Genesis 13:18
+'hedge' + ']' > U+e28a
+'Hegai man' + ']' > U+e41a  c  Esther 2:8
+'hei' + ']' > U+ee05
+'height' + ']' > U+ecc1
+'heir' + ']' > U+e018
+'Helah' + ']' > U+e6f6  c  1 Chronicles 4:5
+'Helam' + ']' > U+e71b  c  2 Samuel 10:16
+'Helbah' + ']' > U+e57e  c  Judges 1:31
+'Helbon' + ']' > U+e8f5  c  Ezekiel 27:18
+'Heled' + ']' > U+e807  c  1 Chronicles 11:30
+'Helek' + ']' > U+e3ac  c  Numbers 26:30
+'Heleph' + ']' > U+e651  c  Joshua 19:33
+'Helez' + ']' > U+e7b6  c  1 Chronicles 2:39
+'Helkai' + ']' > U+e89e  c  Nehemiah 12:15
+'Helkath' + ']' > U+e503  c  Joshua 21:31
+'hell' + ']' > U+e0d1  c  Deuteronomy 32:22
+'Helon' + ']' > U+e1fc  c  Numbers 1:9
+'help' + ']' > U+e13a
+'helper' + ']' > U+e150
+'Heman' + ']' > U+e1b2  c  1 Kings 4:31
+'Hemdan' + ']' > U+eff4  c  Genesis 36:26
+'Hen' + ']' > U+e8f0  c  Zechariah 6:14
+'Hena' + ']' > U+e61c  c  2 Kings 18:34
+'Henadad' + ']' > U+e849  c  Ezra 3:9
+'Hepher' + ']' > U+e3ad  c  Numbers 26:32
+'Hephzibah' + ']' > U+e6ac  c  2 Kings 21:1
+'here' + ']' > U+e212
+'Heres' + ']' > U+e559  c  Judges 1:35
+'Heresh' + ']' > U+e5e3  c  1 Chronicles 9:15
+'Hermas' + ']' > U+ebc4  c  Romans 16:14
+'Hermes idol' + ']' > U+eb2f  c  Acts 14:12
+'Hermes man' + ']' > U+ebed  c  Romans 16:14
+'Hermogenes' + ']' > U+ecb5  c  2 Timothy 1:15
+'Herod' + ']' > U+e360  c  Matthew 2:1
+'Herodians' + ']' > U+ea05  c  Mark 3:6
+'Herodias' + ']' > U+e355  c  Matthew 14:3
+'Herodion' + ']' > U+ebf1  c  Romans 16:11
+'Heshbon' + ']' > U+e3ae  c  Joshua 13:26
+'Heshmon' + ']' > U+e50e  c  Joshua 15:27
+'Heth' + ']' > U+edec  c  Genesis 10:15
+'Hethlon' + ']' > U+e8f6  c  Ezekiel 47:15
+'Hezekiah' + ']' > U+ea62  c  2 Kings 16:20
+'Hezion' + ']' > U+e5d2  c  1 Kings 15:18
+'Hezir' + ']' > U+e7d6  c  1 Chronicles 24:15
+'Hezro' + ']' > U+e808  c  1 Chronicles 11:37
+'Hezron' + ']' > U+ea4f  c  Genesis 46:9
+'hide' + ']' > U+e085
+'Hiel' + ']' > U+e693  c  1 Kings 16:34
+'Hierapolis' + ']' > U+ece9  c  Colossians 4:13
+'Hilkiah' + ']' > U+e5e4  c  1 Chronicles 9:11
+'hill' + ']' > U+e202
+'Hillel' + ']' > U+e51e  c  Judges 12:13
+'Hirah' + ']' > U+e1b3  c  Genesis 38:1
+'Hiram' + ']' > U+e5d3  c  1 Kings 10:11
+'hire' + ']' > U+e13b
+'Hittites' + ']' > U+eded  c  Genesis 15:20
+'Hivites' + ']' > U+edee  c  Exodus 3:8
+'Hizki' + ']' > U+e670  c  1 Chronicles 8:17
+'Hobab' + ']' > U+e1fd  c  Numbers 10:29
+'Hobah' + ']' > U+edef  c  Genesis 14:15
+'Hod' + ']' > U+e7b7  c  1 Chronicles 7:37
+'Hodaviah' + ']' > U+e5e5  c  1 Chronicles 9:7
+'Hodesh' + ']' > U+e671  c  1 Chronicles 8:9
+'Hodiah' + ']' > U+e6f7  c  1 Chronicles 4:19
+'Hoglah' + ']' > U+e3af  c  Numbers 26:33
+'Hoham' + ']' > U+e433  c  Joshua 10:3
+'hole' + ']' > U+e302
+'Holon' + ']' > U+e504  c  Joshua 21:15
+'holy' + ']' > U+e13c
+'Holy Spirit' + ']' > U+ef01
+'honey' + ']' > U+e052
+'honor' + ']' > U+e031
+'hope' + ']' > U+e213
+'Hophni' + ']' > U+e4ea  c  1 Samuel 1:3
+'Hophra' + ']' > U+e907  c  Jeremiah 44:30
+'Hor Haggidgad' + ']' > U+e3ec  c  Numbers 33:32
+'Horam' + ']' > U+e434  c  Joshua 10:33
+'Horesh' + ']' > U+e7eb  c  1 Samuel 22:5
+'Hori' + ']' > U+eff5  c  Genesis 36:22
+'Horites' + ']' > U+edf1  c  Genesis 14:6
+'Hormah' + ']' > U+e2f8  c  Numbers 14:45
+'horn' + ']' > U+ecc5  c  Exodus 27:2
+'Horonaim' + ']' > U+e8ba  c  Isaiah 15:5
+'horse' + ']' > U+e303
+'Hosah man' + ']' > U+e5af  c  1 Chronicles 26:11
+'Hosah village' + ']' > U+e581  c  Joshua 19:29
+'hosanna' + ']' > U+e216
+'Hosea' + ']' > U+ebc5  c  Hosea 1:1
+'Hoshaiah' + ']' > U+e89f  c  Nehemiah 12:32
+'Hoshama' + ']' > U+e6f8  c  1 Chronicles 3:18
+'Hotham' + ']' > U+e7b8  c  1 Chronicles 7:32
+'Hothir' + ']' > U+e858  c  1 Chronicles 25:4
+'hour' + ']' > U+e331
+'house' + ']' > U+e171
+'how' + ']' > U+e068
+'how long' + ']' > U+e83c  c  Exodus 10:3
+'Hubbah' + ']' > U+e7b9  c  1 Chronicles 7:34
+'Hul' + ']' > U+edf2  c  Genesis 10:23
+'Huldah' + ']' > U+e68c  c  2 Kings 22:14
+'human nature' + ']' > U+e23d  c  Romans 6:19
+'humble' + ']' > U+e19d
+'Humtah' + ']' > U+e50f  c  Joshua 15:54
+'hungry' + ']' > U+e01e
+'Hupham' + ']' > U+e3b0  c  Numbers 26:39
+'Huppah' + ']' > U+e7d7  c  1 Chronicles 24:13
+'Huppim' + ']' > U+efc5  c  Genesis 46:21
+'Hur' + ']' > U+e2e0  c  Exodus 31:2
+'Hurai' + ']' > U+e809  c  1 Chronicles 11:32
+'Huri' + ']' > U+e62e  c  1 Chronicles 5:14
+'husband' + ']' > U+e012
+'Hushah' + ']' > U+e6f9  c  1 Chronicles 20:4
+'Hushai' + ']' > U+e96c  c  1 Kings 4:16
+'Husham' + ']' > U+e1b4  c  Genesis 36:34
+'Hushathite' + ']' > U+e927  c  1 Chronicles 20:4
+'Hushim man' + ']' > U+efc6  c  Genesis 46:23
+'Hushim woman' + ']' > U+e672  c  1 Chronicles 8:8
+'Hymenaeus' + ']' > U+ecaa  c  1 Timothy 1:20
+'hymn' + ']' > U+e0e3  c  Matthew 26:30
+'Ibhar' + ']' > U+e6d7  c  2 Samuel 5:15
+'Ibleam' + ']' > U+e469  c  Joshua 17:11
+'Ibneiah' + ']' > U+e5e6  c  1 Chronicles 9:8
+'Ibnijah' + ']' > U+e5e7  c  1 Chronicles 9:8
+'Ibri' + ']' > U+e7d8  c  1 Chronicles 24:27
+'Ibsam' + ']' > U+e7ba  c  1 Chronicles 7:2
+'Ibzan' + ']' > U+e51f  c  Judges 12:8
+'Ichabod' + ']' > U+e7de  c  1 Samuel 4:21
+'Iconium' + ']' > U+ec1f  c  Acts 13:51
+'Idalah' + ']' > U+e582  c  Joshua 19:15
+'Idbash' + ']' > U+e6fa  c  1 Chronicles 4:3
+'Iddo' + ']' > U+e96d  c  1 Kings 4:14
+'idol' + ']' > U+e35d
+'Iezer' + ']' > U+e3b1  c  Numbers 26:30
+'if' + ']' > U+e111
+'Igal' + ']' > U+e1fe  c  Numbers 13:7
+'Igdaliah' + ']' > U+e908  c  Jeremiah 35:4
+'ignorant' + ']' > U+e06e
+'Ijon' + ']' > U+e5d4  c  1 Kings 15:20
+'Ikkesh' + ']' > U+e80a  c  1 Chronicles 11:28
+'Illyricum' + ']' > U+ebc6  c  Romans 15:19
+'Imlah' + ']' > U+e69d  c  1 Kings 22:9
+'immeasurable' + ']' > U+e18c
+'Immer land' + ']' > U+e84a  c  Nehemiah 7:61
+'Immer man' + ']' > U+e5e8  c  1 Chronicles 9:12
+'Imnah' + ']' > U+efc7  c  1 Chronicles 7:30
+'impossible' + ']' > U+e180
+'Imrah' + ']' > U+e7bb  c  1 Chronicles 7:36
+'Imri' + ']' > U+e5e9  c  1 Chronicles 9:4
+'in' + ']' > U+e240
+'in front' + ']' > U+e112
+'incense' + ']' > U+ec98  c  Exodus 7:10
+'India' + ']' > U+e4a2  c  Esther 8:9
+'inheritance' + ']' > U+e017  c  Genesis 17:10
+'insect' + ']' > U+e304
+'Iob' + ']' > U+e0ee  c  Genesis 46:13
+'Iphdeiah' + ']' > U+e673  c  1 Chronicles 8:25
+'Iphtah' + ']' > U+e510  c  Joshua 15:43
+'Iphtah El' + ']' > U+e583  c  Joshua 19:14
+'Ir' + ']' > U+e7d9  c  1 Chronicles 7:12
+'Ir Nahash village' + ']' > U+e6fb  c  1 Chronicles 4:12
+'Ira' + ']' > U+e71c  c  2 Samuel 23:26
+'Irad' + ']' > U+edf3  c  Genesis 4:18
+'Iram' + ']' > U+eff6  c  Genesis 36:43
+'Iri' + ']' > U+e7bc  c  1 Chronicles 7:7
+'Irijah' + ']' > U+e909  c  Jeremiah 37:13
+'iron' + ']' > U+eb29
+'Iron' + ']' > U+e584  c  Joshua 19:38
+'Irpeel' + ']' > U+e652  c  Joshua 18:27
+'Iru' + ']' > U+e6fc  c  1 Chronicles 4:15
+'Isaac' + ']' > U+e374  c  Genesis 17:19
+'Isaiah' + ']' > U+e372  c  2 Kings 19:2
+'Ishbah' + ']' > U+e6fd  c  1 Chronicles 4:17
+'Ishbak' + ']' > U+eeda  c  Genesis 25:2
+'Ishbosheth' + ']' > U+e48a  c  2 Samuel 2:8
+'Ishdod' + ']' > U+e7bd  c  1 Chronicles 7:18
+'Ishi' + ']' > U+e62f  c  1 Chronicles 5:24
+'Ishiah' + ']' > U+e7be  c  1 Chronicles 7:3
+'Ishmael' + ']' > U+e1b5  c  Genesis 17:18
+'Ishmaiah' + ']' > U+e80b  c  1 Chronicles 12:4
+'Ishmerai' + ']' > U+e674  c  1 Chronicles 8:18
+'Ishpah' + ']' > U+e675  c  1 Chronicles 8:16
+'Ishpan' + ']' > U+e676  c  1 Chronicles 8:22
+'Ishvah' + ']' > U+efc8  c  Genesis 46:17
+'Ishvi' + ']' > U+efc9  c  Genesis 46:17
+'Iskah' + ']' > U+eedb  c  Genesis 11:29
+'island' + ']' > U+eb05
+'Ismakiah' + ']' > U+e91c  c  2 Chronicles 31:13
+'Israel' + ']' > U+ea04  c  Genesis 32:28
+'Issachar land' + ']' > U+ef23  c  Joshua 17:11
+'Issachar man' + ']' > U+ecce  c  Genesis 30:18
+'Italy' + ']' > U+ec90  c  Acts 18:2
+'Ithai' + ']' > U+e80c  c  1 Chronicles 11:31
+'Ithamar' + ']' > U+e2e1  c  Exodus 28:1
+'Ithiel' + ']' > U+e8a0  c  Nehemiah 11:7
+'Ithlah' + ']' > U+e585  c  Joshua 19:42
+'Ithmah' + ']' > U+e80d  c  1 Chronicles 11:46
+'Ithnan' + ']' > U+e511  c  Joshua 15:23
+'Ithran' + ']' > U+e1b6  c  Genesis 36:26
+'Ithream' + ']' > U+e6fe  c  1 Chronicles 3:3
+'Ittai' + ']' > U+e8c0  c  2 Samuel 15:22
+'Ituraea' + ']' > U+ec3e  c  Luke 3:1
+'Ivvah' + ']' > U+e61d  c  2 Kings 18:34
+'Iye Abarim' + ']' > U+e3b2  c  Numbers 21:11
+'Izhar' + ']' > U+e2c1  c  Exodus 6:18
+'Izliah' + ']' > U+e677  c  1 Chronicles 8:18
+'Izrahiah' + ']' > U+e7bf  c  1 Chronicles 7:3
+'Izziah' + ']' > U+e8dd  c  Ezra 10:25
+'Jaakobah' + ']' > U+e6ff  c  1 Chronicles 4:36
+'Jaalah' + ']' > U+e84b  c  Ezra 2:56
+'Jaareshiah' + ']' > U+e678  c  1 Chronicles 8:27
+'Jaasiel' + ']' > U+e80e  c  1 Chronicles 11:47
+'Jaasu' + ']' > U+e8de  c  Ezra 10:37
+'Jaazaniah' + ']' > U+e7cd  c  2 Kings 25:23
+'Jaaziah' + ']' > U+e7da  c  1 Chronicles 24:26
+'Jaaziel' + ']' > U+e7c0  c  1 Chronicles 15:18
+'Jabal' + ']' > U+e1b7  c  Genesis 4:20
+'Jabbok' + ']' > U+efca  c  Genesis 32:22
+'Jabesh man' + ']' > U+e6ad  c  2 Kings 15:10
+'Jabesh village' + ']' > U+e4eb  c  1 Samuel 31:11
+'Jabez' + ']' > U+e6d8  c  1 Chronicles 4:9
+'Jabin' + ']' > U+e55b  c  Judges 4:2
+'Jabneel' + ']' > U+e512  c  Joshua 15:11
+'Jacob' + ']' > U+e375  c  Genesis 25:26
+'Jada' + ']' > U+e7c1  c  1 Chronicles 2:28
+'Jaddua' + ']' > U+e8a1  c  Nehemiah 10:21
+'Jadon' + ']' > U+e8a2  c  Nehemiah 3:7
+'Jael' + ']' > U+e55c  c  Judges 5:6
+'Jagur' + ']' > U+e513  c  Joshua 15:21
+'Jahath' + ']' > U+e679  c  1 Chronicles 6:20
+'Jahaz' + ']' > U+e3b3  c  Numbers 21:23
+'Jahaziel' + ']' > U+e8df  c  Ezra 8:5
+'Jahdai' + ']' > U+e7c2  c  1 Chronicles 2:47
+'Jahdiel' + ']' > U+e630  c  1 Chronicles 5:24
+'Jahdo' + ']' > U+e631  c  1 Chronicles 5:14
+'Jahleel' + ']' > U+efcb  c  Genesis 46:14
+'Jahmai' + ']' > U+e7c3  c  1 Chronicles 7:2
+'Jahzeiah' + ']' > U+e8e0  c  Ezra 10:15
+'Jahzerah' + ']' > U+e5ea  c  1 Chronicles 12:9
+'Jahziel' + ']' > U+e1b8  c  Genesis 46:24
+'Jair' + ']' > U+e3cc  c  Numbers 32:41
+'Jairus' + ']' > U+e367  c  Mark 5:22
+'Jakeh' + ']' > U+e6c9  c  Proverbs 30:1
+'Jakim' + ']' > U+e67a  c  1 Chronicles 8:19
+'Jakin' + ']' > U+e1b9  c  Genesis 46:10
+'Jalam' + ']' > U+eff7  c  Genesis 36:5
+'Jalon' + ']' > U+e6d9  c  1 Chronicles 4:17
+'Jambres' + ']' > U+ecbc  c  2 Timothy 3:8
+'James' + ']' > U+e376  c  Matthew 4:21
+'James the Disciple' + ']' > U+e358  c  Mark 1:19
+'Jamin' + ']' > U+efcc  c  Genesis 46:10
+'Jamlech' + ']' > U+e6da  c  1 Chronicles 4:34
+'Janai' + ']' > U+e632  c  1 Chronicles 5:12
+'Janim' + ']' > U+e514  c  Joshua 15:53
+'Jannai' + ']' > U+ec46  c  Luke 3:24
+'Jannes' + ']' > U+ecbe  c  2 Timothy 3:8
+'Janoah' + ']' > U+e46a  c  Joshua 16:7
+'Japheth' + ']' > U+edf4  c  Genesis 6:10
+'Japhia man' + ']' > U+e435  c  Joshua 10:3
+'Japhia village' + ']' > U+e586  c  Joshua 19:12
+'Japhlet' + ']' > U+e46b  c  Joshua 16:3
+'jar' + ']' > U+e0d5
+'Jared' + ']' > U+ec62  c  Genesis 5:15
+'Jarha' + ']' > U+ef17  c  1 Chronicles 2:34
+'Jarib' + ']' > U+e8e1  c  Ezra 8:16
+'Jarmuth' + ']' > U+e436  c  Joshua 10:3
+'Jaroah' + ']' > U+e633  c  1 Chronicles 5:14
+'Jashen' + ']' > U+e7f7  c  2 Samuel 23:32
+'Jashobeam' + ']' > U+e810  c  1 Chronicles 11:11
+'Jashub' + ']' > U+e389  c  Numbers 26:24
+'Jason' + ']' > U+eb64  c  Acts 17:5
+'Jathniel' + ']' > U+e67b  c  1 Chronicles 26:2
+'Jattir' + ']' > U+e505  c  Joshua 21:14
+'Javan' + ']' > U+e1ba  c  Genesis 10:2
+'Jazer' + ']' > U+e38a  c  Numbers 21:32
+'Jaziz' + ']' > U+e859  c  1 Chronicles 27:30
+'jealous God' + ']' > U+e973  c  Exodus 20:5
+'jealous man' + ']' > U+e2fe  c  Genesis 37:11
+'Jeatherai' + ']' > U+e67c  c  1 Chronicles 6:21
+'Jeberekiah' + ']' > U+e6c6  c  Isaiah 8:2
+'Jebusites' + ']' > U+e1e5  c  Genesis 10:16
+'Jechoniah' + ']' > U+ea66  c  Matthew 1:11
+'Jedaiah' + ']' > U+e5eb  c  1 Chronicles 9:10
+'Jediael' + ']' > U+e67d  c  1 Chronicles 26:2
+'Jedidah' + ']' > U+e8c2  c  2 Kings 22:1
+'Jegar Sahadutha' + ']' > U+e1e6  c  Genesis 31:47
+'Jehallelel' + ']' > U+e6db  c  1 Chronicles 4:16
+'Jehdeiah' + ']' > U+e7db  c  1 Chronicles 24:20
+'Jehiah' + ']' > U+e7c4  c  1 Chronicles 15:24
+'Jehieli' + ']' > U+e67e  c  1 Chronicles 26:22
+'Jehoaddah' + ']' > U+e67f  c  1 Chronicles 8:36
+'Jehoaddan' + ']' > U+e6af  c  2 Kings 14:2
+'Jehoahaz' + ']' > U+e6ae  c  2 Kings 13:8
+'Jehohanan' + ']' > U+e680  c  1 Chronicles 26:3
+'Jehoiachin' + ']' > U+e41b  c  2 Kings 24:6
+'Jehoiada' + ']' > U+e4b3  c  1 Kings 1:8
+'Jehonadab' + ']' > U+e6dc  c  1 Chronicles 20:7
+'Jehoshaphat' + ']' > U+ea5d  c  1 Kings 15:24
+'Jehosheba' + ']' > U+e61e  c  2 Kings 11:2
+'Jehozabad' + ']' > U+e681  c  1 Chronicles 26:4
+'Jehozadak' + ']' > U+e47e  c  Zechariah 6:11
+'Jehu' + ']' > U+e597  c  Hosea 1:4
+'Jehud' + ']' > U+e587  c  Joshua 19:45
+'Jehudi' + ']' > U+e90a  c  Jeremiah 36:14
+'Jehukal' + ']' > U+e90b  c  Jeremiah 37:3
+'Jekameam' + ']' > U+e7c5  c  1 Chronicles 23:19
+'Jekoliah' + ']' > U+e6b0  c  2 Kings 15:2
+'Jekuthiel' + ']' > U+e6dd  c  1 Chronicles 4:18
+'Jemimah' + ']' > U+ef19  c  Job 42:14
+'Jemuel' + ']' > U+efcd  c  Exodus 6:15
+'Jephthah' + ']' > U+ed04  c  Judges 11:1
+'Jephunneh' + ']' > U+e3ee  c  Numbers 26:65
+'Jerah' + ']' > U+edf5  c  Genesis 10:26
+'Jerahmeel' + ']' > U+e7c6  c  1 Chronicles 2:9
+'Jeremiah' + ']' > U+ea28  c  2 Chronicles 36:12
+'Jeremoth' + ']' > U+e682  c  1 Chronicles 8:14
+'Jeriah' + ']' > U+e683  c  1 Chronicles 26:31
+'Jeribai' + ']' > U+e814  c  1 Chronicles 11:46
+'Jericho' + ']' > U+ea08  c  Numbers 22:1
+'Jeriel' + ']' > U+e74e  c  1 Chronicles 7:2
+'Jerioth' + ']' > U+e77e  c  1 Chronicles 2:18
+'Jeroboam' + ']' > U+e457  c  1 Kings 11:26
+'Jeroham' + ']' > U+e4ec  c  1 Samuel 1:1
+'Jerusalem' + ']' > U+e338  c  Joshua 10:1
+'Jerushah' + ']' > U+e6b1  c  2 Kings 15:33
+'Jeshanah' + ']' > U+e91d  c  2 Chronicles 13:19
+'Jeshebeab' + ']' > U+e6d5  c  1 Chronicles 24:13
+'Jesher' + ']' > U+e934  c  1 Chronicles 2:18
+'Jeshishai' + ']' > U+e634  c  1 Chronicles 5:14
+'Jeshohaiah' + ']' > U+e6de  c  1 Chronicles 4:36
+'Jeshua village' + ']' > U+e4f4  c  Nehemiah 11:26
+'Jesimiel' + ']' > U+e6df  c  1 Chronicles 4:36
+'Jesse' + ']' > U+ea58  c  Ruth 4:17
+'Jesus' + ']' > U+e037  c  Mark 1:9
+'Jether' + ']' > U+e57f  c  Judges 8:20
+'Jetheth' + ']' > U+eff8  c  Genesis 36:40
+'Jethro' + ']' > U+e0cc  c  Exodus 18:1
+'Jetur' + ']' > U+eedc  c  Genesis 25:15
+'Jeuel' + ']' > U+e5ec  c  1 Chronicles 9:6
+'Jeush' + ']' > U+e1bb  c  Genesis 36:5
+'Jeuz' + ']' > U+e935  c  1 Chronicles 8:10
+'Jew' + ']' > U+e0f9  c  Esther 2:5
+'Jezaniah' + ']' > U+e90c  c  Jeremiah 42:1
+'Jezebel' + ']' > U+eca2  c  1 Kings 16:31
+'Jezer' + ']' > U+e1bc  c  Genesis 46:24
+'Jeziel' + ']' > U+e815  c  1 Chronicles 12:3
+'Jezreel man' + ']' > U+e598  c  Hosea 1:4
+'Jezreel village' + ']' > U+e46c  c  Joshua 17:16
+'Jidlaph' + ']' > U+efce  c  Genesis 22:22
+'Joab' + ']' > U+e4b4  c  1 Kings 1:7
+'Joah' + ']' > U+e61f  c  2 Kings 18:18
+'Joanan' + ']' > U+ec4c  c  Luke 3:27
+'Joanna' + ']' > U+ec63  c  Luke 8:3
+'Joash' + ']' > U+e458  c  Judges 6:31
+'Job' + ']' > U+ed0b  c  Job 1:1
+'Jobab' + ']' > U+edf6  c  Genesis 10:29
+'Jochebed' + ']' > U+e2c4  c  Exodus 6:20
+'Joda' + ']' > U+e91f  c  Luke 3:26
+'Joed' + ']' > U+e8a3  c  Nehemiah 11:7
+'Joel' + ']' > U+ec92  c  Joel 1:1
+'Joelah' + ']' > U+e816  c  1 Chronicles 12:7
+'Joezer' + ']' > U+e817  c  1 Chronicles 12:6
+'Jogbehah' + ']' > U+e3cd  c  Numbers 32:35
+'Jogli' + ']' > U+e3ef  c  Numbers 34:22
+'Joha' + ']' > U+e936  c  1 Chronicles 8:16
+'Johanan' + ']' > U+e937  c  1 Chronicles 6:9
+'John' + ']' > U+e35a  c  John 1:42
+'John the Baptist' + ']' > U+e336  c  Matthew 3:1
+'Johozadak' + ']' > U+e494  c  1 Chronicles 6:15
+'Joiakim' + ']' > U+e8a4  c  Nehemiah 12:10
+'Joiarib' + ']' > U+e8a5  c  Nehemiah 11:5
+'Jokdeam' + ']' > U+e515  c  Joshua 15:56
+'Jokim' + ']' > U+e6e0  c  1 Chronicles 4:22
+'Jokneam' + ']' > U+e442  c  Joshua 12:22
+'Jokshan' + ']' > U+eedd  c  Genesis 25:2
+'Joktan' + ']' > U+e1bd  c  Genesis 10:25
+'Joktheel' + ']' > U+e516  c  Joshua 15:38
+'Jonah' + ']' > U+e0c5  c  Jonah 1:1
+'Jonah Simons father' + ']' > U+ea29  c  Matthew 16:17
+'Jonam' + ']' > U+ec9b  c  Luke 3:30
+'Jonathan' + ']' > U+e48b  c  1 Samuel 13:2
+'Joppa' + ']' > U+ec2d  c  Jonah 1:3
+'Jorah' + ']' > U+e84c  c  Ezra 2:18
+'Jorai' + ']' > U+e635  c  1 Chronicles 5:13
+'Joram' + ']' > U+ea5e  c  2 Kings 8:16
+'Jordan River' + ']' > U+e34f  c  Genesis 50:10
+'Jorim' + ']' > U+ec64  c  Luke 3:29
+'Jorkeam' + ']' > U+e7af  c  1 Chronicles 2:44
+'Joseph' + ']' > U+ea15  c  Genesis 30:24
+'Joses' + ']' > U+e369  c  Mark 6:3
+'Joshah' + ']' > U+e6e1  c  1 Chronicles 4:34
+'Joshaviah' + ']' > U+e818  c  1 Chronicles 11:46
+'Joshbekashah' + ']' > U+e85a  c  1 Chronicles 25:4
+'Joshibiah' + ']' > U+e6e2  c  1 Chronicles 4:35
+'Joshua man' + ']' > U+eb03  c  Exodus 17:9
+'Josiah' + ']' > U+ea65  c  2 Kings 21:24
+'Jotbathah' + ']' > U+e3f0  c  Numbers 33:33
+'Jotham' + ']' > U+eb82  c  Judges 9:5
+'Jubal' + ']' > U+edf7  c  Genesis 4:21
+'Judah land' + ']' > U+e426  c  Haggai 1:1
+'Judah man' + ']' > U+ea4b  c  Genesis 29:35
+'Judas' + ']' > U+e368  c  Mark 6:3
+'Judas Iscariot' + ']' > U+e365  c  Matthew 10:4
+'Judea' + ']' > U+e339  c  Romans 15:31
+'judge' + ']' > U+e1a2
+'Judith' + ']' > U+edf8  c  Genesis 26:34
+'Julia' + ']' > U+ebc7  c  Romans 16:15
+'Julius' + ']' > U+ec07  c  Acts 27:1
+'jump' + ']' > U+ed0a
+'Junia' + ']' > U+ebc8  c  Romans 16:7
+'Jushab Hesed' + ']' > U+e6e3  c  1 Chronicles 3:20
+'justice' + ']' > U+ea25
+'justify' + ']' > U+eb4f
+'Justus' + ']' > U+eb6a  c  Acts 1:23
+'Juttah' + ']' > U+e506  c  Joshua 21:16
+'Kabbon' + ']' > U+e517  c  Joshua 15:40
+'Kabul' + ']' > U+e588  c  Joshua 19:27
+'Kabzeel' + ']' > U+e518  c  Joshua 15:21
+'Kadesh' + ']' > U+edf9  c  Genesis 14:7
+'Kadmiel' + ']' > U+e84d  c  Ezra 2:40
+'Kadmonites' + ']' > U+efd1  c  Genesis 15:19
+'Kain' + ']' > U+e519  c  Joshua 15:57
+'Kalkol' + ']' > U+e96e  c  1 Kings 4:31
+'Kallai' + ']' > U+e8a6  c  Nehemiah 12:20
+'Kalneh' + ']' > U+edfa  c  Genesis 10:10
+'Kamon' + ']' > U+e520  c  Judges 10:5
+'Kanah brook' + ']' > U+e46d  c  Joshua 16:8
+'Kanah village' + ']' > U+e46e  c  Joshua 19:28
+'Kareah' + ']' > U+e7ce  c  2 Kings 25:23
+'Karka' + ']' > U+e51a  c  Joshua 15:3
+'Karkor' + ']' > U+e580  c  Judges 8:10
+'Karmi' + ']' > U+efd2  c  Genesis 46:9
+'Kartah' + ']' > U+e653  c  Joshua 21:34
+'Kasiphia' + ']' > U+e8e2  c  Ezra 8:17
+'Kasluhites' + ']' > U+edc9  c  Genesis 10:14
+'Kattath' + ']' > U+e589  c  Joshua 19:15
+'Kebar Canal' + ']' > U+e8f7  c  Ezekiel 1:1
+'Kedar' + ']' > U+eede  c  Genesis 25:13
+'Kedemah' + ']' > U+eedf  c  Genesis 25:15
+'Kedemoth' + ']' > U+e49a  c  Deuteronomy 2:26
+'Kedorlaomer' + ']' > U+edfb  c  Genesis 14:1
+'keep' + ']' > U+e099
+'Kehelathah' + ']' > U+e3f1  c  Numbers 33:22
+'Keilah man' + ']' > U+e6e4  c  1 Chronicles 4:19
+'Keilah village' + ']' > U+e51b  c  Joshua 15:40
+'Kelal' + ']' > U+e8e3  c  Ezra 10:30
+'Kelita' + ']' > U+e8a7  c  Nehemiah 10:10
+'Kelub' + ']' > U+e6e5  c  1 Chronicles 4:11
+'Keluhi' + ']' > U+e8e4  c  Ezra 10:35
+'Kemuel' + ']' > U+efd3  c  Genesis 22:21
+'Kenaanah' + ']' > U+e69f  c  1 Kings 22:11
+'Kenani' + ']' > U+e8a8  c  Nehemiah 9:4
+'Kenaniah' + ']' > U+e938  c  1 Chronicles 26:29
+'Kenath' + ']' > U+e3ce  c  Numbers 32:42
+'Kenaz' + ']' > U+efd4  c  Genesis 36:11
+'Kenites' + ']' > U+efd5  c  Genesis 15:19
+'Kephar Ammon' + ']' > U+e654  c  Joshua 18:24
+'Kephirah' + ']' > U+e437  c  Joshua 18:26
+'Keran' + ']' > U+eff9  c  Genesis 36:26
+'Keren Happuch' + ']' > U+ef14  c  Job 42:14
+'Kerethites' + ']' > U+e52e  c  Zephaniah 2:5
+'Kerioth' + ']' > U+e459  c  Jeremiah 48:24
+'Kerith' + ']' > U+e694  c  1 Kings 17:3
+'Keros' + ']' > U+e84e  c  Ezra 2:44
+'Kerub' + ']' > U+e84f  c  Ezra 2:59
+'Kesed' + ']' > U+efd6  c  Genesis 22:22
+'Kesil' + ']' > U+e52f  c  Joshua 15:30
+'Keturah' + ']' > U+eee1  c  Genesis 25:1
+'key' + ']' > U+ea9d
+'Keziah' + ']' > U+ef12  c  Job 42:14
+'Kezib' + ']' > U+e1bf  c  Genesis 38:5
+'Kibroth Hattaavah' + ']' > U+e2a0  c  Numbers 11:34
+'Kibzaim' + ']' > U+e655  c  Joshua 21:22
+'Kidon' + ']' > U+e636  c  1 Chronicles 13:9
+'Kidron Valley' + ']' > U+eba6  c  John 18:1
+'Kilion' + ']' > U+e41f  c  Ruth 1:5
+'kill' + ']' > U+e141
+'Kilmad' + ']' > U+e921  c  Ezekiel 27:23
+'Kimham' + ']' > U+e7f8  c  2 Samuel 19:37
+'Kinah' + ']' > U+e530  c  Joshua 15:22
+'kind nice' + ']' > U+e01c
+'king' + ']' > U+e028
+'kingdom' + ']' > U+e02f
+'Kinnereth' + ']' > U+e3f2  c  Joshua 19:35
+'Kir' + ']' > U+e45a  c  Isaiah 22:6
+'Kiriath Huzoth' + ']' > U+e2f9  c  Numbers 22:39
+'Kiriath Jearim' + ']' > U+e438  c  Joshua 9:17
+'Kish' + ']' > U+eb49  c  1 Chronicles 24:29
+'Kishi' + ']' > U+e65e  c  1 Chronicles 6:44
+'Kishion' + ']' > U+e4e0  c  Joshua 21:28
+'Kishon' + ']' > U+e55d  c  Judges 5:21
+'Kislon' + ']' > U+e3f3  c  Numbers 34:21
+'Kisloth Tabor' + ']' > U+e58a  c  Joshua 19:12
+'kiss' + ']' > U+e0e8
+'Kitlish' + ']' > U+e531  c  Joshua 15:40
+'Kitron' + ']' > U+e55e  c  Judges 1:30
+'Kittim man' + ']' > U+edfc  c  Genesis 10:4
+'kneel' + ']' > U+e138
+'knife' + ']' > U+e24e
+'knock' + ']' > U+eb8b
+'know' + ']' > U+e062
+'Kohath' + ']' > U+efd8  c  Genesis 46:11
+'Kol Hozeh' + ']' > U+e8aa  c  Nehemiah 3:15
+'Kolaiah' + ']' > U+e8a9  c  Nehemiah 11:7
+'Konaniah' + ']' > U+e813  c  2 Chronicles 35:9
+'Korah' + ']' > U+ecf3  c  Genesis 36:14
+'Kozbi' + ']' > U+e3d1  c  Numbers 25:15
+'Kozeba' + ']' > U+e6e6  c  1 Chronicles 4:22
+'Kuthah' + ']' > U+e6b3  c  2 Kings 17:24
+'Laadah' + ']' > U+e6e7  c  1 Chronicles 4:21
+'Laban' + ']' > U+edfd  c  Genesis 24:29
+'Lachish' + ']' > U+e439  c  Joshua 10:3
+'Ladan' + ']' > U+e939  c  1 Chronicles 26:21
+'Lael' + ']' > U+e2a1  c  Numbers 3:24
+'Lahad' + ']' > U+e6e8  c  1 Chronicles 4:2
+'Lahmas' + ']' > U+e532  c  Joshua 15:40
+'Lahmi' + ']' > U+e6e9  c  1 Chronicles 20:5
+'Laish man' + ']' > U+e3ea  c  1 Samuel 25:44
+'Laish village' + ']' > U+e55f  c  Judges 18:7
+'lake' + ']' > U+ec65
+'Lakkum' + ']' > U+e58b  c  Joshua 19:33
+'Lamech' + ']' > U+ec66  c  Genesis 5:25
+'lamp' + ']' > U+e164
+'lampstand' + ']' > U+e281  c  Exodus 25:31
+'land' + ']' > U+e153
+'language' + ']' > U+ea23
+'Laodicea' + ']' > U+ebf9  c  Colossians 4:13
+'Lappidoth' + ']' > U+e560  c  Judges 4:4
+'Lasea' + ']' > U+ec16  c  Acts 27:8
+'Lasha' + ']' > U+e1c0  c  Genesis 10:19
+'Lasharon' + ']' > U+e443  c  Joshua 12:18
+'last' + ']' > U+e234
+'late' + ']' > U+e225
+'Latin' + ']' > U+eba8  c  John 19:20
+'laugh' + ']' > U+e224
+'law' + ']' > U+e22f
+'Lazarus' + ']' > U+ec67  c  John 11:14
+'lead' + ']' > U+e137
+'leaf' + ']' > U+e0b3
+'Leah' + ']' > U+efd9  c  Genesis 30:12
+'lease' + ']' > U+e175
+'least' + ']' > U+e397  c  2 Kings 18:24
+'leather' + ']' > U+e255
+'leave' + ']' > U+e243
+'leaven' + ']' > U+e32d
+'Lebanah' + ']' > U+e850  c  Ezra 2:45
+'Lebanon' + ']' > U+e599  c  Psalms 29:5
+'Lebaoth' + ']' > U+e533  c  Joshua 15:32
+'Lebo Hamath' + ']' > U+e2a2  c  Numbers 34:8
+'Lebonah' + ']' > U+e561  c  Judges 21:19
+'left' + ']' > U+e0f4
+'leg' + ']' > U+ebe0
+'Legion' + ']' > U+e366  c  Mark 5:9
+'Lehabites' + ']' > U+e1c1  c  Genesis 10:13
+'Lehi' + ']' > U+e562  c  Judges 15:9
+'Lekah' + ']' > U+e6ea  c  1 Chronicles 4:21
+'Lemuel' + ']' > U+e6ca  c  Proverbs 31:1
+'length' + ']' > U+ecc2
+'leopard' + ']' > U+ecf8
+'leprosy' + ']' > U+e382  c  2 Samuel 3:29
+'letter' + ']' > U+eb84
+'Letush' + ']' > U+eee2  c  Genesis 25:3
+'Leummim' + ']' > U+eee3  c  Genesis 25:3
+'Levi' + ']' > U+eb1b  c  Exodus 1:2
+'Libnah' + ']' > U+e3f4  c  Joshua 15:42
+'Libni' + ']' > U+e2e2  c  Exodus 6:17
+'Libya' + ']' > U+eb73  c  Acts 2:10
+'lift' + ']' > U+e081
+'light' + ']' > U+e0c2
+'lightning' + ']' > U+ea88
+'Likhi' + ']' > U+e7ad  c  1 Chronicles 7:19
+'linen' + ']' > U+ea20
+'Linus' + ']' > U+ecb0  c  2 Timothy 4:21
+'lion' + ']' > U+ecb6
+'Lo Debar' + ']' > U+e45b  c  2 Samuel 9:4
+'locust' + ']' > U+ecd4  c  Exodus 10:19
+'Lois' + ']' > U+ecb7  c  2 Timothy 1:5
+'looks like' + ']' > U+ebcd  c  Daniel 3:25
+'lost' + ']' > U+e089
+'Lot' + ']' > U+ebdc  c  Genesis 11:27
+'Lotan' + ']' > U+effb  c  Genesis 36:20
+'lots' + ']' > U+ea16  c  Luke 23:34
+'loud' + ']' > U+ebe8
+'love' + ']' > U+e01a
+'lower adj' + ']' > U+e324
+'Lucius' + ']' > U+ec93  c  Acts 13:1
+'Lud' + ']' > U+e1c2  c  Genesis 10:22
+'Ludites' + ']' > U+e1ea  c  Genesis 10:13
+'Luke' + ']' > U+eb68  c  Colossians 4:14
+'lunatic' + ']' > U+e06d
+'lust' + ']' > U+e239  c  Proverbs 6:25
+'Luz' + ']' > U+edfe  c  Genesis 28:19
+'Lycaonia' + ']' > U+eb51  c  Acts 14:6
+'Lycia' + ']' > U+ec13  c  Acts 27:5
+'Lydda' + ']' > U+ec2e  c  Acts 9:35
+'Lydia' + ']' > U+eb50  c  Acts 16:14
+'Lysanias' + ']' > U+ec40  c  Luke 3:1
+'Lysias' + ']' > U+ec37  c  Acts 24:22
+'Lystra' + ']' > U+eb44  c  Acts 16:2
+'Maadai' + ']' > U+e8e5  c  Ezra 10:34
+'Maai' + ']' > U+e8ab  c  Nehemiah 12:36
+'Maakah man' + ']' > U+efda  c  1 Kings 2:39
+'Maakah woman' + ']' > U+e2d8  c  2 Chronicles 11:21
+'Maakath land' + ']' > U+e483  c  Joshua 13:13
+'Maakath man' + ']' > U+e49c  c  Joshua 12:5
+'Maasai' + ']' > U+e5ed  c  1 Chronicles 9:12
+'Maaseiah' + ']' > U+e79e  c  1 Chronicles 15:18
+'Maath' + ']' > U+ec4b  c  Luke 3:26
+'Maaz' + ']' > U+e79f  c  1 Chronicles 2:27
+'Maaziah' + ']' > U+e7ae  c  1 Chronicles 24:18
+'Macedonia' + ']' > U+ec0d  c  Acts 16:9
+'Machir man' + ']' > U+e2d1  c  Genesis 50:23
+'Machpelah' + ']' > U+eee4  c  Genesis 23:19
+'Madai' + ']' > U+edff  c  Genesis 10:2
+'Madmannah' + ']' > U+e534  c  Joshua 15:31
+'Madmannah man' + ']' > U+e7a1  c  1 Chronicles 2:49
+'Madmenah' + ']' > U+e717  c  Isaiah 10:31
+'Madon' + ']' > U+e444  c  Joshua 11:1
+'Magadan' + ']' > U+ea30  c  Matthew 15:39
+'Magbish' + ']' > U+e851  c  Ezra 2:30
+'Magdiel' + ']' > U+effc  c  Genesis 36:43
+'magician' + ']' > U+ec8a
+'Magog land' + ']' > U+ecf9  c  Ezekiel 38:2
+'Magog man' + ']' > U+eea1  c  Revelation 20:8
+'Magpiash' + ']' > U+e8ac  c  Nehemiah 10:20
+'Mahalalel' + ']' > U+ec68  c  Genesis 5:12
+'Mahalath' + ']' > U+eea2  c  Genesis 28:9
+'Mahanaim' + ']' > U+efdb  c  Genesis 32:2
+'Mahaneh Dan' + ']' > U+e563  c  Judges 13:25
+'Maharai' + ']' > U+e819  c  1 Chronicles 11:30
+'Mahazioth' + ']' > U+e85b  c  1 Chronicles 25:4
+'Mahlah man' + ']' > U+e7ac  c  1 Chronicles 7:18
+'Mahlah woman' + ']' > U+e38c  c  Numbers 36:11
+'Mahli' + ']' > U+e2c5  c  Ezra 8:18
+'Mahlon' + ']' > U+e420  c  Ruth 1:5
+'Mahol' + ']' > U+e96f  c  1 Kings 4:31
+'Mahseiah' + ']' > U+e90d  c  Jeremiah 32:12
+'Makaz' + ']' > U+e970  c  1 Kings 4:9
+'Makbannai' + ']' > U+e81a  c  1 Chronicles 12:13
+'Makbenah' + ']' > U+e7a0  c  1 Chronicles 2:49
+'make' + ']' > U+e076
+'Makheloth' + ']' > U+e3f5  c  Numbers 33:26
+'Maki' + ']' > U+e2a3  c  Numbers 13:15
+'Makir' + ']' > U+e46f  c  Joshua 13:31
+'Makkedah' + ']' > U+e414  c  Joshua 10:28
+'Maknadebai' + ']' > U+e8e6  c  Ezra 10:40
+'Malachi' + ']' > U+e7ef  c  Malachi 1:1
+'Malchus' + ']' > U+ebb7  c  John 18:10
+'Malkam' + ']' > U+e93a  c  1 Chronicles 8:9
+'Malki Shua' + ']' > U+e4ed  c  1 Samuel 31:2
+'Malkiel' + ']' > U+efcf  c  Genesis 46:17
+'Malkijah' + ']' > U+e5ee  c  1 Chronicles 9:12
+'Malkiram' + ']' > U+e6eb  c  1 Chronicles 3:18
+'Mallothi' + ']' > U+e85c  c  1 Chronicles 25:4
+'Malluk' + ']' > U+e93b  c  1 Chronicles 6:44
+'Malta' + ']' > U+ec19  c  Acts 28:1
+'Mamre' + ']' > U+eea3  c  Genesis 18:1
+'man' + ']' > U+e000
+'Manaen' + ']' > U+eb40  c  Acts 13:1
+'Manahath man' + ']' > U+e1c3  c  Genesis 36:23
+'Manahath village' + ']' > U+e93c  c  1 Chronicles 8:6
+'Manasseh land' + ']' > U+e470  c  Joshua 17:7
+'Manasseh man' + ']' > U+ea63  c  Genesis 41:51
+'manna' + ']' > U+eba9  c  Exodus 16:31
+'Manoah' + ']' > U+e564  c  Judges 16:31
+'many' + ']' > U+e198
+'Maon man' + ']' > U+e47c  c  1 Chronicles 2:45
+'Maon village' + ']' > U+e521  c  Joshua 15:55
+'Marah' + ']' > U+e0cd  c  Exodus 15:23
+'Maralah' + ']' > U+e58c  c  Joshua 19:11
+'Marduk Baladan' + ']' > U+e6b4  c  2 Kings 20:12
+'Mareshah man' + ']' > U+e979  c  1 Chronicles 2:42
+'Mareshah village' + ']' > U+e493  c  Joshua 15:44
+'Mark' + ']' > U+e371  c  Acts 15:37
+'market place' + ']' > U+e02e  c  Ezekiel 27:19
+'Maroth' + ']' > U+e3b6  c  Micah 1:12
+'marriage' + ']' > U+e010
+'Martha' + ']' > U+ec69  c  John 11:5
+'Mary' + ']' > U+e354  c  John 11:1
+'Mary Magdalene' + ']' > U+e353  c  Mark 15:40
+'Mashal' + ']' > U+e93d  c  1 Chronicles 6:74
+'Masrekah' + ']' > U+effd  c  Genesis 36:36
+'Massa' + ']' > U+eee5  c  Genesis 25:14
+'Massah' + ']' > U+e2c3  c  Exodus 17:7
+'Matred' + ']' > U+effe  c  Genesis 36:39
+'Mattan' + ']' > U+e620  c  2 Kings 11:18
+'Mattanah' + ']' > U+e38d  c  Numbers 21:19
+'Mattaniah' + ']' > U+e5ef  c  1 Chronicles 9:15
+'Mattatha' + ']' > U+ec9c  c  Luke 3:31
+'Mattathias' + ']' > U+ec9d  c  Luke 3:26
+'Mattattah' + ']' > U+e8e7  c  Ezra 10:33
+'Mattenai' + ']' > U+e8ad  c  Nehemiah 12:19
+'Matthan' + ']' > U+ea71  c  Matthew 1:15
+'Matthat' + ']' > U+ed12  c  Luke 3:24
+'Matthew' + ']' > U+e35c  c  Luke 5:29
+'Mattithiah' + ']' > U+e1c4  c  Ezra 10:43
+'mature' + ']' > U+e236
+'me' + ']' > U+e166
+'Me Jarkon' + ']' > U+e58d  c  Joshua 19:46
+'Me Zahab' + ']' > U+efff  c  Genesis 36:39
+'meaning' + ']' > U+ecfa  c  Deuteronomy 6:20
+'measure' + ']' > U+e305
+'Medad' + ']' > U+e2a4  c  Numbers 11:26
+'Medan' + ']' > U+eee7  c  Genesis 25:2
+'Medeba' + ']' > U+e38e  c  Numbers 21:30
+'Media' + ']' > U+eb70  c  Ezra 6:2
+'Megiddo' + ']' > U+ecfb  c  Joshua 12:21
+'Mehetabel man' + ']' > U+eff0  c  Genesis 36:39
+'Mehetabel woman' + ']' > U+ee10
+'Mehida' + ']' > U+e852  c  Ezra 2:52
+'Mehir' + ']' > U+e729  c  1 Chronicles 4:11
+'Mehujael' + ']' > U+eea4  c  Genesis 4:18
+'Mekonah' + ']' > U+e8ae  c  Nehemiah 11:28
+'Melatiah' + ']' > U+e8af  c  Nehemiah 3:7
+'Melchi' + ']' > U+ec45  c  Luke 3:24
+'Melchizedek' + ']' > U+ed05  c  Genesis 14:18
+'Melea' + ']' > U+ec6a  c  Luke 3:31
+'Melek' + ']' > U+e5f0  c  1 Chronicles 9:41
+'member' + ']' > U+e174
+'Memphis' + ']' > U+e7cb  c  Hosea 9:6
+'Menahem' + ']' > U+e6b5  c  2 Kings 15:22
+'Menna' + ']' > U+ec6b  c  Luke 3:31
+'Meonothai' + ']' > U+e72a  c  1 Chronicles 4:14
+'Mephaath' + ']' > U+e4e1  c  Joshua 21:37
+'Mephibosheth' + ']' > U+e527  c  2 Samuel 9:6
+'Merab' + ']' > U+e7ec  c  1 Samuel 18:17
+'Meraiah' + ']' > U+e8b0  c  Nehemiah 12:12
+'Meraioth' + ']' > U+e637  c  1 Chronicles 6:52
+'Merari' + ']' > U+efdc  c  Genesis 46:11
+'mercy' + ']' > U+e01d
+'Mered' + ']' > U+e72b  c  1 Chronicles 4:17
+'Meremoth' + ']' > U+e8b1  c  Nehemiah 3:4
+'Meribah' + ']' > U+e2c7  c  Exodus 17:7
+'Merom' + ']' > U+e58e  c  Joshua 15:5
+'Meronoth' + ']' > U+e85d  c  1 Chronicles 27:30
+'Meroz' + ']' > U+e565  c  Judges 5:23
+'Mesha' + ']' > U+e93e  c  1 Chronicles 8:9
+'Mesha land' + ']' > U+eea5  c  Genesis 10:30
+'Meshech land' + ']' > U+e87e  c  Psalms 120:5
+'Meshech man' + ']' > U+eea6  c  Genesis 10:2
+'Meshezabel' + ']' > U+e8b2  c  Nehemiah 10:21
+'Meshillemith' + ']' > U+e638  c  1 Chronicles 9:12
+'Meshobab' + ']' > U+e72c  c  1 Chronicles 4:34
+'Meshullam' + ']' > U+e639  c  1 Chronicles 9:7
+'Meshullemeth' + ']' > U+e6b6  c  2 Kings 21:19
+'Mesopotamia' + ']' > U+eb72  c  Acts 2:9
+'messenger' + ']' > U+e136
+'metal' + ']' > U+eb28
+'Methuselah' + ']' > U+ec6c  c  Genesis 5:21
+'Methushael' + ']' > U+eea7  c  Genesis 4:18
+'Mibsam' + ']' > U+eee6  c  Genesis 25:13
+'Mibzar' + ']' > U+e1c5  c  Genesis 36:42
+'Micah' + ']' > U+e522  c  Judges 17:1
+'Micaiah' + ']' > U+e68d  c  2 Kings 22:12
+'Michael angel' + ']' > U+ece1  c  Jude 1:9
+'Michael man' + ']' > U+e2a5  c  1 Chronicles 5:13
+'Michal' + ']' > U+e7ed  c  1 Samuel 18:20
+'Michmash' + ']' > U+e7df  c  1 Samuel 14:5
+'Middin' + ']' > U+e535  c  Joshua 15:61
+'Midian land' + ']' > U+eb0f  c  Exodus 2:15
+'Midian man' + ']' > U+e1eb  c  Genesis 25:2
+'Migdal El' + ']' > U+e58f  c  Joshua 19:38
+'Migdalgad' + ']' > U+e536  c  Joshua 15:37
+'Migdol' + ']' > U+e0ce  c  Exodus 14:2
+'Migron' + ']' > U+e7e0  c  1 Samuel 14:2
+'Mijamin' + ']' > U+e7b0  c  1 Chronicles 24:9
+'Mika' + ']' > U+e528  c  2 Samuel 9:12
+'Mikloth' + ']' > U+e63a  c  1 Chronicles 9:37
+'Mikmethath' + ']' > U+e471  c  Joshua 16:6
+'Mikneiah' + ']' > U+e7a2  c  1 Chronicles 15:18
+'Mikri' + ']' > U+e63b  c  1 Chronicles 9:8
+'Milalai' + ']' > U+e8b3  c  Nehemiah 12:36
+'Miletus' + ']' > U+eb23  c  Acts 20:15
+'milk' + ']' > U+eca3
+'Milkah' + ']' > U+eee8  c  Genesis 11:29
+'million' + ']' > U+ecd9
+'mind' + ']' > U+e06c
+'Miniamin' + ']' > U+e8b4  c  Nehemiah 12:17
+'Minni' + ']' > U+e910  c  Jeremiah 51:27
+'Minnith' + ']' > U+e566  c  Judges 11:33
+'miracle' + ']' > U+e095
+'Miriam man' + ']' > U+e72d  c  1 Chronicles 4:17
+'Miriam woman' + ']' > U+e385  c  Numbers 12:1
+'Mirmah' + ']' > U+e93f  c  1 Chronicles 8:10
+'mirror' + ']' > U+ebe6
+'Mishael' + ']' > U+e2dc  c  Leviticus 10:4
+'Mishal' + ']' > U+e4e2  c  Joshua 19:26
+'Misham' + ']' > U+e940  c  1 Chronicles 8:12
+'Mishma' + ']' > U+e1c6  c  Genesis 25:14
+'Mishmannah' + ']' > U+e81b  c  1 Chronicles 12:10
+'Mispar' + ']' > U+e8d1  c  Ezra 2:2
+'Mispereth' + ']' > U+e8b5  c  Nehemiah 7:7
+'Misrephoth Maim' + ']' > U+e54a  c  Joshua 13:6
+'Mithkah' + ']' > U+e3f6  c  Numbers 33:28
+'Mithredath' + ']' > U+e8d2  c  Ezra 1:8
+'Mitylene' + ']' > U+eb21  c  Acts 20:14
+'Mizpah' + ']' > U+e2cf  c  Genesis 31:49
+'Mizraim' + ']' > U+eea8  c  Genesis 10:6
+'Mizzah' + ']' > U+e1c7  c  Genesis 36:13
+'Mnason' + ']' > U+eb26  c  Acts 21:16
+'Moab land' + ']' > U+e2fa  c  Genesis 36:35
+'Moab man' + ']' > U+eea9  c  Genesis 19:37
+'Moadiah' + ']' > U+e8b6  c  Nehemiah 12:17
+'mock' + ']' > U+ea12
+'Moladah' + ']' > U+e537  c  Joshua 15:26
+'Molech' + ']' > U+ec26  c  Leviticus 18:21
+'Molid' + ']' > U+e7a3  c  1 Chronicles 2:29
+'money' + ']' > U+e029
+'month' + ']' > U+e34c
+'moon' + ']' > U+e272
+'Mordecai' + ']' > U+e4a3  c  Esther 2:5
+'more' + ']' > U+e199
+'Moreh' + ']' > U+eeaa  c  Genesis 12:6
+'Moresheth' + ']' > U+e4a9  c  Jeremiah 26:18
+'Moriah' + ']' > U+efdd  c  Genesis 22:2
+'morning' + ']' > U+e163
+'Moserah' + ']' > U+e485  c  Deuteronomy 10:6
+'Moseroth' + ']' > U+e3f7  c  Numbers 33:30
+'Moses' + ']' > U+e35b  c  Exodus 2:10
+'most' + ']' > U+e229  c  Deuteronomy 28:54
+'mother' + ']' > U+e00b
+'Mount Carmel' + ']' > U+e45c  c  1 Kings 18:19
+'Mount Ebal' + ']' > U+e415  c  Deuteronomy 11:29
+'Mount Ephron' + ']' > U+e90f  c  Joshua 15:9
+'Mount Gerizim' + ']' > U+e416  c  Deuteronomy 11:29
+'Mount Gilboa' + ']' > U+e4ef  c  1 Samuel 31:1
+'Mount Halak' + ']' > U+e44e  c  Joshua 11:17
+'Mount Hermon' + ']' > U+e49d  c  Deuteronomy 3:8
+'Mount Hor' + ']' > U+e3b4  c  Numbers 20:22
+'Mount Nebo' + ']' > U+e486  c  Deuteronomy 32:49
+'Mount of Olives' + ']' > U+e351  c  Matthew 21:1
+'Mount Peor' + ']' > U+e392  c  Numbers 23:28
+'Mount Perazim' + ']' > U+e6c7  c  Isaiah 28:21
+'Mount Pisgah' + ']' > U+e393  c  Numbers 21:20
+'Mount Shepher' + ']' > U+e3f8  c  Numbers 33:23
+'Mount Sinai' + ']' > U+eb5c  c  Exodus 19:11
+'Mount Tabor' + ']' > U+e567  c  Judges 4:6
+'Mount Zalmon' + ']' > U+e568  c  Judges 9:48
+'Mount Zion' + ']' > U+ecf5  c  2 Kings 19:31
+'mountain' + ']' > U+e306
+'mouth' + ']' > U+e03f
+'move' + ']' > U+e32f
+'Moza' + ']' > U+e63c  c  1 Chronicles 9:42
+'Mozah' + ']' > U+e656  c  Joshua 18:26
+'Muppim' + ']' > U+efde  c  Genesis 46:21
+'murderer' + ']' > U+ea10
+'Mushi' + ']' > U+e2c6  c  Exodus 6:19
+'mustard' + ']' > U+e039
+'mute' + ']' > U+e050
+'Myra' + ']' > U+ec28  c  Acts 27:5
+'myrrh' + ']' > U+e245
+'Mysia' + ']' > U+eb4a  c  Acts 16:7
+'mystery' + ']' > U+e18b
+'Naam' + ']' > U+e72e  c  1 Chronicles 4:15
+'Naamah village' + ']' > U+e538  c  Joshua 15:41
+'Naamah woman' + ']' > U+eeab  c  Genesis 4:22
+'Naaman' + ']' > U+ec6d  c  Genesis 46:21
+'Naarah village' + ']' > U+e472  c  Joshua 16:7
+'Naarah woman' + ']' > U+e477  c  1 Chronicles 4:5
+'Naarai' + ']' > U+e81c  c  2 Samuel 23:25
+'Nabal' + ']' > U+e7ee  c  1 Samuel 25:3
+'Naboth' + ']' > U+e695  c  1 Kings 21:1
+'Nacon' + ']' > U+e916  c  2 Samuel 2:6
+'Nadab' + ']' > U+e2e3  c  Exodus 6:23
+'Naggai' + ']' > U+ec4a  c  Luke 3:25
+'Nahalal' + ']' > U+e4e3  c  Joshua 21:35
+'Nahaliel' + ']' > U+e394  c  Numbers 21:19
+'Naham' + ']' > U+e72f  c  1 Chronicles 4:19
+'Nahamani' + ']' > U+e8b7  c  Nehemiah 7:7
+'Naharai' + ']' > U+e81d  c  1 Chronicles 11:39
+'Nahash man' + ']' > U+e7e1  c  1 Samuel 11:1
+'Nahath' + ']' > U+e1c8  c  Genesis 36:13
+'Nahbi' + ']' > U+e2a6  c  Numbers 13:14
+'Nahor' + ']' > U+ec6e  c  Genesis 11:22
+'Nahshon' + ']' > U+ea52  c  Exodus 6:23
+'Nahum' + ']' > U+ec48  c  Nahum 1:1
+'nail' + ']' > U+ebaa
+'Nain' + ']' > U+ea48  c  Luke 7:11
+'name' + ']' > U+e04f
+'Naomi' + ']' > U+e421  c  Ruth 1:2
+'Naphish' + ']' > U+eee9  c  Genesis 25:15
+'Naphoth Dor' + ']' > U+e971  c  1 Kings 4:11
+'Naphtali land' + ']' > U+e5d6  c  1 Kings 15:20
+'Naphtali man' + ']' > U+ea40  c  Genesis 30:8
+'Naphtuh' + ']' > U+eeac  c  Genesis 10:13
+'Narcissius' + ']' > U+ebc9  c  Romans 16:11
+'Nathan' + ']' > U+ec6f  c  2 Samuel 5:14
+'Nathan Melek' + ']' > U+e6b7  c  2 Kings 23:11
+'Nazareth' + ']' > U+e34e  c  Matthew 2:23
+'Nazarite' + ']' > U+e395  c  Numbers 6:22
+'Neah' + ']' > U+e590  c  Joshua 19:13
+'Neapolis' + ']' > U+eb4e  c  Acts 16:11
+'near' + ']' > U+e300
+'Neariah' + ']' > U+e730  c  1 Chronicles 3:22
+'Nebai' + ']' > U+e8b8  c  Nehemiah 10:19
+'Nebaioth' + ']' > U+eead  c  Genesis 28:9
+'Neballat' + ']' > U+e86e  c  Nehemiah 11:34
+'Nebat' + ']' > U+e5d7  c  1 Kings 11:26
+'Nebo idol' + ']' > U+e917  c  Isaiah 46:1
+'Nebo Sarsekim' + ']' > U+e912  c  Jeremiah 39:3
+'Nebo village' + ']' > U+e3f9  c  Numbers 33:47
+'Nebuchadnezzar' + ']' > U+e41c  c  Jeremiah 21:2
+'Nebushazban' + ']' > U+ef25  c  Jeremiah 39:13
+'Nebuzaradan' + ']' > U+e8c3  c  2 Kings 25:8
+'Necho' + ']' > U+e6b8  c  2 Kings 23:29
+'neck' + ']' > U+e0d3
+'Nedabiah' + ']' > U+e731  c  1 Chronicles 3:18
+'need' + ']' > U+e07f  c  Deuteronomy 28:54
+'needle' + ']' > U+e078
+'Negev' + ']' > U+eeae  c  Genesis 12:9
+'Nehemiah' + ']' > U+e98a  c  Nehemiah 1:1
+'Nehushta' + ']' > U+e6b9  c  2 Kings 24:8
+'Neiel' + ']' > U+e591  c  Joshua 19:13
+'neighbor' + ']' > U+e173
+'Nekoda' + ']' > U+e8d3  c  Ezra 2:48
+'Nemuel' + ']' > U+e396  c  Numbers 26:9
+'Nepheg' + ']' > U+e2e4  c  Exodus 6:21
+'Nephtoah' + ']' > U+e539  c  Joshua 15:9
+'Nephusim' + ']' > U+e869  c  Nehemiah 7:52
+'Ner' + ']' > U+e5c6  c  1 Kings 2:5
+'Nereus' + ']' > U+ebca  c  Romans 16:15
+'Nergal Sharezer' + ']' > U+e911  c  Jeremiah 39:3
+'Neri' + ']' > U+ec70  c  Luke 3:27
+'Neriah' + ']' > U+e913  c  Jeremiah 32:12
+'nest' + ']' > U+e399
+'net' + ']' > U+e307
+'Netaim' + ']' > U+e732  c  1 Chronicles 4:23
+'Nethanel' + ']' > U+e2ff  c  Numbers 1:8
+'Nethaniah' + ']' > U+e785  c  2 Chronicles 17:8
+'Netophah' + ']' > U+e7a4  c  1 Chronicles 2:54
+'new' + ']' > U+e308
+'Neziah' + ']' > U+e8d4  c  Ezra 2:54
+'Nezib' + ']' > U+e53a  c  Joshua 15:43
+'Nibshan' + ']' > U+e53b  c  Joshua 15:62
+'Nicanor' + ']' > U+eb55  c  Acts 6:5
+'Nicodemus' + ']' > U+ebab  c  John 3:1
+'Nicolaus' + ']' > U+eb56  c  Acts 6:5
+'Nicopolis' + ']' > U+ed08  c  Titus 3:12
+'Nile' + ']' > U+efdf  c  Exodus 7:18
+'Nimrah' + ']' > U+e3cf  c  Numbers 32:3
+'Nimrod' + ']' > U+eeaf  c  Genesis 10:8
+'Nimshi' + ']' > U+e5d8  c  1 Kings 19:16
+'nine' + ']' > U+e294
+'9' + ']' > U+e294
+'Nineveh' + ']' > U+e0c6  c  Genesis 10:12
+'no' + ']' > U+e17c
+'Noadiah man' + ']' > U+e2f3  c  Ezra 8:33
+'Noadiah woman' + ']' > U+e86a  c  Nehemiah 6:14
+'Noah man' + ']' > U+ea43  c  Genesis 6:8
+'Noah woman' + ']' > U+e47a  c  Numbers 36:11
+'Nob' + ']' > U+e463  c  1 Samuel 21:1
+'Nobah land' + ']' > U+e3d0  c  Numbers 32:42
+'Nobah man' + ']' > U+e412  c  Numbers 32:42
+'Nod' + ']' > U+eeb1  c  Genesis 4:16
+'Nodab' + ']' > U+ef21  c  1 Chronicles 5:19
+'Nogah' + ']' > U+e81e  c  1 Chronicles 3:7
+'Nohah' + ']' > U+e941  c  1 Chronicles 8:2
+'Nophah' + ']' > U+e39b  c  Numbers 21:30
+'north' + ']' > U+ea74
+'nose' + ']' > U+e309
+'now' + ']' > U+e215
+'number' + ']' > U+e0b7
+'Nun' + ']' > U+e2e6  c  Exodus 33:11
+'Nympha' + ']' > U+ecea  c  Colossians 4:15
+'Obadiah' + ']' > U+e44f  c  Nehemiah 10:5
+'Obal' + ']' > U+eeb2  c  Genesis 10:28
+'Obed' + ']' > U+ea56  c  Matthew 1:5
+'Obed Edom' + ']' > U+e63d  c  1 Chronicles 13:14
+'obey' + ']' > U+e04e
+'Obil' + ']' > U+e85e  c  1 Chronicles 27:30
+'Oboth' + ']' > U+e39c  c  Numbers 33:43
+'ocean' + ']' > U+e14d
+'Oded' + ']' > U+ef24  c  2 Chronicles 28:9
+'offering' + ']' > U+e03a
+'Og' + ']' > U+e39d  c  Psalms 135:11
+'Ohad' + ']' > U+efe1  c  Genesis 46:10
+'Ohel' + ']' > U+e733  c  1 Chronicles 3:20
+'Oholah' + ']' > U+e8f8  c  Ezekiel 23:4
+'Oholiab' + ']' > U+e0cf  c  Exodus 31:6
+'Oholibah' + ']' > U+e8f9  c  Ezekiel 23:4
+'Oholibamah man' + ']' > U+e0ac  c  Genesis 36:41
+'Oholibamah woman' + ']' > U+efe0  c  Genesis 36:18
+'oil' + ']' > U+e030
+'Okran' + ']' > U+e2a7  c  Numbers 1:13
+'old' + ']' > U+e189
+'olive' + ']' > U+eda1
+'Olympus' + ']' > U+ebcb  c  Romans 16:15
+'Omar' + ']' > U+e1c9  c  Genesis 36:11
+'Omri' + ']' > U+e60e  c  Micah 6:16
+'on' + ']' > U+e113
+'On city' + ']' > U+efe2  c  Genesis 41:45
+'On man' + ']' > U+ef71
+'Onam' + ']' > U+e1ca  c  Genesis 36:23
+'Onan' + ']' > U+e1cb  c  Genesis 38:8
+'one' + ']' > U+e28c
+'1' + ']' > U+e28c
+'Onesimus' + ']' > U+ecb8  c  Philemon 1:10
+'Ono' + ']' > U+e942  c  1 Chronicles 8:12
+'open' + ']' > U+e18a
+'Ophel' + ']' > U+e861  c  2 Chronicles 27:3
+'Ophir land' + ']' > U+e5d9  c  1 Kings 10:11
+'Ophir man' + ']' > U+eeb3  c  Genesis 10:29
+'Ophni' + ']' > U+e657  c  Joshua 18:24
+'Ophrah man' + ']' > U+e2b6  c  1 Chronicles 4:14
+'Ophrah village' + ']' > U+e569  c  Judges 8:27
+'or' + ']' > U+e106
+'Oreb' + ']' > U+e56a  c  Judges 7:25
+'Oren' + ']' > U+e7a5  c  1 Chronicles 2:25
+'Orpah' + ']' > U+e422  c  Ruth 1:4
+'other' + ']' > U+e184
+'Othni' + ']' > U+e943  c  1 Chronicles 26:7
+'Othniel' + ']' > U+e53c  c  Joshua 15:17
+'out' + ']' > U+e241
+'owe' + ']' > U+ea49
+'own' + ']' > U+eced
+'ox' + ']' > U+ea85
+'Ozem' + ']' > U+e7a6  c  1 Chronicles 2:15
+'Ozni' + ']' > U+e39e  c  Numbers 26:16
+'Pachereth Hazzebaim' + ']' > U+e8ca  c  Ezra 2:57
+'Paddan Aram' + ']' > U+eeea  c  Genesis 25:20
+'Padon' + ']' > U+e8d5  c  Ezra 2:44
+'Pagiel' + ']' > U+e2a8  c  Numbers 1:13
+'Pahath Moab' + ']' > U+e8d0  c  Ezra 2:6
+'pain' + ']' > U+e24f
+'Palal' + ']' > U+e86b  c  Nehemiah 3:25
+'Pallu' + ']' > U+e1cc  c  Exodus 6:14
+'Palti' + ']' > U+e1f0  c  Numbers 13:9
+'Paltiel' + ']' > U+e3fb  c  Numbers 34:26
+'Pamphylia' + ']' > U+eb6e  c  Acts 2:10
+'Paphos' + ']' > U+eb9f  c  Acts 13:6
+'Parah' + ']' > U+e658  c  Joshua 18:23
+'paralyze' + ']' > U+e131
+'Paran' + ']' > U+eeeb  c  Genesis 21:21
+'Parmenas' + ']' > U+eb57  c  Acts 6:5
+'Parnak' + ']' > U+e3fc  c  Numbers 34:25
+'Parosh' + ']' > U+e8ce  c  Ezra 2:3
+'part' + ']' > U+e29b
+'Parthia' + ']' > U+eb0a  c  Acts 2:9
+'Paruah' + ']' > U+e5aa  c  1 Kings 4:17
+'Parvaim' + ']' > U+e865  c  2 Chronicles 3:6
+'Pasak' + ']' > U+e7a7  c  1 Chronicles 7:33
+'Paseah' + ']' > U+e726  c  1 Chronicles 4:12
+'Pashhur' + ']' > U+e63e  c  1 Chronicles 9:12
+'passion' + ']' > U+ebac
+'Passover' + ']' > U+e20d  c  Exodus 12:11
+'past' + ']' > U+e16d
+'pastor' + ']' > U+ecc3
+'Patara' + ']' > U+ec23  c  Acts 21:1
+'Pathrusites' + ']' > U+eeb4  c  1 Chronicles 1:12
+'patient' + ']' > U+e16f
+'Patmos' + ']' > U+ebf4  c  Revelation 1:9
+'Patrobas' + ']' > U+ebcc  c  Romans 16:14
+'Pau' + ']' > U+efd0  c  Genesis 36:39
+'Paul' + ']' > U+e377  c  Acts 13:9
+'pavement' + ']' > U+ebad  c  2 Chronicles 7:3
+'peace' + ']' > U+e123
+'Pedahel' + ']' > U+e3fd  c  Numbers 34:28
+'Pedahzur' + ']' > U+e2aa  c  Numbers 1:10
+'Pedaiah' + ']' > U+e6ba  c  2 Kings 23:36
+'Pekah' + ']' > U+e684  c  Isaiah 7:1
+'Pekahiah' + ']' > U+e6bb  c  2 Kings 15:22
+'Pelaiah' + ']' > U+e734  c  1 Chronicles 3:24
+'Pelaliah' + ']' > U+e86c  c  Nehemiah 11:12
+'Pelatiah' + ']' > U+e735  c  1 Chronicles 3:21
+'Peleg' + ']' > U+ec71  c  Genesis 10:25
+'Pelet' + ']' > U+e7a8  c  1 Chronicles 2:47
+'Peleth' + ']' > U+e2fb  c  Numbers 16:1
+'Pelethites' + ']' > U+e4b5  c  1 Kings 1:38
+'pen' + ']' > U+e29c
+'Peniel man' + ']' > U+e976  c  1 Chronicles 4:4
+'Peniel village' + ']' > U+efe4  c  Genesis 32:30
+'Peninnah' + ']' > U+e4f0  c  1 Samuel 1:2
+'Pentecost' + ']' > U+ec81  c  Acts 2:1
+'people' + ']' > U+e127
+'perceive' + ']' > U+e06a
+'Peresh' + ']' > U+e7a9  c  1 Chronicles 7:16
+'Perez' + ']' > U+ea4c  c  1 Chronicles 27:3
+'perfume' + ']' > U+e097
+'Perga' + ']' > U+eb47  c  Acts 13:13
+'Pergamum' + ']' > U+ebf6  c  Revelation 1:11
+'period' + ']' > U+e37e
+'.' + ']' > U+e37e
+'Perizzites' + ']' > U+eeb5  c  Genesis 15:20
+'persecution' + ']' > U+e03e
+'Persia' + ']' > U+e4a4  c  2 Chronicles 36:20
+'Persis' + ']' > U+ebce  c  Romans 16:12
+'person' + ']' > U+e11f
+'Peruda' + ']' > U+e8cf  c  Ezra 2:55
+'Pethahiah' + ']' > U+e7b1  c  1 Chronicles 24:16
+'Pethor' + ']' > U+e2fc  c  Numbers 22:5
+'Pethuel' + ']' > U+e424  c  Joel 1:1
+'Peullethai' + ']' > U+e944  c  1 Chronicles 26:5
+'Phanuel' + ']' > U+ec3c  c  Luke 2:36
+'Pharaoh' + ']' > U+ec94  c  Genesis 12:15
+'Pharisee' + ']' > U+e383  c  Matthew 23:26
+'Phicol' + ']' > U+eeb6  c  Genesis 21:22
+'Philadelphia' + ']' > U+ebf8  c  Revelation 1:11
+'Philemon' + ']' > U+ecf2  c  Philemon 1:1
+'Philetus' + ']' > U+ecac  c  2 Timothy 2:17
+'Philip' + ']' > U+e361  c  Matthew 10:3
+'Philippi' + ']' > U+e347  c  Philippians 1:1
+'Philistia' + ']' > U+eeb7  c  Psalms 60:8
+'Philologus' + ']' > U+ebcf  c  Romans 16:15
+'philosopher' + ']' > U+ec04
+'Phinehas' + ']' > U+e2c9  c  Exodus 6:25
+'Phlegon' + ']' > U+ebd1  c  Romans 16:14
+'Phoebe' + ']' > U+ebd2  c  Romans 16:1
+'Phoenicia' + ']' > U+e343  c  Acts 11:19
+'Phoenix' + ']' > U+ec29  c  Acts 27:12
+'Phrygia' + ']' > U+eb76  c  Acts 2:10
+'Phygelus' + ']' > U+ecb9  c  2 Timothy 1:15
+'Pi Hahiroth' + ']' > U+e0da  c  Exodus 14:2
+'pig' + ']' > U+e30a
+'pigeon' + ']' > U+e0b6
+'Pilate' + ']' > U+e36f  c  Matthew 27:2
+'Pildash' + ']' > U+efe3  c  Genesis 22:22
+'Pilha' + ']' > U+e86d  c  Nehemiah 10:24
+'pillar' + ']' > U+eca8
+'pillow' + ']' > U+e26c
+'Piltai' + ']' > U+e86f  c  Nehemiah 12:17
+'Pinon' + ']' > U+efc0  c  Genesis 36:41
+'Piram' + ']' > U+e417  c  Joshua 10:3
+'Pirathon' + ']' > U+e523  c  Judges 12:13
+'Pishon' + ']' > U+eeb8  c  Genesis 2:11
+'Pisidia' + ']' > U+eb97  c  Acts 14:24
+'Pispah' + ']' > U+e7aa  c  1 Chronicles 7:38
+'pitch' + ']' > U+eeb9  c  Genesis 6:14
+'Pithom' + ']' > U+e0db  c  Exodus 1:11
+'Pithon' + ']' > U+e63f  c  1 Chronicles 9:41
+'Plain of Dura' + ']' > U+e853  c  Daniel 3:1
+'plan' + ']' > U+e06b
+'plate' + ']' > U+e386
+'plow' + ']' > U+ec72  c  Deuteronomy 22:10
+'Pokereth Hazzebaim' + ']' > U+e870  c  Nehemiah 7:59
+'Pontus' + ']' > U+eb75  c  Acts 2:9
+'poor' + ']' > U+ea3a
+'porch' + ']' > U+eb5e  c  John 10:23
+'Porcius' + ']' > U+ec38  c  Acts 24:27
+'possessive' + ']' > U+e390
+'*' + ']' > U+e390
+'possible' + ']' > U+e098
+'Potiphar' + ']' > U+eeec  c  Genesis 37:36
+'Potiphera' + ']' > U+e1cd  c  Genesis 41:45
+'pour' + ']' > U+e0d6
+'power' + ']' > U+e124
+'praise' + ']' > U+e04b
+'pray' + ']' > U+e05e
+'preach' + ']' > U+e04d
+'preacher' + ']' > U+e134
+'precious' + ']' > U+ea37
+'pregnant' + ']' > U+e0a5
+'prepare' + ']' > U+e091
+'press' + ']' > U+e228  c  Luke 8:45
+'pretend' + ']' > U+e094
+'priest' + ']' > U+e03b
+'prince' + ']' > U+eb61
+'priority' + ']' > U+ebe7
+'Priscilla' + ']' > U+eb18  c  Acts 18:2
+'prison' + ']' > U+e172
+'prisoner' + ']' > U+e145
+'Prochorus' + ']' > U+eb53  c  Acts 6:5
+'profit' + ']' > U+e035
+'promise' + ']' > U+e37a
+'proper noun' + ']' > U+ed11
+'pn' + ']' > U+ed11
+'prophesy' + ']' > U+e23b
+'prophet' + ']' > U+e135
+'prostitute man' + ']' > U+e5da  c  1 Kings 15:12
+'prostitute woman' + ']' > U+ecfc
+'proverb' + ']' > U+ec73
+'Ptolemais' + ']' > U+ec08  c  Acts 21:7
+'Puah man' + ']' > U+e1d3  c  Judges 10:1
+'Puah woman' + ']' > U+e0dc  c  Exodus 1:15
+'Publius' + ']' > U+ec1a  c  Acts 28:7
+'Pudens' + ']' > U+ecba  c  2 Timothy 4:21
+'punishment' + ']' > U+e1d0
+'Punon' + ']' > U+e3fe  c  Numbers 33:42
+'Purah' + ']' > U+e5b2  c  Judges 7:10
+'purple' + ']' > U+e286
+'put' + ']' > U+e07e
+'Put man' + ']' > U+eeba  c  1 Chronicles 1:8
+'Puteoli' + ']' > U+ec1e  c  Acts 28:13
+'Putiel' + ']' > U+e2ca  c  Exodus 6:25
+'Pyrrhus' + ']' > U+eb1c  c  Acts 20:4
+'Quartus' + ']' > U+ebd3  c  Romans 16:23
+'queen' + ']' > U+eb15  c  1 Kings 10:1
+'questioned' + ']' > U+e061  c  Judges 8:14
+'questionmark' + ']' > U+e316
+'?' + ']' > U+e316
+'quiet' + ']' > U+e185  c  Matthew 20:31
+'Quirinius' + ']' > U+ec3b  c  Luke 2:2
+'quotation mark' + ']' > U+ee03
+'"' + ']' > U+ee03
+'Raamah man' + ']' > U+eebb  c  Genesis 10:7
+'Raamah village' + ']' > U+e920  c  Ezekiel 27:22
+'Rabbah' + ']' > U+e49e  c  Deuteronomy 3:11
+'Rabbith' + ']' > U+e507  c  Joshua 21:28
+'Rachel' + ']' > U+ea41  c  Genesis 29:6
+'Raddai' + ']' > U+e7ab  c  1 Chronicles 2:14
+'Rahab' + ']' > U+ea55  c  Joshua 2:1
+'Raham' + ']' > U+e78a  c  1 Chronicles 2:44
+'rain' + ']' > U+ea3e
+'rainbow' + ']' > U+ecdc  c  Revelation 4:3
+'Rakem' + ']' > U+e78b  c  1 Chronicles 7:16
+'Rakkath' + ']' > U+e659  c  Joshua 19:35
+'Ram' + ']' > U+ea50  c  Ruth 4:19
+'Ramah' + ']' > U+ea42  c  Joshua 18:25
+'Ramath Lehi' + ']' > U+e5b3  c  Judges 15:17
+'Ramathaim' + ']' > U+e4f1  c  1 Samuel 1:1
+'Rameses' + ']' > U+efb4  c  Genesis 47:11
+'Ramiah' + ']' > U+e8e9  c  Ezra 10:25
+'Ramoth Gilead' + ']' > U+e473  c  1 Kings 4:13
+'Raphu' + ']' > U+e2e9  c  Numbers 13:9
+'Reaiah' + ']' > U+e640  c  1 Chronicles 5:5
+'Reba' + ']' > U+e3c4  c  Numbers 31:8
+'Rebekah' + ']' > U+ebd4  c  Genesis 22:23
+'rebuke' + ']' > U+e060
+'Recab' + ']' > U+e529  c  2 Samuel 4:2
+'receive' + ']' > U+e1a3
+'reckon' + ']' > U+ebc0  c  Romans 4:4
+'reconcile' + ']' > U+e026
+'red' + ']' > U+e287
+'redeem' + ']' > U+e02c
+'reed' + ']' > U+ea26
+'Reelaiah' + ']' > U+e8cb  c  Ezra 2:2
+'Regem' + ']' > U+e78c  c  1 Chronicles 2:47
+'Regem Melek' + ']' > U+e5c8  c  Zechariah 7:2
+'Rehabiah' + ']' > U+e945  c  1 Chronicles 26:25
+'Rehob land' + ']' > U+e2ea  c  Numbers 13:21
+'Rehob man' + ']' > U+ef26  c  2 Samuel 8:3
+'Rehoboam' + ']' > U+ea5a  c  1 Kings 11:43
+'Rehoboth' + ']' > U+eebc  c  Genesis 26:22
+'Rehum' + ']' > U+e8cc  c  Ezra 2:2
+'Rei' + ']' > U+e4b6  c  1 Kings 1:8
+'Rekah' + ']' > U+e736  c  1 Chronicles 4:12
+'Rekem city' + ']' > U+e418  c  Joshua 18:27
+'Rekem man' + ']' > U+e3c3  c  Numbers 31:8
+'religion' + ']' > U+ec33
+'Remaliah' + ']' > U+e685  c  Isaiah 7:1
+'remember' + ']' > U+e0d8  c  Genesis 40:14
+'repeat' + ']' > U+e049
+'repent' + ']' > U+e320  c  Acts 17:30
+'Rephael' + ']' > U+e946  c  1 Chronicles 26:7
+'Rephah' + ']' > U+e78d  c  1 Chronicles 7:25
+'Rephaiah' + ']' > U+e64d  c  1 Chronicles 9:43
+'Rephaim' + ']' > U+eebd  c  Joshua 15:8
+'Rephidim' + ']' > U+e0dd  c  Exodus 17:1
+'Resen' + ']' > U+eebe  c  Genesis 10:12
+'Resheph' + ']' > U+e78e  c  1 Chronicles 7:25
+'result' + ']' > U+e237
+'resurrect' + ']' > U+e329
+'Reu' + ']' > U+ec74  c  Genesis 11:18
+'Reuben' + ']' > U+ecc0  c  Genesis 29:32
+'Reuel' + ']' > U+e1ce  c  Genesis 36:4
+'Reumah' + ']' > U+efc4  c  Genesis 22:24
+'reward' + ']' > U+e02d
+'Rezeph' + ']' > U+e6bc  c  2 Kings 19:12
+'Rezin' + ']' > U+e686  c  Isaiah 7:1
+'Rezon' + ']' > U+e5db  c  1 Kings 11:23
+'Rhegium' + ']' > U+ec1d  c  Acts 28:13
+'Rhesa' + ']' > U+ec75  c  Luke 3:27
+'Rhoda' + ']' > U+eb92  c  Acts 12:13
+'Rhodes' + ']' > U+eb25  c  Acts 21:1
+'rib' + ']' > U+eebf  c  Genesis 2:21
+'Ribai' + ']' > U+e81f  c  1 Chronicles 11:31
+'Riblah' + ']' > U+e3ff  c  Numbers 34:11
+'right' + ']' > U+e0f3
+'right time' + ']' > U+ed10
+'righteous' + ']' > U+e090  c  Genesis 18:26
+'Rimmon man' + ']' > U+e52b  c  2 Samuel 4:2
+'Rimmon Perez' + ']' > U+e400  c  Numbers 33:19
+'Rimmon village' + ']' > U+e53d  c  Joshua 15:32
+'ring' + ']' > U+ebdf
+'Rinnah' + ']' > U+e737  c  1 Chronicles 4:20
+'Riphath' + ']' > U+eec1  c  Genesis 10:3
+'Rissah' + ']' > U+e401  c  Numbers 33:21
+'Rithmah' + ']' > U+e402  c  Numbers 33:18
+'river' + ']' > U+e30b
+'Rizia' + ']' > U+e78f  c  1 Chronicles 7:39
+'Rizpah' + ']' > U+e755  c  2 Samuel 21:8
+'road' + ']' > U+e23c
+'robber' + ']' > U+e0e9
+'rock' + ']' > U+e26a
+'Rogelim' + ']' > U+e7f9  c  2 Samuel 17:27
+'Rohgah' + ']' > U+e790  c  1 Chronicles 7:34
+'Romamti Ezer' + ']' > U+e85f  c  1 Chronicles 25:4
+'Rome' + ']' > U+eb16  c  Acts 2:10
+'room' + ']' > U+eb06
+'rooster' + ']' > U+e25d
+'root' + ']' > U+e15c
+'Rosh' + ']' > U+e1d2  c  Genesis 46:21
+'rough' + ']' > U+ec99  c  Luke 3:5
+'Rufus' + ']' > U+e36e  c  Mark 15:21
+'Rumah' + ']' > U+e6bd  c  2 Kings 23:36
+'run' + ']' > U+e258
+'Ruth' + ']' > U+ea57  c  Ruth 1:4
+'Sabbath' + ']' > U+e160  c  Exodus 16:23
+'Sabtah' + ']' > U+eec2  c  Genesis 10:7
+'Sabteka' + ']' > U+eec3  c  Genesis 10:7
+'sacrifice' + ']' > U+e0b5
+'sad' + ']' > U+e207
+'Sadducee' + ']' > U+ea03  c  Matthew 3:7
+'sail' + ']' > U+e267
+'Sakar' + ']' > U+e947  c  1 Chronicles 26:4
+'Sakia' + ']' > U+e948  c  1 Chronicles 8:10
+'Salamis' + ']' > U+ebe1  c  Acts 13:5
+'Salathiel' + ']' > U+ec76  c  1 Chronicles 3:17
+'Salekah' + ']' > U+e445  c  Deuteronomy 3:10
+'Salim' + ']' > U+ebae  c  John 3:23
+'Salma' + ']' > U+e791  c  1 Chronicles 2:51
+'Salmon' + ']' > U+ea53  c  Ruth 4:20
+'Salmone' + ']' > U+ec15  c  Acts 27:7
+'Salome' + ']' > U+e379  c  Mark 15:40
+'salt' + ']' > U+e046
+'Salu' + ']' > U+e403  c  Numbers 25:14
+'salvation' + ']' > U+eb80
+'Samaria' + ']' > U+ea83  c  1 Kings 13:32
+'Samaritan' + ']' > U+ea7b  c  Luke 10:33
+'same' + ']' > U+e24b  c  Matthew 26:44
+'Samlah' + ']' > U+efb0  c  Genesis 36:36
+'Samos' + ']' > U+ec25  c  Acts 20:15
+'Samothrace' + ']' > U+eb4c  c  Acts 16:11
+'Samson' + ']' > U+ed06  c  Judges 13:24
+'Samuel' + ']' > U+eb8e  c  1 Samuel 1:20
+'Sanballat' + ']' > U+e872  c  Nehemiah 2:10
+'sanctuary' + ']' > U+eb01
+'sand' + ']' > U+ecfd
+'Sansannah' + ']' > U+e60b  c  Joshua 15:31
+'Saph' + ']' > U+e756  c  2 Samuel 21:18
+'Sapphira' + ']' > U+eb66  c  Acts 5:1
+'Sarah' + ']' > U+ebd5  c  Genesis 17:15
+'Sarai' + ']' > U+eec4  c  Genesis 11:29
+'Saraph' + ']' > U+e738  c  1 Chronicles 4:22
+'Sardis' + ']' > U+ebf7  c  Revelation 1:11
+'Sargon' + ']' > U+e8bb  c  Isaiah 20:1
+'Sarid' + ']' > U+e592  c  Joshua 19:10
+'Sashak' + ']' > U+e94c
+'Satan' + ']' > U+e335  c  Job 1:6
+'Saul' + ']' > U+eb54  c  1 Samuel 9:2
+'save' + ']' > U+e214
+'Savior' + ']' > U+ec85
+'scatter' + ']' > U+ea34  c  Matthew 26:31
+'scepter' + ']' > U+e404  c  Genesis 49:10
+'Sceva' + ']' > U+eb19  c  Acts 19:14
+'scorpion' + ']' > U+ec77
+'Scythia' + ']' > U+eceb  c  Colossians 3:11
+'Sea of Galilee' + ']' > U+e350  c  Matthew 4:18
+'Sea of Reeds' + ']' > U+eb0c  c  Exodus 10:19
+'Sea of Tiberias' + ']' > U+ebaf  c  John 6:1
+'sealed' + ']' > U+e221
+'search' + ']' > U+e074
+'Seba land' + ']' > U+e544  c  Isaiah 43:3
+'Seba man' + ']' > U+eec5  c  Genesis 10:7
+'Sebam' + ']' > U+e49b  c  Numbers 32:3
+'Secacah' + ']' > U+e53f  c  Joshua 15:61
+'secret' + ']' > U+e186
+'Secundus' + ']' > U+eb1d  c  Acts 20:4
+'seed' + ']' > U+e27a
+'Segub' + ']' > U+e696  c  1 Kings 16:34
+'Seir' + ']' > U+eec6  c  Genesis 14:6
+'Seled' + ']' > U+e792  c  1 Chronicles 2:30
+'Seleucia' + ']' > U+eb42  c  Acts 13:4
+'self' + ']' > U+ea95
+'sell' + ']' > U+e32b
+'Semakiah' + ']' > U+e949  c  1 Chronicles 26:7
+'Semein' + ']' > U+ec9e  c  Luke 3:26
+'Senaah' + ']' > U+e8cd  c  Ezra 2:35
+'send' + ']' > U+e075
+'Sennacherib' + ']' > U+e621  c  2 Kings 18:13
+'Seorim' + ']' > U+e7b2  c  1 Chronicles 24:8
+'Sephar' + ']' > U+eec7  c  Genesis 10:30
+'Sepharvaim' + ']' > U+e622  c  2 Kings 18:34
+'Serah' + ']' > U+e1d4  c  Genesis 46:17
+'Sered' + ']' > U+edd1  c  Genesis 46:14
+'Sergius' + ']' > U+eb45  c  Acts 13:7
+'Serug' + ']' > U+ec78  c  Genesis 11:20
+'servant' + ']' > U+e12d
+'serve' + ']' > U+e08e
+'Seth' + ']' > U+ec79  c  Genesis 4:25
+'Sethur' + ']' > U+e2eb  c  Numbers 13:13
+'seven' + ']' > U+e292
+'7' + ']' > U+e292
+'sew' + ']' > U+e077
+'sex' + ']' > U+ea87
+'Shaalbim' + ']' > U+e5b4  c  Judges 1:35
+'Shaaph' + ']' > U+e793  c  1 Chronicles 2:47
+'Shaaraim' + ']' > U+e6d1  c  1 Samuel 17:52
+'Shaashgaz' + ']' > U+e41d  c  Esther 2:14
+'Shabbethai' + ']' > U+e873  c  Nehemiah 8:7
+'shade' + ']' > U+e079
+'Shaharaim' + ']' > U+e94a  c  1 Chronicles 8:8
+'Shahazumah' + ']' > U+e593  c  Joshua 19:22
+'shake' + ']' > U+e27d
+'Shallum' + ']' > U+e641  c  1 Chronicles 9:17
+'Shalmai' + ']' > U+e980  c  Ezra 2:46
+'Shalmaneser' + ']' > U+e623  c  2 Kings 18:9
+'Shama' + ']' > U+e820  c  1 Chronicles 11:44
+'shame' + ']' > U+e065  c  Genesis 2:25
+'Shamgar' + ']' > U+e5b5  c  Judges 3:31
+'Shamir man' + ']' > U+e47d  c  1 Chronicles 24:24
+'Shamir village' + ']' > U+e524  c  Judges 10:2
+'Shammah' + ']' > U+efa0  c  Genesis 36:13
+'Shammai' + ']' > U+e739  c  1 Chronicles 4:17
+'Shammua' + ']' > U+e2ec  c  Numbers 13:4
+'Shamsherai' + ']' > U+e94b  c  1 Chronicles 8:26
+'Shapham' + ']' > U+e642  c  1 Chronicles 5:12
+'Shaphan' + ']' > U+e68e  c  2 Kings 22:3
+'Shaphat' + ']' > U+e1e8  c  Numbers 13:5
+'Shaphir' + ']' > U+e4aa  c  Micah 1:11
+'Sharai' + ']' > U+e8ea  c  Ezra 10:40
+'share' + ']' > U+e07a
+'Sharezer' + ']' > U+e5c9  c  Zechariah 7:2
+'Sharon' + ']' > U+ec2b  c  1 Chronicles 5:16
+'sharp' + ']' > U+ebf3  c  Psalm 45:5
+'Shashai' + ']' > U+e8eb  c  Ezra 10:40
+'Shashak' + ']' > U+e981  c  1 Chronicles 8:14
+'Shaul' + ']' > U+e1d5  c  Genesis 46:10
+'shave' + ']' > U+eb27
+'Shaveh Kiriathaim' + ']' > U+eec8  c  Genesis 14:5
+'Sheal' + ']' > U+e8ec  c  Ezra 10:29
+'Shear Jashub' + ']' > U+e687  c  Isaiah 7:3
+'Sheariah' + ']' > U+e643  c  1 Chronicles 9:44
+'Sheba land' + ']' > U+e425  c  2 Chronicles 9:12
+'Sheba man' + ']' > U+eec9  c  2 Samuel 20:1
+'Shebaniah' + ']' > U+e795  c  1 Chronicles 15:24
+'Sheber' + ']' > U+e796  c  1 Chronicles 2:48
+'Shebna' + ']' > U+e624  c  2 Kings 18:18
+'Shechem city' + ']' > U+ec95  c  Joshua 21:21
+'Shechem man' + ']' > U+ec97  c  Genesis 34:20
+'Shedeur' + ']' > U+e2ed  c  Numbers 1:5
+'sheep' + ']' > U+e270
+'Sheerah' + ']' > U+e794  c  1 Chronicles 7:24
+'Shehariah' + ']' > U+e94d  c  1 Chronicles 8:26
+'Shekaniah' + ']' > U+e73a  c  1 Chronicles 3:21
+'Shelah' + ']' > U+ec7a  c  Genesis 38:5
+'Shelemiah' + ']' > U+e874  c  Nehemiah 3:30
+'Sheleph' + ']' > U+eeca  c  Genesis 10:26
+'Shelesh' + ']' > U+e797  c  1 Chronicles 7:35
+'Shelomi' + ']' > U+e405  c  Numbers 34:27
+'Shelomith man' + ']' > U+e2f1  c  1 Chronicles 23:9
+'Shelomith woman' + ']' > U+e543  c  Leviticus 24:11
+'Shelumiel' + ']' > U+e2ee  c  Numbers 1:6
+'Shem' + ']' > U+ec7b  c  Genesis 5:32
+'Shema man' + ']' > U+e555  c  1 Chronicles 2:43
+'Shema village' + ']' > U+e541  c  Joshua 15:26
+'Shemaah' + ']' > U+e821  c  1 Chronicles 12:3
+'Shemaiah' + ']' > U+e786  c  2 Chronicles 11:2
+'Shemariah' + ']' > U+e787  c  2 Chronicles 11:19
+'Shemeber' + ']' > U+eecb  c  Genesis 14:2
+'Shemed' + ']' > U+e94e  c  1 Chronicles 8:12
+'Shemer' + ']' > U+e697  c  1 Kings 16:24
+'Shemida' + ']' > U+e39f  c  Numbers 26:32
+'Shemiramoth' + ']' > U+e798  c  1 Chronicles 15:18
+'Shemuel' + ']' > U+e411  c  Numbers 34:20
+'Shenazzar' + ']' > U+e73b  c  1 Chronicles 3:18
+'Sheol' + ']' > U+e0c9  c  2 Samuel 22:6
+'Shepham' + ']' > U+e406  c  Numbers 34:10
+'Shephatiah' + ']' > U+e644  c  1 Chronicles 9:8
+'shepherd' + ']' > U+e271
+'Shepho' + ']' > U+e1d6  c  Genesis 36:23
+'Shephupham' + ']' > U+e3a0  c  Numbers 26:39
+'Sherebiah' + ']' > U+e875  c  Nehemiah 8:7
+'Sheresh' + ']' > U+e799  c  1 Chronicles 7:16
+'Sheshai' + ']' > U+e2d3  c  Numbers 13:22
+'Sheshan' + ']' > U+e79a  c  1 Chronicles 2:31
+'Sheshbazzar' + ']' > U+e8c8  c  Ezra 1:8
+'Shethar Bozenai' + ']' > U+e8c7  c  Ezra 5:3
+'Sheva' + ']' > U+e79b  c  1 Chronicles 2:49
+'Shibah' + ']' > U+e1d7  c  Genesis 26:33
+'shield' + ']' > U+e388
+'Shihor' + ']' > U+e54b  c  Joshua 13:3
+'Shihor Libnath' + ']' > U+e594  c  Joshua 19:26
+'Shikkeron' + ']' > U+e542  c  Joshua 15:11
+'Shilhi' + ']' > U+e6a0  c  1 Kings 22:42
+'Shilhim' + ']' > U+e54c  c  Joshua 15:32
+'Shillem' + ']' > U+edd5  c  Genesis 46:24
+'Shiloh' + ']' > U+e1d8  c  Joshua 18:1
+'Shilshah' + ']' > U+e79c  c  1 Chronicles 7:37
+'Shimeam' + ']' > U+e645  c  1 Chronicles 9:38
+'Shimeath' + ']' > U+e6be  c  2 Kings 12:21
+'Shimei' + ']' > U+e2cb  c  Numbers 3:18
+'Shimon' + ']' > U+e73c  c  1 Chronicles 4:20
+'Shimrath' + ']' > U+e94f  c  1 Chronicles 8:21
+'Shimri' + ']' > U+e950  c  1 Chronicles 26:10
+'Shimrith' + ']' > U+e91e  c  2 Chronicles 24:26
+'Shimron man' + ']' > U+efe7  c  Genesis 46:13
+'Shimron village' + ']' > U+e446  c  Joshua 11:1
+'Shimshai' + ']' > U+e8ee  c  Ezra 4:8
+'Shinab' + ']' > U+eecc  c  Genesis 14:2
+'Shinar' + ']' > U+eecd  c  Genesis 10:10
+'Shion' + ']' > U+e607  c  Joshua 19:19
+'Shiphi' + ']' > U+e73d  c  1 Chronicles 4:37
+'Shiphrah' + ']' > U+e0de  c  Exodus 1:15
+'Shiphtan' + ']' > U+e407  c  Numbers 34:24
+'Shisha' + ']' > U+e5ab  c  1 Kings 4:3
+'Shishak' + ']' > U+e5dc  c  1 Kings 11:40
+'Shitrai' + ']' > U+e860  c  1 Chronicles 23:9
+'Shittim' + ']' > U+e408  c  Numbers 25:1
+'Shiza' + ']' > U+e822  c  1 Chronicles 11:42
+'Shobab' + ']' > U+e69b  c  2 Samuel 5:14
+'Shobai' + ']' > U+e8c6  c  Ezra 2:42
+'Shobak' + ']' > U+e71d  c  2 Samuel 10:16
+'Shobal' + ']' > U+e1d9  c  Genesis 36:20
+'Shobek' + ']' > U+e876  c  Nehemiah 10:24
+'Shobi' + ']' > U+e7fa  c  2 Samuel 17:27
+'shoe' + ']' > U+e12e
+'Shoham' + ']' > U+e7b3  c  1 Chronicles 24:27
+'shoulder' + ']' > U+e132
+'shout' + ']' > U+e149
+'show' + ']' > U+e162
+'Shua man' + ']' > U+e1e7  c  1 Samuel 14:49
+'Shua woman' + ']' > U+e79d  c  Genesis 38:2
+'Shuah' + ']' > U+eeee  c  Genesis 25:2
+'Shual man' + ']' > U+e5b0  c  1 Chronicles 7:36
+'Shubael' + ']' > U+e951  c  1 Chronicles 26:24
+'Shuhah' + ']' > U+e73e  c  1 Chronicles 4:11
+'Shuham' + ']' > U+e3b7  c  Numbers 26:42
+'Shunem' + ']' > U+e4b7  c  Joshua 19:18
+'Shuni' + ']' > U+e0e0  c  Genesis 46:16
+'Shur' + ']' > U+e1da  c  Genesis 16:7
+'Shuthelah' + ']' > U+e3b8  c  Numbers 26:35
+'Siaha' + ']' > U+e8c5  c  Ezra 2:44
+'Sibbekai' + ']' > U+e73f  c  1 Chronicles 20:4
+'Sibmah' + ']' > U+e3d2  c  Joshua 13:19
+'Sibraim' + ']' > U+e8fa  c  Ezekiel 47:16
+'sick' + ']' > U+e20a
+'Siddim' + ']' > U+eece  c  Genesis 14:3
+'side' + ']' > U+e10d
+'Sidon city' + ']' > U+e33c  c  Matthew 11:21
+'Sidon man' + ']' > U+eecf  c  Genesis 10:15
+'sigh' + ']' > U+e047
+'sign' + ']' > U+e0a9
+'Sihon' + ']' > U+e3b9  c  Numbers 21:21
+'Silas' + ']' > U+eb41  c  Acts 15:22
+'Silla' + ']' > U+e6bf  c  2 Kings 12:20
+'Siloam city' + ']' > U+ebb1  c  Luke 13:4
+'silver' + ']' > U+eb2b  c  Genesis 13:2 13:2
+'Simeon land' + ']' > U+e788  c  2 Chronicles 15:9
+'Simon' + ']' > U+ea47  c  John 13:26
+'Simon Jesus Brother' + ']' > U+ea92  c  Matthew 13:55
+'Simon of Cyrene' + ']' > U+e37c  c  Mark 15:21
+'Simon Peter' + ']' > U+e356  c  Matthew 4:18
+'Simon the Canaanite' + ']' > U+e364  c  Matthew 10:4
+'Simon the Leper' + ']' > U+e0f8  c  Mark 14:3
+'sin' + ']' > U+e08f
+'Sin' + ']' > U+e0ea  c  Ezekiel 30:15
+'sing' + ']' > U+e0e2
+'single quote' + ']' > U+ee04
+"'" + ']' > U+ee04
+'Sinim' + ']' > U+e918  c  Isaiah 49:12
+'Sinites' + ']' > U+eed1  c  Genesis 10:17
+'sinner' + ']' > U+e151
+'Siphmoth' + ']' > U+e720  c  1 Samuel 30:28
+'Sippai' + ']' > U+e740  c  1 Chronicles 20:4
+'Sirah' + ']' > U+e7fb  c  2 Samuel 3:26
+'Sisera' + ']' > U+e5b6  c  Judges 5:20
+'Sismai' + ']' > U+e777  c  1 Chronicles 2:40
+'sister' + ']' > U+e00e
+'sisters' + ']' > U+e00f
+'Sithri' + ']' > U+e2e5  c  Exodus 6:22
+'Sitnah' + ']' > U+eed2  c  Genesis 26:21
+'six' + ']' > U+e291
+'6' + ']' > U+e291
+'skull' + ']' > U+e20f
+'sky' + ']' > U+ec8b
+'slave' + ']' > U+e10e
+'sleep' + ']' > U+e121
+'slow' + ']' > U+e19c
+'small' + ']' > U+e19b
+'smaller' + ']' > U+e32e  c  Numbers 26:54
+'smoke' + ']' > U+ec03
+'smooth' + ']' > U+ec9a
+'Smyrna' + ']' > U+ebf5  c  Revelation 1:11
+'snake' + ']' > U+e30c
+'snow' + ']' > U+ebfb
+'Sodi' + ']' > U+e2d4  c  Numbers 13:10
+'Sodom' + ']' > U+ea8e  c  Genesis 10:19
+'soft' + ']' > U+e268  c  Genesis 10:19
+'Soko' + ']' > U+e741  c  1 Chronicles 4:18
+'Sokoh' + ']' > U+e54d  c  Joshua 15:35
+'soldier' + ']' > U+e12f
+'Solomon' + ']' > U+ea32  c  2 Samuel 5:14
+'son' + ']' > U+e004  c  Genesis 4:26
+'Son of Man' + ']' > U+e352  c  Matthew 8:20
+'sons' + ']' > U+e005  c  Genesis 5:7
+'Sopater' + ']' > U+ec20  c  Acts 20:4
+'sorcery' + ']' > U+ec8c
+'Sorek' + ']' > U+e5b7  c  Judges 16:14
+'Sosthenes' + ']' > U+eb3c  c  Acts 18:17
+'Sotai' + ']' > U+e8c4  c  Ezra 2:55
+'soul' + ']' > U+e10f
+'sound' + ']' > U+ebe9
+'south' + ']' > U+ea31
+'sow' + ']' > U+e07d
+'sower' + ']' > U+e133
+'Spain' + ']' > U+ebd6  c  Romans 15:24
+'spice' + ']' > U+ecfe
+'spirit' + ']' > U+e187
+'spit' + ']' > U+e048
+'sponge' + ']' > U+ea18
+'spot' + ']' > U+ed01  c  1 Timothy 6:14
+'spy' + ']' > U+ed07
+'Stachys' + ']' > U+ebd7  c  Romans 16:9
+'staff' + ']' > U+e14c  c  Psalm 23:4
+'stair' + ']' > U+e0d9
+'stand' + ']' > U+e32c
+'star' + ']' > U+e0c3
+'start' + ']' > U+e231
+'stay' + ']' > U+e83b
+'steal' + ']' > U+e07b
+'stem' + ']' > U+ea01
+'Stephanas' + ']' > U+ebea  c  1 Corinthians 1:16
+'Stephen' + ']' > U+eb6b  c  Acts 6:5
+'stern' + ']' > U+e266  c  Mark 4:38
+'stewardship' + ']' > U+e07c
+'stick' + ']' > U+e398
+'Stoic' + ']' > U+ec06  c  Acts 17:18
+'stomach' + ']' > U+e0c8
+'stop' + ']' > U+e073
+'storehouse' + ']' > U+ec43
+'storm' + ']' > U+e27c
+'story' + ']' > U+e22d
+'straight' + ']' > U+e313
+'stranger' + ']' > U+e069
+'strangled' + ']' > U+eb33
+'stretch' + ']' > U+e31c
+'string' + ']' > U+ecc7
+'strong' + ']' > U+e08a
+'stumble' + ']' > U+e257
+'stumbling block' + ']' > U+ea27
+'Suah' + ']' > U+e776  c  1 Chronicles 7:36
+'Succoth city' + ']' > U+e0a0  c  Joshua 13:27
+'Succoth land' + ']' > U+e2e7  c  Genesis 33:17
+'suffering' + ']' > U+e222
+'Sukkites' + ']' > U+e811  c  2 Chronicles 12:3
+'summer' + ']' > U+e0c4
+'sun' + ']' > U+e15f
+'sundown' + ']' > U+e161
+'Suphah' + ']' > U+e3d5  c  Numbers 21:14
+'Susa' + ']' > U+e4a5  c  Ezra 4:9
+'Susanna' + ']' > U+ec7c  c  Luke 8:3
+'sweet' + ']' > U+e30d
+'sword' + ']' > U+e282
+'Syene' + ']' > U+e8fb  c  Ezekiel 30:6
+'synagogue' + ']' > U+e0b9
+'Syntyche' + ']' > U+ece6  c  Philippians 4:2
+'Syracuse' + ']' > U+ec1c  c  Acts 28:12
+'Syria' + ']' > U+e342  c  Matthew 4:24
+'Taanach' + ']' > U+e447  c  Joshua 12:21
+'Tabaliah' + ']' > U+e952  c  1 Chronicles 26:11
+'Tabbaoth' + ']' > U+e8d7  c  Ezra 2:43
+'Tabbath' + ']' > U+e5b8  c  Judges 7:22
+'Tabeel' + ']' > U+e688  c  Isaiah 7:6
+'Taberah' + ']' > U+e2d5  c  Numbers 11:3
+'table' + ']' > U+e280
+'Tabor village' + ']' > U+e65d  c  1 Chronicles 6:77
+'Tabrimmon' + ']' > U+e5f1  c  1 Kings 15:18
+'Tadmor' + ']' > U+e866  c  2 Chronicles 8:4
+'Tahan' + ']' > U+e476  c  Numbers 26:35
+'Tahash' + ']' > U+e1db  c  Genesis 22:24
+'Tahath land' + ']' > U+e409  c  Numbers 33:26
+'Tahath man' + ']' > U+e974  c  1 Chronicles 6:24
+'Tahpanhes' + ']' > U+e87a  c  Jeremiah 2:16
+'Tahrea' + ']' > U+e646  c  1 Chronicles 9:41
+'tail' + ']' > U+ecd6
+'Talmai' + ']' > U+e2d6  c  Numbers 13:22
+'Talmon' + ']' > U+e647  c  1 Chronicles 9:17
+'Tamar' + ']' > U+ea4e  c  Genesis 38:6
+'tambourine' + ']' > U+e413
+'Tanhumeth' + ']' > U+e7cf  c  2 Kings 25:23
+'Taphath' + ']' > U+e5ac  c  1 Kings 4:11
+'Tappuah man' + ']' > U+e778  c  1 Chronicles 2:43
+'Tappuah village' + ']' > U+e448  c  Joshua 12:17
+'Taralah' + ']' > U+e65a  c  Joshua 18:27
+'Tarshish man' + ']' > U+eed3  c  Genesis 10:4
+'Tarshish village' + ']' > U+eed4  c  Psalms 48:7
+'Tarsus' + ']' > U+ec30  c  Acts 9:11
+'taste' + ']' > U+ea07
+'Tattenai' + ']' > U+e8d8  c  Ezra 5:3
+'tax' + ']' > U+e02b
+'tax collector' + ']' > U+e12a
+'teach' + ']' > U+e04c
+'teacher' + ']' > U+e12b
+'Tebah man' + ']' > U+e0b0  c  Genesis 22:24
+'Tebah village' + ']' > U+e742  c  1 Chronicles 18:8
+'teeth' + ']' > U+e0b1  c  Genesis 49:12
+'Tehinnah' + ']' > U+e743  c  1 Chronicles 4:12
+'Tekoa land' + ']' > U+e8c1  c  2 Samuel 14:2
+'Tekoa man' + ']' > U+e1ff  c  1 Chronicles 2:24
+'Tekoa village' + ']' > U+e45d  c  2 Samuel 14:2
+'Tel Assar' + ']' > U+e6c0  c  2 Kings 19:12
+'Telah' + ']' > U+e779  c  1 Chronicles 7:25
+'Telem man' + ']' > U+e2a9  c  Ezra 10:24
+'Telem village' + ']' > U+e54e  c  Joshua 15:24
+'Tema land' + ']' > U+ea60  c  Isaiah 21:14
+'Tema man' + ']' > U+eeed  c  Genesis 25:15
+'Temah' + ']' > U+e8bc  c  Ezra 2:53
+'Teman land' + ']' > U+e1e1  c  Jeremiah 49:20
+'Teman man' + ']' > U+ef90  c  Genesis 36:11
+'Temeni' + ']' > U+e744  c  1 Chronicles 4:6
+'temple' + ']' > U+e03d
+'tempt' + ']' > U+e183
+'ten' + ']' > U+e295
+'10' + ']' > U+e295
+'tent' + ']' > U+eb32
+'Terah land' + ']' > U+e40a  c  Numbers 33:28
+'Terah man' + ']' > U+ec7d  c  Genesis 11:24
+'Teresh' + ']' > U+e4a6  c  Esther 2:21
+'Tertius' + ']' > U+ebee  c  Romans 16:22
+'Tertullus' + ']' > U+eb9b  c  Acts 24:1
+'test' + ']' > U+ec21
+'testimony' + ']' > U+e22e
+'Thaddaeus' + ']' > U+e37b  c  Matthew 10:3
+'Thebes' + ']' > U+e44a  c  Jeremiah 46:25
+'Thebez' + ']' > U+e5b9  c  Judges 9:50
+'Theophilus' + ']' > U+eb67  c  Luke 1:3
+'Thessalonica' + ']' > U+eb12  c  Acts 17:1
+'Theudas' + ']' > U+eb71  c  Acts 5:36
+'they' + ']' > U+e125
+'thigh' + ']' > U+ed0d
+'thing' + ']' > U+e105
+'thirst' + ']' > U+eccf
+'this' + ']' > U+e226
+'Thomas' + ']' > U+e363  c  Matthew 10:3
+'thorn' + ']' > U+e27b
+'thousand' + ']' > U+e296  c  Genesis 20:16
+'three' + ']' > U+e28e
+'3' + ']' > U+e28e
+'threshing' + ']' > U+ea39
+'threshing floor' + ']' > U+ec42
+'throne' + ']' > U+ec84
+'through' + ']' > U+e10b
+'throw' + ']' > U+e327
+'Thummim' + ']' > U+e0eb  c  Exodus 28:30
+'thunder' + ']' > U+e044
+'Thyatira' + ']' > U+eb52  c  Acts 16:14
+'Tiberias city' + ']' > U+ebb0  c  John 6:23
+'Tiberius man' + ']' > U+ec3d  c  Luke 3:1
+'Tibni' + ']' > U+e612  c  1 Kings 16:21
+'Tidal' + ']' > U+eed5  c  Genesis 14:1
+'tie' + ']' > U+e30e
+'Tiglath Pileser' + ']' > U+e648  c  1 Chronicles 5:6
+'Tigris' + ']' > U+eed6  c  Daniel 10:4
+'Tikvah' + ']' > U+e68f  c  2 Kings 22:14
+'Tilon' + ']' > U+e745  c  1 Chronicles 4:20
+'Timaeus' + ']' > U+e36c  c  Mark 10:46
+'time' + ']' > U+e16a
+'Timna man' + ']' > U+e0ad  c  Genesis 36:22
+'Timna woman' + ']' > U+ef80  c  Genesis 36:12
+'Timnah' + ']' > U+e1dc  c  Joshua 15:10
+'Timnath Heres' + ']' > U+e5ba  c  Judges 2:9
+'Timnath Serah' + ']' > U+e4e4  c  Joshua 24:30
+'Timon' + ']' > U+ec96  c  Acts 6:5
+'Timothy' + ']' > U+ec02  c  1 Timothy 1:2
+'Tiphsah' + ']' > U+e5ad  c  1 Kings 4:24
+'Tiras' + ']' > U+eed7  c  Genesis 10:2
+'Tirhakah' + ']' > U+e6c1  c  2 Kings 19:9
+'Tirhanah' + ']' > U+e77a  c  1 Chronicles 2:48
+'Tiria' + ']' > U+e746  c  1 Chronicles 4:16
+'Tirzah village' + ']' > U+e449  c  Joshua 12:24
+'Tirzah woman' + ']' > U+e3ba  c  Numbers 26:33
+'Tishbe' + ']' > U+e625  c  2 Kings 1:3
+'tithe' + ']' > U+ed0f
+'Titus' + ']' > U+eb38  c  Titus 1:4
+'Tob' + ']' > U+e5bb  c  Judges 11:3
+'Tob Adonijah' + ']' > U+e789  c  2 Chronicles 17:8
+'Tobiah' + ']' > U+e751  c  Ezra 2:60
+'toe' + ']' > U+e2c8
+'Togarmah' + ']' > U+eed8  c  Genesis 10:3
+'together people' + ']' > U+e126
+'Tohu' + ']' > U+e4f2  c  1 Samuel 1:1
+'Token' + ']' > U+e747  c  1 Chronicles 4:32
+'Tola' + ']' > U+e0c0  c  Genesis 46:13
+'tomb' + ']' > U+e178
+'tongue' + ']' > U+e045
+'tool' + ']' > U+eb34
+'Tophel land' + ']' > U+e487  c  Deuteronomy 1:1
+'Topheth' + ']' > U+e6c2  c  2 Kings 23:10
+'Tou' + ']' > U+e748  c  1 Chronicles 18:9
+'touch' + ']' > U+e10c
+'tower' + ']' > U+e30f  c  Genesis 11:4
+'Trachonitis' + ']' > U+ec3f  c  Luke 3:1
+'transfiguration' + ']' > U+e31f  c  Mark 9:2
+'tree' + ']' > U+e244
+'tribe' + ']' > U+ea81
+'Troas' + ']' > U+ec0b  c  Acts 16:8
+'Trophimus' + ']' > U+eb1e  c  Acts 20:4
+'trouble' + ']' > U+e333
+'true' + ']' > U+e09c
+'trumpet' + ']' > U+ea79
+'trust' + ']' > U+e023  c  Deuteronomy 1:32
+'try' + ']' > U+eb94
+'Tryphaena' + ']' > U+ebd8  c  Romans 16:12
+'Tryphosa' + ']' > U+ebd9  c  Romans 16:12
+'Tubal' + ']' > U+eed9  c  Genesis 10:2
+'Tubal Cain' + ']' > U+eeef  c  Genesis 4:22
+'twin' + ']' > U+ec1b
+'two' + ']' > U+e28d
+'2' + ']' > U+e28d
+'Tychicus' + ']' > U+ecbb  c  Acts 20:4
+'type' + ']' > U+ed00
+'Tyrannus' + ']' > U+eb3f  c  Acts 19:9
+'Tyre' + ']' > U+e33b  c  Joshua 19:29
+'Ulai Canal' + ']' > U+e854  c  Daniel 8:2
+'Ulam' + ']' > U+e953  c  1 Chronicles 8:39
+'Ulla' + ']' > U+e77b  c  1 Chronicles 7:39
+'Ummah' + ']' > U+e608  c  Joshua 19:30
+'under' + ']' > U+e10a
+'understand' + ']' > U+e063
+'unity' + ']' > U+e297
+'unleavened' + ']' > U+e043  c  Exodus 12:20
+'Unni' + ']' > U+e77c  c  1 Chronicles 15:18
+'untie' + ']' > U+e37f  c  Isaiah 58:6
+'until' + ']' > U+e16c
+'up' + ']' > U+e315
+'Ur land' + ']' > U+efa5  c  Genesis 11:28
+'Ur man' + ']' > U+e823  c  1 Chronicles 11:35
+'Urbanus' + ']' > U+ebda  c  Romans 16:9
+'Uri' + ']' > U+e2e8  c  Exodus 31:2
+'Uriah' + ']' > U+ea46  c  2 Samuel 11:3
+'Uriel' + ']' > U+e954  c  1 Chronicles 6:24
+'Urim' + ']' > U+e2cc  c  Exodus 28:30
+'us' + ']' > U+e167
+'use' + ']' > U+e08d
+'Uthai' + ']' > U+e649  c  1 Chronicles 9:4
+'Uz land' + ']' > U+e1dd  c  Job 1:1
+'Uz man' + ']' > U+eef1  c  Genesis 10:23
+'Uzai' + ']' > U+e877  c  Nehemiah 3:25
+'Uzal' + ']' > U+eef2  c  Genesis 10:27
+'Uzzah' + ']' > U+e64a  c  1 Chronicles 13:7
+'Uzzi' + ']' > U+e64b  c  1 Chronicles 9:8
+'Uzzia' + ']' > U+e824  c  1 Chronicles 11:44
+'Uzziah' + ']' > U+ea5f  c  2 Kings 15:13
+'Uzziel' + ']' > U+e2f2  c  Exodus 6:18
+'valley' + ']' > U+eba7
+'Valley of Eskol' + ']' > U+e2d7  c  Numbers 13:23
+'Vaniah' + ']' > U+e8ef  c  Ezra 10:36
+'Vashti' + ']' > U+e4a7  c  Esther 1:9
+'vendor' + ']' > U+e0b4
+'very' + ']' > U+e211
+'victory' + ']' > U+eb14
+'village' + ']' > U+e19a
+'vine' + ']' > U+ec91
+'vineyard' + ']' > U+e27f
+'virgin' + ']' > U+ea7e
+'voice' + ']' > U+e042
+'Vophsi' + ']' > U+e40b  c  Numbers 13:14
+'Waheb' + ']' > U+e3bb  c  Numbers 21:14
+'waist' + ']' > U+e391
+'wait' + ']' > U+ea11
+'walk' + ']' > U+e256
+'wall' + ']' > U+e288
+'war' + ']' > U+e283
+'wash' + ']' > U+e08b
+'watchman' + ']' > U+e0a8
+'watchtower' + ']' > U+e23a
+'water' + ']' > U+e247
+'wave' + ']' > U+e328
+'weak' + ']' > U+ea24
+'weary' + ']' > U+ebfe
+'wedding' + ']' > U+e011
+'week' + ']' > U+ebb2
+'weigh' + ']' > U+e0e6
+'well' + ']' > U+ebb3
+'west' + ']' > U+ea89
+'what' + ']' > U+e109
+'wheels' + ']' > U+e7d0  c  1 Kings 7:30
+'where' + ']' > U+e15a
+'whip' + ']' > U+e310  c  John 2:15
+'white' + ']' > U+e285
+'who' + ']' > U+e1a1
+'why' + ']' > U+e067
+'wide' + ']' > U+ecc4
+'widow' + ']' > U+e016
+'wife' + ']' > U+e014
+'wild' + ']' > U+e17e
+'wilderness' + ']' > U+e156
+'wind' + ']' > U+e220
+'window' + ']' > U+e311
+'wine' + ']' > U+e275
+'wing' + ']' > U+eb7d
+'winnowing fork' + ']' > U+ec41  c  Matthew 3:12
+'winter' + ']' > U+e16b
+'wisdom' + ']' > U+e064
+'with' + ']' > U+e24c
+'woman' + ']' > U+e008
+'wool' + ']' > U+ebfa
+'word' + ']' > U+ebb4  c   None:None
+'Word' + ']' > U+ebb8  c  John 1:1
+'work' + ']' > U+e08c
+'world' + ']' > U+e129
+'worm' + ']' > U+ea06
+'wormwood' + ']' > U+ecd3  c  Revelation 8:11
+'worse' + ']' > U+e182
+'worth' + ']' > U+e09b  c  Deuteronomy 15:18
+'wrap' + ']' > U+ea19  c  Isaiah 28:20
+'wrath of God' + ']' > U+e02a  c  Romans 1:18
+'writer' + ']' > U+e12c
+'wrong' + ']' > U+ea02
+'Yahweh' + ']' > U+e0c7  c  Exodus 6:3
+'year' + ']' > U+e15e
+'yellow' + ']' > U+ecdb
+'yoke' + ']' > U+eb09
+'you' + ']' > U+e314
+'young' + ']' > U+e0f1
+'Zaanan' + ']' > U+e4ab  c  Micah 1:11
+'Zaanannim' + ']' > U+e5bc  c  Judges 4:11
+'Zaavan' + ']' > U+ef70  c  Genesis 36:27
+'Zabad' + ']' > U+e77d  c  1 Chronicles 2:37
+'Zabdi' + ']' > U+e54f  c  Joshua 7:1
+'Zabdiel' + ']' > U+e863  c  1 Chronicles 27:2
+'Zabud' + ']' > U+e5ae  c  1 Kings 4:5
+'Zacchaeus' + ']' > U+ec7e  c  Luke 19:2
+'Zaccur' + ']' > U+e1f1  c  Numbers 13:4
+'Zadok' + ']' > U+ea6d  c  2 Samuel 15:24
+'Zaham' + ']' > U+e7c7  c  2 Chronicles 11:19
+'Zakkai' + ']' > U+e8bd  c  Ezra 2:9
+'Zalaph' + ']' > U+e878  c  Nehemiah 3:30
+'Zalmon' + ']' > U+e95d  c  2 Samuel 23:28
+'Zalmonah' + ']' > U+e40c  c  Numbers 33:41
+'Zalmunna' + ']' > U+e5bd  c  Judges 8:5
+'Zanoah man' + ']' > U+e749  c  1 Chronicles 4:18
+'Zanoah village' + ']' > U+e550  c  Joshua 15:34
+'Zaphon' + ']' > U+e525  c  Judges 12:1
+'Zarephath' + ']' > U+ec7f  c  1 Kings 17:9
+'Zarethan' + ']' > U+e4e5  c  Joshua 3:16
+'Zattu' + ']' > U+e8be  c  Ezra 2:8
+'Zaza' + ']' > U+e95c  c  1 Chronicles 2:33
+'Zebadiah' + ']' > U+e955  c  1 Chronicles 26:2
+'Zebah' + ']' > U+e5be  c  Judges 8:5
+'Zebedee' + ']' > U+e359  c  Matthew 4:21
+'Zebidah' + ']' > U+e6c3  c  2 Kings 23:36
+'Zebina' + ']' > U+e914  c  Ezra 10:43
+'Zeboim' + ']' > U+e879  c  Nehemiah 11:34
+'Zeboyim' + ']' > U+eef3  c  1 Samuel 13:18
+'Zebul' + ']' > U+e5bf  c  Judges 9:28
+'Zebulun land' + ']' > U+e5c0  c  Judges 4:6
+'Zebulun man' + ']' > U+ea3f  c  Genesis 30:20
+'Zechariah' + ']' > U+ea98  c  Zechariah 1:1
+'Zedad' + ']' > U+e40d  c  Numbers 34:8
+'Zedekiah' + ']' > U+e6a1  c  1 Kings 22:11
+'Zeeb' + ']' > U+e5c1  c  Judges 7:25
+'Zeker' + ']' > U+e956  c  1 Chronicles 8:31
+'Zelah' + ']' > U+e65b  c  Joshua 18:28
+'Zelek' + ']' > U+e825  c  1 Chronicles 11:39
+'Zelophehad' + ']' > U+e3bc  c  Numbers 26:33
+'Zemaraim' + ']' > U+e701  c  Joshua 18:22
+'Zemarites' + ']' > U+eef4  c  Genesis 10:18
+'Zemirah' + ']' > U+e77f  c  1 Chronicles 7:8
+'Zenas' + ']' > U+ed09  c  Titus 3:13
+'Zephaniah' + ']' > U+e60f  c  Zephaniah 1:1
+'Zephath' + ']' > U+e5c2  c  Judges 1:17
+'Zepho' + ']' > U+e1de  c  Genesis 36:11
+'Zephon' + ']' > U+e0d0  c  Numbers 26:15
+'Zer' + ']' > U+e609  c  Joshua 19:35
+'Zerah' + ']' > U+ea4d  c  Genesis 36:13
+'Zerahiah' + ']' > U+e957  c  1 Chronicles 6:6
+'Zered' + ']' > U+e3bd  c  Deuteronomy 2:13
+'Zeredah' + ']' > U+e5f2  c  1 Kings 11:26
+'Zeresh' + ']' > U+e4a8  c  Esther 5:10
+'Zereth' + ']' > U+e74a  c  1 Chronicles 4:7
+'Zereth Shahar' + ']' > U+e551  c  Joshua 13:19
+'Zeri' + ']' > U+e864  c  1 Chronicles 25:3
+'zero' + ']' > U+e28b
+'Zeror' + ']' > U+e6d2  c  1 Samuel 9:1
+'Zeruah' + ']' > U+e5f3  c  1 Kings 11:26
+'Zerubbabel' + ']' > U+ea69  c  Ezra 2:2
+'Zeruiah' + ']' > U+e4dd  c  1 Kings 1:7
+'Zetham' + ']' > U+e958  c  1 Chronicles 26:22
+'Zethan' + ']' > U+e780  c  1 Chronicles 7:10
+'Zeus' + ']' > U+eb2d  c  Acts 14:12
+'Zia' + ']' > U+e64c  c  1 Chronicles 5:13
+'Ziba' + ']' > U+e52c  c  2 Samuel 9:2
+'Zibeon' + ']' > U+ef60  c  Genesis 36:20
+'Zibia man' + ']' > U+e959  c  1 Chronicles 8:9
+'Zibiah woman' + ']' > U+e71f  c  2 Kings 12:1
+'Zichri' + ']' > U+e2cd  c  Exodus 6:21
+'Ziddom' + ']' > U+e60a  c  Joshua 19:35
+'Ziha' + ']' > U+e8bf  c  Ezra 2:43
+'Ziklag' + ']' > U+e52d  c  2 Samuel 4:10
+'Zillah' + ']' > U+eef5  c  Genesis 4:19
+'Zillethai' + ']' > U+e95a  c  1 Chronicles 8:20
+'Zilpah' + ']' > U+efa6  c  Genesis 29:24
+'Zimmah' + ']' > U+e95b  c  1 Chronicles 6:20
+'Zimran' + ']' > U+e1df  c  Genesis 25:2
+'Zimri' + ']' > U+e40e  c  Numbers 25:14
+'Zin' + ']' > U+e1f2  c  Numbers 13:21
+'Zior' + ']' > U+e552  c  Joshua 15:54
+'Ziph man' + ']' > U+e556  c  1 Chronicles 2:42
+'Ziph village' + ']' > U+e553  c  Joshua 15:24
+'Ziphah' + ']' > U+e74b  c  1 Chronicles 4:16
+'Ziphron' + ']' > U+e40f  c  Numbers 34:9
+'Zippor' + ']' > U+e2fd  c  Numbers 22:2
+'Zipporah' + ']' > U+e2ce  c  Exodus 2:21
+'Ziza' + ']' > U+e74c  c  1 Chronicles 4:37
+'Zoan' + ']' > U+e1f3  c  Numbers 13:22
+'Zoar' + ']' > U+eef6  c  Genesis 13:10
+'Zobah' + ']' > U+e7e2  c  1 Samuel 14:47
+'Zohar' + ']' > U+efa7  c  Genesis 23:8
+'Zoheleth' + ']' > U+e4de  c  1 Kings 1:9
+'Zoheth' + ']' > U+e74d  c  1 Chronicles 4:20
+'Zophah' + ']' > U+e781  c  1 Chronicles 7:35
+'Zophar' + ']' > U+e7c9  c  Job 2:11
+'Zophim' + ']' > U+e3be  c  Numbers 23:14
+'Zorah' + ']' > U+e554  c  Joshua 15:33
+'Zuar' + ']' > U+e1f4  c  Numbers 1:8
+'Zuph' + ']' > U+e4f3  c  1 Samuel 1:1
+'Zur' + ']' > U+e410  c  Numbers 25:15
+'Zuriel' + ']' > U+e1f5  c  Numbers 3:35
+'Zurishaddai' + ']' > U+e1f6  c  Numbers 1:6
+'Zuzites' + ']' > U+eef7  c  Genesis 14:5
+'Abi-Albon' + ']' > U+e7dc
+'Abidah' + ']' > U+eef8
+'ability' + ']' > U+e124
+'Addon' + ']' > U+e4ce
+'Adna' + ']' > U+e782
+'Adonikam' + ']' > U+e4ae
+'adoption' + ']' > U+e177
+'Ahiah' + ']' > U+e7e5
+'Alemeth city' + ']' > U+e4f7
+'amazing' + ']' > U+e14a
+'Ami' + ']' > U+ea64
+'Amzi' + ']' > U+e450
+'Anem' + ']' > U+e4fb
+'Aner village' + ']' > U+e447
+'angry' + ']' > U+e204
+'appear' + ']' > U+e162
+'Aram land' + ']' > U+e342
+'Aram Naharaim' + ']' > U+eb72
+'Arba' + ']' > U+ebd3
+'army' + ']' > U+e148
+'arrest' + ']' > U+e25f
+'ascend' + ']' > U+e322
+'ask' + ']' > U+e061
+'attendant' + ']' > U+e150
+'author' + ']' > U+e12c
+'Avva' + ']' > U+e61d
+'Aziel' + ']' > U+e7c0
+'Baal Perazim' + ']' > U+e6c7
+'Baalath' + ']' > U+e438
+'Babel' + ']' > U+ea67
+'Balah' + ']' > U+e4d9
+'baptism' + ']' > U+e24a
+'battle' + ']' > U+e283
+'beautiful' + ']' > U+ea4a
+'beckon' + ']' > U+e040
+'Beeliada' + ']' > U+e5cf
+'Beelzebul' + ']' > U+e335
+'beginning' + ']' > U+e231
+'Believer' + ']' > U+eb90
+'Berothah' + ']' > U+e718
+'betrayal' + ']' > U+e195
+'Bezai' + ']' > U+e0bf
+'Bileam' + ']' > U+e4fe
+'blaspheme' + ']' > U+e05b
+'blemish' + ']' > U+ed01
+'blessing' + ']' > U+e05c
+'born' + ']' > U+e235
+'breathe' + ']' > U+ecee
+'burnt' + ']' > U+ecd0
+'Cain' + ']' > U+ec56
+'Caphtor' + ']' > U+ec8d
+'carry' + ']' > U+e088
+'Cephas' + ']' > U+e356
+'Chesulloth' + ']' > U+e58a
+'circumcision' + ']' > U+e250
+'Clauda' + ']' > U+ec36
+'close' + ']' > U+e300
+'come out' + ']' > U+e243
+'commandment' + ']' > U+e22f
+'compassion' + ']' > U+e01a
+'condemnation' + ']' > U+ea7f
+'confess' + ']' > U+e03f
+'confidence' + ']' > U+e070
+'continue' + ']' > U+e049
+'convert' + ']' > U+e83a
+'counted' + ']' > U+ebc0
+'courage' + ']' > U+e196
+'covet' + ']' > U+e022
+'create' + ']' > U+e076
+'criticize' + ']' > U+e055
+'cushion' + ']' > U+e26c
+'cut' + ']' > U+e24e
+'Daberath' + ']' > U+e507
+'day' + ']' > U+e15f
+'deacon' + ']' > U+e12d
+'death' + ']' > U+e181
+'deception' + ']' > U+e17f
+'depth' + ']' > U+e321
+'desert' + ']' > U+e156
+'deserve' + ']' > U+e0f5
+'destroy' + ']' > U+e141
+'dignify' + ']' > U+e04b
+'Dimnah' + ']' > U+e53d
+'disease' + ']' > U+e20a
+'dish' + ']' > U+e384
+'disobedience' + ']' > U+e193
+'division' + ']' > U+e326
+'do' + ']' > U+e08c
+'drink' + ']' > U+e274
+'drum' + ']' > U+ebe3
+'dwell' + ']' > U+e17b
+'earth' + ']' > U+e153
+'Elasah' + ']' > U+e603
+'Eliasaph' + ']' > U+e5fa
+'Elioenai' + ']' > U+e667
+'Elishah' + ']' > U+ec5c
+'Emmor' + ']' > U+eb5d
+'enmity' + ']' > U+e01b
+'Enosh' + ']' > U+ec60
+'Epaphras' + ']' > U+ece4
+'equal' + ']' > U+e24b
+'Esh Baal' + ']' > U+e48a
+'eternal' + ']' > U+e252
+'explanation' + ']' > U+e059
+'fabric' + ']' > U+e253
+'faith' + ']' > U+e06f
+'faithfulness' + ']' > U+e219
+'farmer' + ']' > U+e133
+'fear' + ']' > U+e056
+'few' + ']' > U+e19b
+'field' + ']' > U+eb91
+'finish' + ']' > U+e232
+'food' + ']' > U+e053
+'for' + ']' > U+e086
+'forgiveness' + ']' > U+e18f
+'fragrant' + ']' > U+e097
+'freedom' + ']' > U+e260
+'gain' + ']' > U+e1a3
+'gathered people' + ']' > U+e126
+'gathered things' + ']' > U+e108
+'gentile' + ']' > U+e158
+'gentleness' + ']' > U+e26d
+'Gerasenes' + ']' > U+e33f
+'Gibbar' + ']' > U+e5de
+'Gishpa' + ']' > U+e845
+'glorify' + ']' > U+e217
+'good news' + ']' > U+e22b
+'gratitude' + ']' > U+e20e
+'grave' + ']' > U+e178
+'gray' + ']' > U+e611
+'grieve' + ']' > U+e207
+'ground soil' + ']' > U+e15b
+'growth' + ']' > U+e154
+'guilty' + ']' > U+ea84
+'Hagaba' + ']' > U+e83f
+'Hammath village' + ']' > U+e502
+'Hannah' + ']' > U+eb02
+'Hanok' + ']' > U+ec5f
+'Hariph' + ']' > U+e84c
+'harlot' + ']' > U+ecfc
+'Hashem' + ']' > U+e7f7
+'have to' + ']' > U+e07f
+'Hazar Susah' + ']' > U+e60b
+'healer' + ']' > U+e144
+'healthy' + ']' > U+e209
+'hear' + ']' > U+e299
+'Heldai' + ']' > U+e7b8
+'Heli' + ']' > U+ec44
+'Heliopolis' + ']' > U+e4f9
+'Hereth' + ']' > U+e7eb
+'Hiddai' + ']' > U+e809
+'Hilen' + ']' > U+e504
+'hit' + ']' > U+e0e4
+'Hoshea' + ']' > U+ebc5
+'hot' + ']' > U+e301
+'Hukok' + ']' > U+e503
+'humiliate' + ']' > U+e065
+'humility' + ']' > U+e19d
+'Huram' + ']' > U+e5d3
+'hurt' + ']' > U+e24f
+'hypocrite' + ']' > U+e152
+'I' + ']' > U+e166
+'ignorance' + ']' > U+e06e
+'Ilai' + ']' > U+e95d
+'immediately' + ']' > U+e215
+'important' + ']' > U+ebe7
+'impure' + ']' > U+e249
+'inside' + ']' > U+e240
+'insist' + ']' > U+e058
+'Ishijah' + ']' > U+e7be
+'Jaala' + ']' > U+e84b
+'Jabesh Gilead' + ']' > U+e4eb
+'Jaddai' + ']' > U+e96d
+'Jakan' + ']' > U+e4f5
+'Jeduthun' + ']' > U+e95e
+'Jehiel' + ']' > U+e7c4
+'Jehoash' + ']' > U+e458
+'Jehoiarib' + ']' > U+e8a5
+'Jehonathan' + ']' > U+e48b
+'Jehoram' + ']' > U+ea5e
+'Jeiel' + ']' > U+e5ec
+'Jeremai' + ']' > U+e682
+'Jeshaiah' + ']' > U+e372
+'Jewish' + ']' > U+e0f9
+'Jezrahiah' + ']' > U+e7bf
+'Joahaz' + ']' > U+e6ae
+'Jonadab' + ']' > U+e6dc
+'journal' + ']' > U+e381
+'joy' + ']' > U+e205
+'Jozabad' + ']' > U+e681
+'Jozadak' + ']' > U+e47e
+'Judas not Iscariot' + ']' > U+e368
+'judgment' + ']' > U+e1a2
+'Kadesh Barnea' + ']' > U+edf9
+'Kedesh' + ']' > U+e4e0
+'kind same' + ']' > U+ed00
+'kindness' + ']' > U+e01c
+'Kir Hareseth' + ']' > U+e45a
+'Kiriath Arba' + ']' > U+edeb
+'Kiriath Sannah' + ']' > U+e43e
+'Kiriathaim' + ']' > U+eec8
+'Kittim island' + ']' > U+eb88
+'knot' + ']' > U+e30e
+'knowledge' + ']' > U+e062
+'Kore' + ']' > U+ecf3
+'Koz' + ']' > U+e6ed
+'Kue' + ']' > U+eb5b
+'Kushaiah' + ']' > U+e65e
+'later' + ']' > U+e225
+'laughter' + ']' > U+e224
+'lawlessness' + ']' > U+e08f
+'leader' + ']' > U+e137
+'leap' + ']' > U+ed0a
+'learn' + ']' > U+e22a
+'Lebana' + ']' > U+e850
+'Leum' + ']' > U+eee3
+'level' + ']' > U+e0d9
+'Levi Matthew' + ']' > U+e35c
+'lie down' + ']' > U+e121
+'life' + ']' > U+e09f
+'like' + ']' > U+e020
+'loaf' + ']' > U+e05d
+'Lod' + ']' > U+ec2e
+'longsuffering' + ']' > U+e16f
+'lord' + ']' > U+e028
+'lot' + ']' > U+ea16
+'lower verb' + ']' > U+e080
+'Maarath' + ']' > U+e3b6
+'Mahath' + ']' > U+e660
+'Mary Mother of Jesus' + ']' > U+e354
+'mattress' + ']' > U+e122
+'Merib Baal' + ']' > U+e527
+'Mermom' + ']' > U+e58e
+'Meshelemiah' + ']' > U+e874
+'Meshillemoth' + ']' > U+e638
+'message' + ']' > U+e22d
+'Messiah' + ']' > U+e334
+'Mishall' + ']' > U+e4e2
+'Mount Horeb' + ']' > U+eb5c
+'much' + ']' > U+e198
+'multitude' + ']' > U+e128
+'Nahalol' + ']' > U+e4e3
+'Nathaniel' + ']' > U+ec6f
+'nation' + ']' > U+e0a2
+'Nehum' + ']' > U+e8cc
+'next' + ']' > U+ebf2
+'night' + ']' > U+e272
+'noise' + ']' > U+ebe9
+'not' + ']' > U+e17c
+'obedience' + ']' > U+e04e
+'on top of' + ']' > U+e113
+'Onesiphorus' + ']' > U+ecb8
+'only' + ']' > U+e223
+'oppose' + ']' > U+e330
+'Ornan' + ']' > U+e7f4
+'outside' + ']' > U+e241
+'over' + ']' > U+e110
+'Paarai' + ']' > U+e81c
+'party' + ']' > U+e20b
+'Pas Dammim' + ']' > U+e6ce
+'pass' + ']' > U+e10b
+'path' + ']' > U+e23c
+'pattern' + ']' > U+ecf0
+'Penuel man' + ']' > U+e976
+'perfect' + ']' > U+ecec
+'Perida' + ']' > U+e8cf
+'permission' + ']' > U+e04a
+'persecute' + ']' > U+e03e
+'plant' + ']' > U+e244
+'platter' + ']' > U+e386
+'prayer' + ']' > U+e05e
+'preaching' + ']' > U+e04d
+'prevail' + ']' > U+eb14
+'pride' + ']' > U+e14b
+'proconsul' + ']' > U+e0a3
+'Psalm' + ']' > U+e0e2
+'punish' + ']' > U+e1d0
+'pure' + ']' > U+e248
+'purpose' + ']' > U+e066
+'Put land' + ']' > U+eb73
+'put verb' + ']' > U+e07e
+'Raamaiah' + ']' > U+e8cb
+'redemption' + ']' > U+e02c
+'relative' + ']' > U+e176
+'remain' + ']' > U+e83b
+'Remeth' + ']' > U+e436
+'repentance' + ']' > U+e320
+'rescue' + ']' > U+e214
+'resurrection' + ']' > U+e329
+'revenge' + ']' > U+ed0c
+'righteous person' + ']' > U+e130
+'righteousness' + ']' > U+e090
+'ripe' + ']' > U+e236
+'Sallu' + ']' > U+e403
+'Scripture' + ']' > U+e22c
+'sea' + ']' > U+e14d
+'seal' + ']' > U+e221
+'sect' + ']' > U+ec33
+'see' + ']' > U+e238
+'sensuality' + ']' > U+e239
+'Seraiah' + ']' > U+e5ab
+'Shaalabbin' + ']' > U+e5b4
+'Shalman' + ']' > U+e623
+'Sharar' + ']' > U+e947
+'Sharuhen' + ']' > U+e54c
+'Shealtiel' + ']' > U+ec76
+'Shimeah' + ']' > U+e2cb
+'Shophak' + ']' > U+e71d
+'Shual village' + ']' > U+e50d
+'Shuppim' + ']' > U+efde
+'Sia' + ']' > U+e8c5
+'silence' + ']' > U+e185
+'Silvanus' + ']' > U+eb41
+'Simeon man' + ']' > U+ea47
+'sit' + ']' > U+e298
+'smallest' + ']' > U+e397
+'smell' + ']' > U+e309
+'some' + ']' > U+e29b
+'Sophereth' + ']' > U+e844
+'Sosipater' + ']' > U+ec20
+'spend' + ']' > U+e32a
+'stern words' + ']' > U+eca7
+'stream' + ']' > U+e30b
+'suffer' + ']' > U+e222
+'tabernacle' + ']' > U+eb32
+'tar' + ']' > U+eeb9
+'Tarea' + ']' > U+e646
+'teaching' + ']' > U+e04c
+'temptation' + ']' > U+e183
+'that' + ']' > U+e184
+'them' + ']' > U+e125
+'thief' + ']' > U+e0e9
+'think' + ']' > U+e06c
+'thirsty' + ']' > U+eccf
+'to' + ']' > U+e318
+'to clothe' + ']' > U+e147
+'to plant' + ']' > U+e07d
+'Toah' + ']' > U+e1c8
+'Tobijah' + ']' > U+e751
+'transfigure' + ']' > U+e31f
+'trial' + ']' > U+ec87
+'truth' + ']' > U+e09c
+'turn' + ']' > U+e31e
+'unbelief' + ']' > U+e194
+'understanding' + ']' > U+e063
+'Uphaz land' + ']' > U+e5d9
+'useful' + ']' > U+e08d
+'useless' + ']' > U+e190
+'Uzza' + ']' > U+e64a
+'value' + ']' > U+e09b
+'vision' + ']' > U+ea80
+'visit' + ']' > U+e25a
+'warn' + ']' > U+e19e
+'we' + ']' > U+e167
+'wealth' + ']' > U+e029
+'weight' + ']' > U+e0e6
+'wet' + ']' > U+e247
+'wheat' + ']' > U+e279
+'when' + ']' > U+e16a
+'whisper' + ']' > U+e186
+'whole' + ']' > U+e251
+'wings' + ']' > U+eb7d
+'wise' + ']' > U+e064
+'witness' + ']' > U+e22e
+'write' + ']' > U+e29c
+'yes' + ']' > U+e09a
+'Zabbai' + ']' > U+e8bd
+'Zair' + ']' > U+e552
+'Zatthu' + ']' > U+e8be
+'Zenan' + ']' > U+e4ab
+'Zikri' + ']' > U+e1f1
+'Zophai' + ']' > U+e4f3
+'Abi Albon' + ']' > U+e7dc
+'Ahoah' + ']' > U+e7e5
+'Almeth' + ']' > U+e4f7
+'Beth Haggan' + ']' > U+e4fb
+'bound' + ']' > U+e25f
+'can' + ']' > U+e124
+'credit' + ']' > U+ebc0
+'depart' + ']' > U+e243
+'destruction' + ']' > U+e141
+'die' + ']' > U+e181
+'eternity' + ']' > U+e252
+'exalt' + ']' > U+e04b
+'false' + ']' > U+e17f
+'fight' + ']' > U+e283
+'great' + ']' > U+e14a
+'ground' + ']' > U+e153
+'Hammon' + ']' > U+e502
+'Hazar Addar' + ']' > U+e4ce
+'heat' + ']' > U+e301
+'Helem' + ']' > U+e7b8
+'insult' + ']' > U+e05b
+'Jehuel' + ']' > U+e7c4
+'Jerimoth' + ']' > U+e682
+'Jude' + ']' > U+e368
+'Kenan' + ']' > U+ec56
+'Kiriath Sepher' + ']' > U+e43e
+'Kun' + ']' > U+e718
+'lawful' + ']' > U+e22f
+'live' + ']' > U+e09f
+'manage' + ']' > U+e137
+'master' + ']' > U+e028
+'meal' + ']' > U+e053
+'news' + ']' > U+e22d
+'order' + ']' > U+ebe7
+'patience' + ']' > U+e16f
+'permit' + ']' > U+e04a
+'proud' + ']' > U+e14b
+'Raamiah' + ']' > U+e8cb
+'read' + ']' > U+e22a
+'reason' + ']' > U+e066
+'rebellion' + ']' > U+e193
+'rest' + ']' > U+e121
+'reveal' + ']' > U+e162
+'revile' + ']' > U+e055
+'Rimmono village' + ']' > U+e53d
+'ripen' + ']' > U+e154
+'said' + ']' > U+e03f
+'saint' + ']' > U+e130
+'scribe' + ']' > U+e12c
+'separate' + ']' > U+e326
+'Seva' + ']' > U+e5ab
+'sexual desire' + ']' > U+e239
+'sinful' + ']' > U+e08f
+'soil' + ']' > U+e15b
+'sojourner' + ']' > U+e158
+'song' + ']' > U+e0e2
+'take' + ']' > U+e088
+'thank' + ']' > U+e20e
+'think opinion' + ']' > U+e06c
+'times' + ']' > U+e049
+'together things' + ']' > U+e108
+'travel' + ']' > U+e381
+'tribulation' + ']' > U+e03e
+'triumph' + ']' > U+eb14
+'vengeance' + ']' > U+ed0c
+'want' + ']' > U+e020
+'way' + ']' > U+e23c
+'wealthy' + ']' > U+e029
+'wood' + ']' > U+e244
+'Word of God' + ']' > U+e22c
+'worry' + ']' > U+e056
+'worthy' + ']' > U+e09b
+'Uel' + ']' > U+e7dc
+'imprisoned' + ']' > U+e25f
+'worship' + ']' > U+e04b
+'lead astray' + ']' > U+e17f
+'space' + ']' > U+e153
+'Naphtali village' + ']' > U+e502
+'ruler' + ']' > U+e028
+'parable' + ']' > U+e22d
+'therefore' + ']' > U+e066
+'reject' + ']' > U+e193
+'speak' + ']' > U+e03f
+'split' + ']' > U+e326
+'Shavsha' + ']' > U+e5ab
+'unrighteous' + ']' > U+e08f
+'think wonder' + ']' > U+e06c
+'trip' + ']' > U+e381
+'will' + ']' > U+e020
+'lie' + ']' > U+e17f
+'report' + ']' > U+e22d
+'unrighteousness' + ']' > U+e08f
+'thought' + ']' > U+e06c
