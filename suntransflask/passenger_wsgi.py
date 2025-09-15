@@ -1,11 +1,10 @@
-from app import application
-#from suntransflask.wsgi import application
+import sys
+import os
 
-#import imp
-#import os
-#import sys
+# Add the current directory (project root) to Python path
+project_home = os.path.dirname(os.path.abspath(__file__))
+if project_home not in sys.path:
+    sys.path.insert(0, project_home)
 
-#sys.path.insert(0, os.path.dirname(__file__))
 
-#wsgi = imp.load_source('wsgi', 'passenger_wsgi.py')
-#application = wsgi.application
+from app import app as application
