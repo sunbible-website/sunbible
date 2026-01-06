@@ -1,9 +1,14 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/$USER/public_html/
-    - /bin/cp -R public_html/* $DEPLOYPATH
-    - /bin/cp -R suntransflask $DEPLOYPATH
-    - /bin/cp passenger_wsgi.py $DEPLOYPATH
-    # - /bin/cp requirements.txt $DEPLOYPATH
-    # - /usr/bin/pip install -r $DEPLOYPATH/requirements.txt
+    # 1. Deploy App Code to Production App Root
+    - export APPROOT=/home/suntrans/suntransflask/
+    - /bin/cp -R suntransflask/* $APPROOT
+    - /bin/cp passenger_wsgi.py $APPROOT
+
+    # 2. Deploy Static Files to Web Root
+    - export WEBROOT=/home/suntrans/public_html/
+    - /bin/cp -R public_html/* $WEBROOT
+    
+    # Note: If your app structure differs, ensure these paths match your folder layout.
+    # The 'suntransflask' source folder assumes your repo has a folder named 'suntransflask' containing app code.
