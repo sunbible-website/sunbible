@@ -4,7 +4,7 @@ deployment:
     # 1. Deploy App Code to Production App Root
     - export APPROOT=/home/suntrans/suntransflask/
     - /bin/cp -R suntransflask/* $APPROOT
-    - /bin/cp passenger_wsgi.py $APPROOT
+
 
     # 2. Deploy Static Files to Web Root
     - export WEBROOT=/home/suntrans/public_html/
