@@ -35,10 +35,13 @@
 	$(function() {
 		$(document).on('click', 'a.page-scroll', function(event) {
 			var $anchor = $(this);
-			$('html, body').stop().animate({
-				scrollTop: $($anchor.attr('href')).offset().top
-			}, 600, 'easeInOutExpo');
-			event.preventDefault();
+            var href = $anchor.attr('href');
+            if (href && href !== '#' && $(href).length) {
+                $('html, body').stop().animate({
+                    scrollTop: $(href).offset().top
+                }, 600, 'easeInOutExpo');
+                event.preventDefault();
+            }
 		});
 	});
 
