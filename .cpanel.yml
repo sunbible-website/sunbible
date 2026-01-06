@@ -1,0 +1,9 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/$USER/public_html/
+    - /bin/cp -R public_html/* $DEPLOYPATH
+    - /bin/cp -R suntransflask $DEPLOYPATH
+    - /bin/cp passenger_wsgi.py $DEPLOYPATH
+    # - /bin/cp requirements.txt $DEPLOYPATH
+    # - /usr/bin/pip install -r $DEPLOYPATH/requirements.txt
