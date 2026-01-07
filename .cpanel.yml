@@ -1,14 +1,14 @@
 ---
 deployment:
   tasks:
+    # 0. SAFETY NET: Backup BOTH App Logic and Public HTML
+    - /bin/tar -czf /home/suntrans/backups/full_backup_$(date +%Y%m%d_%H%M%S).tar.gz /home/suntrans/suntransflask /home/suntrans/public_html
+
     # 1. Deploy App Code to Production App Root
     - export APPROOT=/home/suntrans/suntransflask/
-    - /bin/cp -R suntransflask/* $APPROOT
+    - /bin/cp -R /home/suntrans/sunbible_git/suntransflask/* $APPROOT
 
 
     # 2. Deploy Static Files to Web Root
     - export WEBROOT=/home/suntrans/public_html/
-    - /bin/cp -R public_html/* $WEBROOT
-    
-    # Note: If your app structure differs, ensure these paths match your folder layout.
-    # The 'suntransflask' source folder assumes your repo has a folder named 'suntransflask' containing app code.
+    - /bin/cp -R /home/suntrans/sunbible_git/public_html/* $WEBROOT
