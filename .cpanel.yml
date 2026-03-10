@@ -1,9 +1,6 @@
 ---
 deployment:
   tasks:
-    # 0. SAFETY NET: Backup BOTH App Logic and Public HTML
-    - /bin/tar -czf /home/suntrans/backups/full_backup_$(date +%Y%m%d_%H%M%S).tar.gz /home/suntrans/suntransflask /home/suntrans/public_html
-
     # 1. Deploy App Code to Production App Root
     - export APPROOT=/home/suntrans/suntransflask/
     - /bin/cp -R /home/suntrans/sunbible_git/suntransflask/* $APPROOT
