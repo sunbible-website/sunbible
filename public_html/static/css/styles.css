@@ -1627,7 +1627,8 @@ input[type='checkbox'] {
 	display: inline-block;
 	margin-bottom: 0.125rem;
 	color: #14bf98;
-	font: 600 2.5rem/3.0rem "Montserrat", sans-serif;
+	font: 600 2.3rem/3.0rem "Montserrat", sans-serif;
+	font-variant-numeric: tabular-nums;
 	vertical-align: middle;
 }
 
