@@ -9,4 +9,4 @@ if project_home not in sys.path:
 
 os.chdir(project_home)
 
-from app import app as application
+from app import application
